@@ -18,3 +18,13 @@
     670.01.15 = { birth=yes }
     723.09.09 = { death=yes }
 }
+3 = {
+    name=Harold
+    dynasty=752
+  
+    religion=peteran_theodarity
+    culture=lyngarian
+  
+    670.01.15 = { birth=yes }
+    723.09.09 = { death=yes }
+}
