@@ -42,4 +42,44 @@ subtorrian = {
 		modifier = default_culture_modifier
 	}
 
+	cyvodic = {
+		graphical_cultures = { westerngfx }
+
+		color = { 1 0.6 0.4 }
+
+		male_names = {
+			Lucijan
+		}
+
+		female_names = {
+			Female-Lucijan
+		}
+
+		from_dynasty_prefix = "of "
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
+	mijinite = {
+		graphical_cultures = { westerngfx }
+
+		color = { 1 0.6 0.4 }
+
+		male_names = {
+			Lucijan
+		}
+
+		female_names = {
+			Female-Lucijan
+		}
+
+		from_dynasty_prefix = "of "
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
 }
