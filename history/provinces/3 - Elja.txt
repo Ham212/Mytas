@@ -1,0 +1,17 @@
+# c_elja
+
+# County Title
+title = c_elja
+
+# Settlements
+max_settlements = 3
+
+b_cattala = castle
+b_elja = city
+#b_nashane = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

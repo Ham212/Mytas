@@ -1,0 +1,17 @@
+# c_alzen
+
+# County Title
+title = c_alzen
+
+# Settlements
+max_settlements = 3
+
+b_respa = castle
+#b_sigesar = city
+#b_gouththas = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

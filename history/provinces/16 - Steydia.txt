@@ -1,0 +1,17 @@
+# c_steydia
+
+# County Title
+title = c_steydia
+
+# Settlements
+max_settlements = 3
+
+b_avrentii = castle
+#b_stedyyo = city
+#b_castela = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

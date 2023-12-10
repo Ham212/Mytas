@@ -1,0 +1,18 @@
+# c_cansk
+
+# County Title
+title = c_cansk
+
+# Settlements
+max_settlements = 4
+
+b_czansk = castle
+b_ansis = city
+#b_alath = temple
+#b_thoris = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

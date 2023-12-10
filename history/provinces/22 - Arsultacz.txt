@@ -1,0 +1,18 @@
+# c_arsultacz
+
+# County Title
+title = c_arsultacz
+
+# Settlements
+max_settlements = 4
+
+b_arsultacz = castle
+b_dudsta = city
+b_barrita = temple
+#b_zistovo = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

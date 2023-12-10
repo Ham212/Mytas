@@ -1,0 +1,18 @@
+# c_upper_kastiid
+
+# County Title
+title = c_upper_kastiid
+
+# Settlements
+max_settlements = 4
+
+b_alzigon = castle
+b_lymai = city
+b_castellarsa = temple
+#b_malacia = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

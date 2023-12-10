@@ -1,0 +1,17 @@
+# c_metel
+
+# County Title
+title = c_metel
+
+# Settlements
+max_settlements = 3
+
+b_metel = castle
+b_rebin = city
+#b_duve = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

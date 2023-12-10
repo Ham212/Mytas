@@ -1,0 +1,17 @@
+# c_mercania
+
+# County Title
+title = c_mercania
+
+# Settlements
+max_settlements = 3
+
+b_cativa = castle
+b_nwotzkia = city
+#b_thidrek = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

@@ -1,0 +1,9 @@
+# k_lucija
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+800.1.1={
+	liege=k_lucija
+}
+1060.1.1={holder=2}

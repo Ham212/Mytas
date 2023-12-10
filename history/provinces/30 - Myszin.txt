@@ -1,0 +1,17 @@
+# c_myszin
+
+# County Title
+title = c_myszin
+
+# Settlements
+max_settlements = 3
+
+b_vigas = castle
+#b_ablab = city
+#b_fretel = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

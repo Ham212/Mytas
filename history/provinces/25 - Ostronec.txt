@@ -1,0 +1,17 @@
+# c_ostronec
+
+# County Title
+title = c_ostronec
+
+# Settlements
+max_settlements = 3
+
+b_kedska = castle
+b_ostronec = city
+#b_lebezan = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

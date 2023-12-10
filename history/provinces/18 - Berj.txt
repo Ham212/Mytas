@@ -1,0 +1,16 @@
+# c_berj
+
+# County Title
+title = c_berj
+
+# Settlements
+max_settlements = 2
+
+b_berj = castle
+#b_ancobia = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

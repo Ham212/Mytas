@@ -1,0 +1,18 @@
+# c_avirias
+
+# County Title
+title = c_avirias
+
+# Settlements
+max_settlements = 4
+
+b_avirias = castle
+b_salegno = city
+#b_edetero = temple
+#b_macedora = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

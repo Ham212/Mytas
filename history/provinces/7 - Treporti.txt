@@ -1,0 +1,18 @@
+# c_treporti
+
+# County Title
+title = c_treporti
+
+# Settlements
+max_settlements = 4
+
+b_treporti = castle
+b_aoric = city
+b_veduco = temple
+#b_sunnia = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

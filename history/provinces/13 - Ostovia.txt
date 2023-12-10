@@ -1,0 +1,17 @@
+# c_ostovia
+
+# County Title
+title = c_ostovia
+
+# Settlements
+max_settlements = 3
+
+b_osatavi = castle
+b_espiraes = city
+#b_sovia = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

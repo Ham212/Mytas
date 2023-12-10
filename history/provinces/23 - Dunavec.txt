@@ -1,0 +1,18 @@
+# c_dunavec
+
+# County Title
+title = c_dunavec
+
+# Settlements
+max_settlements = 4
+
+b_dunavec = castle
+b_ruclaw = city
+#b_tudna = temple
+#b_soroga = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

@@ -1,0 +1,17 @@
+# c_strazpina
+
+# County Title
+title = c_strazpina
+
+# Settlements
+max_settlements = 3
+
+b_mihaihoi = castle
+b_sabin = city
+#b_handve = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

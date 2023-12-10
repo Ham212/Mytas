@@ -1,0 +1,19 @@
+# c_zanic
+
+# County Title
+title = c_zanic
+
+# Settlements
+max_settlements = 5
+
+b_zanic = castle
+b_cisnalonta = city
+b_leva = temple
+#b_szilasz = castle
+#b_zanic_2 = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

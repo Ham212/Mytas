@@ -1,0 +1,18 @@
+# c_cota
+
+# County Title
+title = c_cota
+
+# Settlements
+max_settlements = 4
+
+b_zalin = castle
+b_cota = city
+#b_halina = temple
+#b_strako = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

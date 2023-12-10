@@ -1,0 +1,16 @@
+# c_yezras
+
+# County Title
+title = c_yezras
+
+# Settlements
+max_settlements = 2
+
+b_yezras = castle
+#b_ardzruni = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

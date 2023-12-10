@@ -1,0 +1,19 @@
+# c_leyre
+
+# County Title
+title = c_leyre
+
+# Settlements
+max_settlements = 5
+
+b_leyre = castle
+b_nalicia = city
+b_theodem = temple
+#b_erar = castle
+#b_osuin = city
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

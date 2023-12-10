@@ -1,0 +1,17 @@
+# c_adosinda
+
+# County Title
+title = c_adosinda
+
+# Settlements
+max_settlements = 3
+
+b_adosinda = castle
+b_cniva = city
+#b_brandila = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

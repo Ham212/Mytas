@@ -1,0 +1,18 @@
+# c_asterilla
+
+# County Title
+title = c_asterilla
+
+# Settlements
+max_settlements = 4
+
+b_vigeric = castle
+b_paviles = city
+#b_soscay = temple
+#b_valerbella = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

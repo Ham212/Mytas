@@ -1,0 +1,18 @@
+# c_bobrozan
+
+# County Title
+title = c_bobrozan
+
+# Settlements
+max_settlements = 4
+
+b_szillava = castle
+b_bobrozan = city
+#b_aninic = temple
+#b_sikcsa = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

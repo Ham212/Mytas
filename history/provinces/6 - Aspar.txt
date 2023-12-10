@@ -1,0 +1,17 @@
+# c_aspar
+
+# County Title
+title = c_aspar
+
+# Settlements
+max_settlements = 3
+
+b_aryyat = castle
+b_zamollon = city
+#b_petraia = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

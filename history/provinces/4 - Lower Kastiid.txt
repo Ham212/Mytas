@@ -1,0 +1,17 @@
+# c_lower_kastiid
+
+# County Title
+title = c_lower_kastiid
+
+# Settlements
+max_settlements = 3
+
+b_kastiid = castle
+b_lourta = city
+#b_barcerouca = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

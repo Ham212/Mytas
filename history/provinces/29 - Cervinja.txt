@@ -1,0 +1,18 @@
+# c_cervinja
+
+# County Title
+title = c_cervinja
+
+# Settlements
+max_settlements = 4
+
+b_cervinja = castle
+b_prejov = city
+#b_dubava = temple
+#b_zilne = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

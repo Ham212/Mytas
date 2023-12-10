@@ -1,0 +1,18 @@
+# c_dalibor
+
+# County Title
+title = c_dalibor
+
+# Settlements
+max_settlements = 4
+
+b_dalibor = castle
+b_brezske = city
+b_vysova = temple
+#b_hloca = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

@@ -1,0 +1,17 @@
+# c_adrezen
+
+# County Title
+title = c_adrezen
+
+# Settlements
+max_settlements = 3
+
+b_naogaon = castle
+#b_droresti = city
+#b_bavica = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

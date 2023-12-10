@@ -1,0 +1,20 @@
+1 = {
+    name=William
+    dynasty=752
+  
+    religion=hindu
+    culture=afghan
+  
+    1027.01.15 = { birth=yes }
+    1097.09.09 = { death=yes }
+}
+2 = {
+    name=Henri
+    dynasty=752
+  
+    religion=hindu
+    culture=afghan
+  
+    1027.01.15 = { birth=yes }
+    1097.09.09 = { death=yes }
+}

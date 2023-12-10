@@ -1,0 +1,18 @@
+# c_hyrkania
+
+# County Title
+title = c_hyrkania
+
+# Settlements
+max_settlements = 4
+
+b_sogaria = castle
+b_alaviv = city
+#b_zaralid = temple
+#b_arnegliscus = castle
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History

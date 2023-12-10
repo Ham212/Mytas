@@ -1,0 +1,17 @@
+# c_altinado
+
+# County Title
+title = c_altinado
+
+# Settlements
+max_settlements = 3
+
+b_nibel = castle
+#b_loussa = city
+#b_casemezia = temple
+
+# Misc
+culture = afghan
+religion = hindu
+
+#History
