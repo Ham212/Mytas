@@ -12,7 +12,7 @@ b_veduco = temple
 #b_sunnia = castle
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

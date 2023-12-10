@@ -11,7 +11,7 @@ b_zamollon = city
 #b_petraia = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

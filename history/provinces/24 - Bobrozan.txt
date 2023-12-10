@@ -12,7 +12,7 @@ b_bobrozan = city
 #b_sikcsa = castle
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

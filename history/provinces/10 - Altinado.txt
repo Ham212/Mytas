@@ -11,7 +11,7 @@ b_nibel = castle
 #b_casemezia = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

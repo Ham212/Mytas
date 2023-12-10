@@ -11,7 +11,7 @@ b_sabin = city
 #b_handve = temple
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

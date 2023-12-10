@@ -12,7 +12,7 @@ b_paviles = city
 #b_valerbella = castle
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

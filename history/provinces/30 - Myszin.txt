@@ -11,7 +11,7 @@ b_vigas = castle
 #b_fretel = temple
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

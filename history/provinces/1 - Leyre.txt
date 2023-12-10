@@ -13,7 +13,7 @@ b_theodem = temple
 #b_osuin = city
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

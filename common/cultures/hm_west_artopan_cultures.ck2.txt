@@ -1,0 +1,45 @@
+subtorrian = {
+	graphical_cultures = { westerngfx }
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+	lucijan = {
+		graphical_cultures = { westerngfx }
+
+		color = { 0.5 0.7 0.1 }
+
+		male_names = {
+			Lucijan
+		}
+
+		female_names = {
+			Female-Lucijan
+		}
+
+		from_dynasty_prefix = "Of"
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
+	lyngarian = {
+		graphical_cultures = { westerngfx }
+
+		color = { 1 0.6 0.4 }
+
+		male_names = {
+			Lucijan
+		}
+
+		female_names = {
+			Female-Lucijan
+		}
+
+		from_dynasty_prefix = "Of"
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
+}

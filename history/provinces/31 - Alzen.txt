@@ -11,7 +11,7 @@ b_respa = castle
 #b_gouththas = temple
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

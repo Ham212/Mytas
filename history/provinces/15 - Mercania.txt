@@ -11,7 +11,7 @@ b_nwotzkia = city
 #b_thidrek = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

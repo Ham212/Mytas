@@ -3,7 +3,7 @@
     dynasty=752
   
     religion=peteran_theodarity
-    culture=afghan
+    culture=lyngarian
   
     1027.01.15 = { birth=yes }
     1097.09.09 = { death=yes }
@@ -13,7 +13,7 @@
     dynasty=752
   
     religion=peteran_theodarity
-    culture=afghan
+    culture=lyngarian
   
     1027.01.15 = { birth=yes }
     1097.09.09 = { death=yes }

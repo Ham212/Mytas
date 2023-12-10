@@ -12,7 +12,7 @@ b_salegno = city
 #b_macedora = castle
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

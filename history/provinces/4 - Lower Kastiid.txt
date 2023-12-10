@@ -11,7 +11,7 @@ b_lourta = city
 #b_barcerouca = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

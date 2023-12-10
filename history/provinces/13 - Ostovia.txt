@@ -11,7 +11,7 @@ b_espiraes = city
 #b_sovia = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

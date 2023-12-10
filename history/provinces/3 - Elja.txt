@@ -11,7 +11,7 @@ b_elja = city
 #b_nashane = temple
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

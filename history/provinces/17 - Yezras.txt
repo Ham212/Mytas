@@ -10,7 +10,7 @@ b_yezras = castle
 #b_ardzruni = city
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

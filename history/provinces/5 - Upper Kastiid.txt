@@ -12,7 +12,7 @@ b_castellarsa = temple
 #b_malacia = castle
 
 # Misc
-culture = afghan
+culture = lyngarian
 religion = peteran_theodarity
 
 #History

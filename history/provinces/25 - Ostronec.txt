@@ -11,7 +11,7 @@ b_ostronec = city
 #b_lebezan = temple
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

@@ -12,7 +12,7 @@ b_cota = city
 #b_strako = castle
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History

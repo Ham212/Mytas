@@ -11,7 +11,7 @@ b_rebin = city
 #b_duve = temple
 
 # Misc
-culture = afghan
+culture = lucijan
 religion = peteran_theodarity
 
 #History
