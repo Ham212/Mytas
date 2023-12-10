@@ -1,0 +1,9 @@
+bm_fall_of_karis = {
+	name = "bm_fall_of_karis"
+	desc = "bm_fall_of_karis_info"
+	date = 712.12.15
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+}
