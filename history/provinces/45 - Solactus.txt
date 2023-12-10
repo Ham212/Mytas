@@ -1,0 +1,20 @@
+# c_solactus
+
+# County Title
+title = c_solactus
+
+# Settlements
+max_settlements = 6
+
+b_solactus = castle
+b_zanclorion = city
+b_kouriraki = temple
+#b_zanclastro = castle
+#b_delatis = city
+#b_nirastro = temple
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

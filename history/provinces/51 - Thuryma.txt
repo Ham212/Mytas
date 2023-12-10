@@ -1,0 +1,18 @@
+# c_thuryma
+
+# County Title
+title = c_thuryma
+
+# Settlements
+max_settlements = 4
+
+b_thuryma = castle
+b_lsomnos = city
+#b_aphea = temple
+#b_naucreucia = castle
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

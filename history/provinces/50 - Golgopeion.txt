@@ -1,0 +1,17 @@
+# c_golgopeion
+
+# County Title
+title = c_golgopeion
+
+# Settlements
+max_settlements = 3
+
+b_golgopeion = castle
+b_lapelea = city
+#b_tenamnus = temple
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

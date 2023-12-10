@@ -2,6 +2,345 @@
 
 
 
+e_aurissos = {
+	color={ 40 64 198 }
+	color2={ 255 255 20 }
+	
+	capital = 44 # c_veigonopole
+	culture = aurissiote
+	
+	k_serres = {
+		color={ 30 74 193 }
+		color2={ 255 255 255 }
+		
+		capital = 44 # c_veigonopole
+		culture = aurissiote
+		
+		c_veigonopole = { # 44
+			color={ 0 104 178 }
+			color2={ 255 255 255 }
+			
+			b_lampsokampos = {
+			}
+			b_veigonopole = {
+			}
+			b_tomegea = {
+			}
+			b_thermynthus = {
+			}
+			b_kerkeion = {
+			}
+			b_amburii = {
+			}
+			b_milesia = {
+			}
+		}
+		c_baroli = { # 53
+			color={ 35 119 175 }
+			color2={ 255 255 255 }
+			
+			b_baroli = {
+			}
+			b_kamarous = {
+			}
+			b_phererae = {
+			}
+		}
+		c_golgopeion = { # 50
+			color={ 20 114 173 }
+			color2={ 255 255 255 }
+			
+			b_golgopeion = {
+			}
+			b_lapelea = {
+			}
+			b_tenamnus = {
+			}
+		}
+		c_latias = { # 49
+			color={ 17 112 175 }
+			color2={ 255 255 255 }
+			
+			b_latias = {
+			}
+			b_cythaca = {
+			}
+			b_karkenai = {
+			}
+			b_lapauros = {
+			}
+		}
+		c_lebidon = { # 52
+			color={ 41 120 173 }
+			color2={ 255 255 255 }
+			
+			b_lebidon = {
+			}
+			b_braurelea = {
+			}
+			b_lamesia = {
+			}
+			b_petsamahos = {
+			}
+		}
+		c_marathos = { # 48
+			color={ 24 116 173 }
+			color2={ 255 255 255 }
+			
+			b_athagas = {
+			}
+			b_marathos = {
+			}
+			b_epidoupoli = {
+			}
+			b_gournoinon = {
+			}
+			b_pantagra = {
+			}
+			b_phasarnassus = {
+			}
+		}
+		c_solactus = { # 45
+			color={ 7 108 175 }
+			color2={ 255 255 255 }
+			
+			b_solactus = {
+			}
+			b_zanclorion = {
+			}
+			b_kouriraki = {
+			}
+			b_zanclastro = {
+			}
+			b_delatis = {
+			}
+			b_nirastro = {
+			}
+		}
+		c_thuryma = { # 51
+			color={ 38 119 173 }
+			color2={ 255 255 255 }
+			
+			b_thuryma = {
+			}
+			b_lsomnos = {
+			}
+			b_aphea = {
+			}
+			b_naucreucia = {
+			}
+		}
+		c_tripoinion = { # 46
+			color={ 10 109 175 }
+			color2={ 255 255 255 }
+			
+			b_tripoinion = {
+			}
+			b_abdeum = {
+			}
+			b_rhodampos = {
+			}
+			b_corceiros = {
+			}
+			b_iasyma = {
+			}
+		}
+		c_vathaistos = { # 47
+			color={ 3 106 175 }
+			color2={ 255 255 255 }
+			
+			b_vathaistos = {
+			}
+			b_odorion = {
+			}
+			b_phocikon = {
+			}
+			b_eleutapolis = {
+			}
+		}
+		d_veigonopole = {
+			color={ 10 94 183 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 44 province_id = 45 province_id = 46 province_id = 47 } }
+				}
+			}
+			capital = 44 # c_veigonopole
+			
+			c_veigonopole = { # 44
+				color={ 0 104 178 }
+				color2={ 255 255 255 }
+				
+				b_lampsokampos = {
+				}
+				b_veigonopole = {
+				}
+				b_tomegea = {
+				}
+				b_thermynthus = {
+				}
+				b_kerkeion = {
+				}
+				b_amburii = {
+				}
+				b_milesia = {
+				}
+			}
+			c_solactus = { # 45
+				color={ 7 108 175 }
+				color2={ 255 255 255 }
+				
+				b_solactus = {
+				}
+				b_zanclorion = {
+				}
+				b_kouriraki = {
+				}
+				b_zanclastro = {
+				}
+				b_delatis = {
+				}
+				b_nirastro = {
+				}
+			}
+			c_tripoinion = { # 46
+				color={ 10 109 175 }
+				color2={ 255 255 255 }
+				
+				b_tripoinion = {
+				}
+				b_abdeum = {
+				}
+				b_rhodampos = {
+				}
+				b_corceiros = {
+				}
+				b_iasyma = {
+				}
+			}
+			c_vathaistos = { # 47
+				color={ 3 106 175 }
+				color2={ 255 255 255 }
+				
+				b_vathaistos = {
+				}
+				b_odorion = {
+				}
+				b_phocikon = {
+				}
+				b_eleutapolis = {
+				}
+			}
+		}
+		d_marathos = {
+			color={ 34 106 178 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 48 province_id = 49 province_id = 50 } }
+				}
+			}
+			capital = 48 # c_marathos
+			
+			c_marathos = { # 48
+				color={ 24 116 173 }
+				color2={ 255 255 255 }
+				
+				b_athagas = {
+				}
+				b_marathos = {
+				}
+				b_epidoupoli = {
+				}
+				b_gournoinon = {
+				}
+				b_pantagra = {
+				}
+				b_phasarnassus = {
+				}
+			}
+			c_golgopeion = { # 50
+				color={ 20 114 173 }
+				color2={ 255 255 255 }
+				
+				b_golgopeion = {
+				}
+				b_lapelea = {
+				}
+				b_tenamnus = {
+				}
+			}
+			c_latias = { # 49
+				color={ 17 112 175 }
+				color2={ 255 255 255 }
+				
+				b_latias = {
+				}
+				b_cythaca = {
+				}
+				b_karkenai = {
+				}
+				b_lapauros = {
+				}
+			}
+		}
+		d_thuryma = {
+			color={ 48 109 178 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 51 province_id = 52 province_id = 53 } }
+				}
+			}
+			capital = 51 # c_thuryma
+			
+			c_thuryma = { # 51
+				color={ 38 119 173 }
+				color2={ 255 255 255 }
+				
+				b_thuryma = {
+				}
+				b_lsomnos = {
+				}
+				b_aphea = {
+				}
+				b_naucreucia = {
+				}
+			}
+			c_baroli = { # 53
+				color={ 35 119 175 }
+				color2={ 255 255 255 }
+				
+				b_baroli = {
+				}
+				b_kamarous = {
+				}
+				b_phererae = {
+				}
+			}
+			c_lebidon = { # 52
+				color={ 41 120 173 }
+				color2={ 255 255 255 }
+				
+				b_lebidon = {
+				}
+				b_braurelea = {
+				}
+				b_lamesia = {
+				}
+				b_petsamahos = {
+				}
+			}
+		}
+	}
+}
 e_carrisia = {
 	color={ 215 198 138 }
 	color2={ 255 255 20 }

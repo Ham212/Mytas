@@ -1,0 +1,19 @@
+# c_tripoinion
+
+# County Title
+title = c_tripoinion
+
+# Settlements
+max_settlements = 5
+
+b_tripoinion = castle
+b_abdeum = city
+#b_rhodampos = temple
+#b_corceiros = castle
+#b_iasyma = city
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_vathaistos
+
+# County Title
+title = c_vathaistos
+
+# Settlements
+max_settlements = 4
+
+b_vathaistos = castle
+b_odorion = city
+#b_phocikon = temple
+#b_eleutapolis = castle
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

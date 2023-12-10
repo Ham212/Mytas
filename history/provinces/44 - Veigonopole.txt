@@ -1,0 +1,21 @@
+# c_veigonopole
+
+# County Title
+title = c_veigonopole
+
+# Settlements
+max_settlements = 7
+
+b_lampsokampos = castle
+b_veigonopole = city
+b_tomegea = temple
+#b_thermynthus = castle
+#b_kerkeion = city
+#b_amburii = temple
+#b_milesia = castle
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

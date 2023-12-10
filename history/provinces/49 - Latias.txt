@@ -1,0 +1,18 @@
+# c_latias
+
+# County Title
+title = c_latias
+
+# Settlements
+max_settlements = 4
+
+b_latias = castle
+b_cythaca = city
+#b_karkenai = temple
+#b_lapauros = castle
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

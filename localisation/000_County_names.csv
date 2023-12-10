@@ -17,6 +17,8 @@ c_avedis;Avedis;Avedis;Avedis;;Avedis;;;;;;;;;x
 c_avedis_adj;Avedisian;;avediser;;;;;;;;;;;x
 c_avirias;Avirias;Avirias;Avirias;;Avirias;;;;;;;;;x
 c_avirias_adj;Aviriasian;;aviriaser;;;;;;;;;;;x
+c_baroli;Baroli;Baroli;Baroli;;Baroli;;;;;;;;;x
+c_baroli_adj;Barolian;;baroler;;;;;;;;;;;x
 c_berj;Berj;Berj;Berj;;Berj;;;;;;;;;x
 c_berj_adj;Berjian;;berjer;;;;;;;;;;;x
 c_bobrozan;Bobrozan;Bobrozan;Bobrozan;;Bobrozan;;;;;;;;;x
@@ -37,16 +39,24 @@ c_dzaghig;Dzaghig;Dzaghig;Dzaghig;;Dzaghig;;;;;;;;;x
 c_dzaghig_adj;Dzaghigian;;dzaghiger;;;;;;;;;;;x
 c_elja;Elja;Elja;Elja;;Elja;;;;;;;;;x
 c_elja_adj;Eljan;;eljer;;;;;;;;;;;x
+c_golgopeion;Golgopeion;Golgopeion;Golgopeion;;Golgopeion;;;;;;;;;x
+c_golgopeion_adj;Golgopeionian;;golgopeioner;;;;;;;;;;;x
 c_gomidas;Gomidas;Gomidas;Gomidas;;Gomidas;;;;;;;;;x
 c_gomidas_adj;Gomidasian;;gomidaser;;;;;;;;;;;x
 c_hyrkania;Hyrkania;Hyrkania;Hyrkania;;Hyrkania;;;;;;;;;x
 c_hyrkania_adj;Hyrkanian;;hyrkaner;;;;;;;;;;;x
 c_khosrova;Khosrova;Khosrova;Khosrova;;Khosrova;;;;;;;;;x
 c_khosrova_adj;Khosrovan;;khosrover;;;;;;;;;;;x
+c_latias;Latias;Latias;Latias;;Latias;;;;;;;;;x
+c_latias_adj;Latiasian;;latiaser;;;;;;;;;;;x
+c_lebidon;Lebidon;Lebidon;Lebidon;;Lebidon;;;;;;;;;x
+c_lebidon_adj;Lebidonian;;lebidoner;;;;;;;;;;;x
 c_leyre;Leyre;Leyre;Leyre;;Leyre;;;;;;;;;x
 c_leyre_adj;Leyrean;;leyrer;;;;;;;;;;;x
 c_lower_kastiid;Lower Kastiid;Lower Kastiid;Lower Kastiid;;Lower Kastiid;;;;;;;;;x
 c_lower_kastiid_adj;Lower Kastiidian;;Lower Kastiider;;;;;;;;;;;x
+c_marathos;Marathos;Marathos;Marathos;;Marathos;;;;;;;;;x
+c_marathos_adj;Marathosian;;marathoser;;;;;;;;;;;x
 c_marut;Marut;Marut;Marut;;Marut;;;;;;;;;x
 c_marut_adj;Marutian;;maruter;;;;;;;;;;;x
 c_mercania;Mercania;Mercania;Mercania;;Mercania;;;;;;;;;x
@@ -67,16 +77,26 @@ c_rilkymet;Rilkymet;Rilkymet;Rilkymet;;Rilkymet;;;;;;;;;x
 c_rilkymet_adj;Rilkymetian;;rilkymeter;;;;;;;;;;;x
 c_sapra;Sapra;Sapra;Sapra;;Sapra;;;;;;;;;x
 c_sapra_adj;Sapran;;saprer;;;;;;;;;;;x
+c_solactus;Solactus;Solactus;Solactus;;Solactus;;;;;;;;;x
+c_solactus_adj;Solactusian;;solactuser;;;;;;;;;;;x
 c_stepanya;Stepanya;Stepanya;Stepanya;;Stepanya;;;;;;;;;x
 c_stepanya_adj;Stepanyan;;stepaner;;;;;;;;;;;x
 c_steydia;Steydia;Steydia;Steydia;;Steydia;;;;;;;;;x
 c_steydia_adj;Steydian;;steyder;;;;;;;;;;;x
 c_strazpina;Strazpina;Strazpina;Strazpina;;Strazpina;;;;;;;;;x
 c_strazpina_adj;Strazpinan;;strazpiner;;;;;;;;;;;x
+c_thuryma;Thuryma;Thuryma;Thuryma;;Thuryma;;;;;;;;;x
+c_thuryma_adj;Thuryman;;thurymer;;;;;;;;;;;x
 c_treporti;Treporti;Treporti;Treporti;;Treporti;;;;;;;;;x
 c_treporti_adj;Treportian;;treporter;;;;;;;;;;;x
+c_tripoinion;Tripoinion;Tripoinion;Tripoinion;;Tripoinion;;;;;;;;;x
+c_tripoinion_adj;Tripoinionian;;tripoinioner;;;;;;;;;;;x
 c_upper_kastiid;Upper Kastiid;Upper Kastiid;Upper Kastiid;;Upper Kastiid;;;;;;;;;x
 c_upper_kastiid_adj;Upper Kastiidian;;Upper Kastiider;;;;;;;;;;;x
+c_vathaistos;Vathaistos;Vathaistos;Vathaistos;;Vathaistos;;;;;;;;;x
+c_vathaistos_adj;Vathaistosian;;vathaistoser;;;;;;;;;;;x
+c_veigonopole;Veigonopole;Veigonopole;Veigonopole;;Veigonopole;;;;;;;;;x
+c_veigonopole_adj;Veigonopolean;;veigonopoler;;;;;;;;;;;x
 c_yehorivka;Yehorivka;Yehorivka;Yehorivka;;Yehorivka;;;;;;;;;x
 c_yehorivka_adj;Yehorivkan;;yehorivker;;;;;;;;;;;x
 c_yezras;Yezras;Yezras;Yezras;;Yezras;;;;;;;;;x

@@ -1,0 +1,17 @@
+# c_baroli
+
+# County Title
+title = c_baroli
+
+# Settlements
+max_settlements = 3
+
+b_baroli = castle
+#b_kamarous = city
+#b_phererae = temple
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

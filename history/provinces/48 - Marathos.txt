@@ -1,0 +1,20 @@
+# c_marathos
+
+# County Title
+title = c_marathos
+
+# Settlements
+max_settlements = 6
+
+b_athagas = castle
+b_marathos = city
+#b_epidoupoli = temple
+#b_gournoinon = castle
+#b_pantagra = city
+#b_phasarnassus = temple
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History

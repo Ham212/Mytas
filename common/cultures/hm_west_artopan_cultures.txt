@@ -102,4 +102,24 @@ subtorrian = {
 		modifier = default_culture_modifier
 	}
 
+	aurissiote = {
+		graphical_cultures = { westerngfx }
+
+		color = { 0.5 0.4 0.9 }
+
+		male_names = {
+			Richard
+		}
+
+		female_names = {
+			Richard
+		}
+
+		from_dynasty_prefix = "of "
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
 }

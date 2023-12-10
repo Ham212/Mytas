@@ -1,0 +1,18 @@
+# c_lebidon
+
+# County Title
+title = c_lebidon
+
+# Settlements
+max_settlements = 4
+
+b_lebidon = castle
+#b_braurelea = city
+#b_lamesia = temple
+#b_petsamahos = castle
+
+# Misc
+culture = aurissiote
+religion = peteran_theodarity
+
+#History
