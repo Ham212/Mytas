@@ -11,6 +11,6 @@ b_berj = castle
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

@@ -15,6 +15,6 @@ b_varpavarda = temple
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

@@ -12,6 +12,6 @@ b_respa = castle
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

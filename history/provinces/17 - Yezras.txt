@@ -11,6 +11,6 @@ b_yezras = castle
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

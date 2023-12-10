@@ -12,6 +12,6 @@ b_nibel = castle
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

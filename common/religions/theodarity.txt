@@ -1,0 +1,90 @@
+theodarity_group = {
+	has_coa_on_barony_only = no
+	graphical_culture = norsegfx
+	playable = yes
+	hostile_within_group = yes
+
+	ai_convert_same_group = 2
+	ai_convert_other_group = 0
+	ai_fabricate_claims = yes
+
+	color = { 0.8 0.75 0.6 } 
+
+	interface_skin = { pagan_interface }
+
+	peteran_theodarity = {
+		graphical_culture = norsegfx
+		secondary_event_pictures = norse_pagan
+		alternate_start = { always = no }
+
+		icon = 1
+
+		ai_convert_other_group = 2
+
+		color = { 0.8 0.75 0.6 }
+
+		high_god_name = peteran_high_god
+		
+		evil_god_names = {
+			peteran_evil_god
+		}
+
+		crusade_name = peteran_crusade_name
+		scripture_name = peteran_scripture_name
+		priest_title = peteran_priest_title
+
+		priests_can_marry = no
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+
+		short_reign_opinion_year_mult = 1.25
+
+		aggression = 1
+
+		religious_clothing_head = 1
+		religious_clothing_priest = 1
+
+		## intermarry = 
+
+		allow_in_ruler_designer = no
+
+	}
+
+	bogovinist_theodarity = {
+		graphical_culture = norsegfx
+		secondary_event_pictures = norse_pagan
+		alternate_start = { always = no }
+
+		icon = 1
+
+		ai_convert_other_group = 2
+
+		color = { 0.8 0.75 0.6 }
+
+		high_god_name = peteran_high_god
+
+		evil_god_names = {
+			peteran_evil_god
+		}
+
+		crusade_name = peteran_crusade_name
+		scripture_name = peteran_scripture_name
+		priest_title = peteran_priest_title
+
+		priests_can_marry = no
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+
+		short_reign_opinion_year_mult = 1.25
+
+		aggression = 1
+
+		religious_clothing_head = 1
+		religious_clothing_priest = 1
+
+		## intermarry = 
+
+		allow_in_ruler_designer = no
+		
+	}
+}

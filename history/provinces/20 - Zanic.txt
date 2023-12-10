@@ -14,6 +14,6 @@ b_leva = temple
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

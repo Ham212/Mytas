@@ -13,6 +13,6 @@ b_bobrozan = city
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

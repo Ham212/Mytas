@@ -14,6 +14,6 @@ b_theodem = temple
 
 # Misc
 culture = afghan
-religion = hindu
+religion = peteran_theodarity
 
 #History

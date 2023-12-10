@@ -1,6 +1,6 @@
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
-
+## Lucija ##
 
 k_lucija = {
 	color={ 183 3 48 }
@@ -12,6 +12,9 @@ k_lucija = {
 	c_rilkymet = { # 19
 		color={ 153 33 33 }
 		color2={ 255 255 255 }
+
+		holy_site = peteran_theodarity
+		holy_site = bogovinist_theodarity
 		
 		b_komaszice = {
 		}
@@ -29,6 +32,9 @@ k_lucija = {
 	c_adrezen = { # 28
 		color={ 153 76 76 }
 		color2={ 255 255 255 }
+
+		holy_site = peteran_theodarity
+		holy_site = bogovinist_theodarity
 		
 		b_naogaon = {
 		}
@@ -40,6 +46,9 @@ k_lucija = {
 	c_alzen = { # 31
 		color={ 153 45 45 }
 		color2={ 255 255 255 }
+
+		holy_site = peteran_theodarity
+		holy_site = bogovinist_theodarity
 		
 		b_respa = {
 		}
@@ -51,6 +60,9 @@ k_lucija = {
 	c_arsultacz = { # 22
 		color={ 153 39 39 }
 		color2={ 255 255 255 }
+
+		holy_site = peteran_theodarity
+		holy_site = bogovinist_theodarity
 		
 		b_arsultacz = {
 		}
@@ -64,6 +76,9 @@ k_lucija = {
 	c_bobrozan = { # 24
 		color={ 153 67 67 }
 		color2={ 255 255 255 }
+
+		holy_site = peteran_theodarity
+		holy_site = bogovinist_theodarity
 		
 		b_szillava = {
 		}
@@ -388,6 +403,9 @@ k_lucija = {
 		}
 	}
 }
+
+## Lyngaria ##
+
 k_lyngaria = {
 	color={ 225 188 143 }
 	color2={ 255 255 255 }
@@ -685,4 +703,34 @@ k_lyngaria = {
 			}
 		}
 	}
+}
+
+d_peteran_theodarity = {
+	color = { 235 218 155 }
+	color2 = { 235 218 155 }
+
+	capital = 12 #dalibor
+
+	title = "peteran_theodarity_pope"
+
+	creation_requires_capital = yes
+
+	allow = {
+		religion = peteran_theodarity
+		num_of_holy_sites = 3
+		piety = 5000
+	}
+
+	short_name = yes
+
+	landless = yes
+
+	dignity = 100
+
+	controls_religion = peteran_theodarity
+
+	religion = peteran_theodarity
+
+	dynasty_title_names = no
+
 }

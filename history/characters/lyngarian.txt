@@ -2,7 +2,7 @@
     name=William
     dynasty=752
   
-    religion=hindu
+    religion=peteran_theodarity
     culture=afghan
   
     1027.01.15 = { birth=yes }
@@ -12,7 +12,7 @@
     name=Henri
     dynasty=752
   
-    religion=hindu
+    religion=peteran_theodarity
     culture=afghan
   
     1027.01.15 = { birth=yes }
