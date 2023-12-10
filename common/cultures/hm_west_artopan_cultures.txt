@@ -85,7 +85,7 @@ subtorrian = {
 	martirosyan = {
 		graphical_cultures = { westerngfx }
 
-		color = { 1 0.6 0.4 }
+		color = { 0.3 0.7 0.7 }
 
 		male_names = {
 			Richard
