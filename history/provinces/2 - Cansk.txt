@@ -12,7 +12,7 @@ b_ansis = city
 #b_thoris = castle
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

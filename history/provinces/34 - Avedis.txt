@@ -1,0 +1,16 @@
+# c_avedis
+
+# County Title
+title = c_avedis
+
+# Settlements
+max_settlements = 2
+
+b_avedis = castle
+#b_fanoos = city
+
+# Misc
+culture = martirosyan
+religion = peteran_theodarity
+
+#History

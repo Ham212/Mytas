@@ -1,0 +1,18 @@
+# c_sapra
+
+# County Title
+title = c_sapra
+
+# Settlements
+max_settlements = 4
+
+b_sapra = castle
+b_yeghiaz = city
+#b_kostoy = temple
+#b_panos = castle
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History

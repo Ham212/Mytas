@@ -11,7 +11,7 @@ b_vigas = castle
 #b_fretel = temple
 
 # Misc
-culture = lucijan
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

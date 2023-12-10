@@ -12,7 +12,7 @@ b_alaviv = city
 #b_arnegliscus = castle
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

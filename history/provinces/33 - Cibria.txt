@@ -1,0 +1,17 @@
+# c_cibria
+
+# County Title
+title = c_cibria
+
+# Settlements
+max_settlements = 3
+
+b_demir = castle
+#b_trdaty = city
+#b_balik = temple
+
+# Misc
+culture = martirosyan
+religion = peteran_theodarity
+
+#History

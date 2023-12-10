@@ -10,7 +10,7 @@ b_yezras = castle
 #b_ardzruni = city
 
 # Misc
-culture = lyngarian
+culture = martirosyan
 religion = peteran_theodarity
 
 #History

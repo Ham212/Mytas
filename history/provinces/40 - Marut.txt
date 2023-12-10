@@ -1,0 +1,16 @@
+# c_marut
+
+# County Title
+title = c_marut
+
+# Settlements
+max_settlements = 2
+
+b_marut = castle
+#b_ishkhan = city
+
+# Misc
+culture = martirosyan
+religion = peteran_theodarity
+
+#History

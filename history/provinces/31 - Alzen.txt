@@ -11,7 +11,7 @@ b_respa = castle
 #b_gouththas = temple
 
 # Misc
-culture = lucijan
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

@@ -10,7 +10,7 @@ b_berj = castle
 #b_ancobia = city
 
 # Misc
-culture = lyngarian
+culture = martirosyan
 religion = peteran_theodarity
 
 #History

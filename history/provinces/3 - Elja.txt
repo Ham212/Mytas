@@ -7,7 +7,7 @@ title = c_elja
 max_settlements = 3
 
 b_cattala = castle
-b_elja = city
+#b_elja = city
 #b_nashane = temple
 
 # Misc

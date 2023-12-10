@@ -1,0 +1,17 @@
+# c_gomidas
+
+# County Title
+title = c_gomidas
+
+# Settlements
+max_settlements = 3
+
+b_galtsiya = castle
+b_muratin = city
+#b_aviet = temple
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History

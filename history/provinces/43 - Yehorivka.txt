@@ -1,0 +1,17 @@
+# c_yehorivka
+
+# County Title
+title = c_yehorivka
+
+# Settlements
+max_settlements = 3
+
+b_yehorivka = castle
+#b_igitya = city
+#b_gorgodia = temple
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History

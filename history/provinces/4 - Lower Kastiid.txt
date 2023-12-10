@@ -7,11 +7,11 @@ title = c_lower_kastiid
 max_settlements = 3
 
 b_kastiid = castle
-b_lourta = city
+#b_lourta = city
 #b_barcerouca = temple
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

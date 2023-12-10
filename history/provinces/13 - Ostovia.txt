@@ -7,11 +7,11 @@ title = c_ostovia
 max_settlements = 3
 
 b_osatavi = castle
-b_espiraes = city
+#b_espiraes = city
 #b_sovia = temple
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

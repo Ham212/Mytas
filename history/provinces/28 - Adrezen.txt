@@ -11,7 +11,7 @@ b_naogaon = castle
 #b_bavica = temple
 
 # Misc
-culture = lucijan
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

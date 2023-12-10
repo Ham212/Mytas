@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_arsultacz = castle
 b_dudsta = city
-b_barrita = temple
+#b_barrita = temple
 #b_zistovo = castle
 
 # Misc

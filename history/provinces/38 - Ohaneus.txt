@@ -1,0 +1,17 @@
+# c_ohaneus
+
+# County Title
+title = c_ohaneus
+
+# Settlements
+max_settlements = 3
+
+b_ohaneus = castle
+#b_rashteti = city
+#b_monia = temple
+
+# Misc
+culture = cyvodic
+religion = peteran_theodarity
+
+#History

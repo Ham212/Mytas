@@ -11,7 +11,7 @@ b_nibel = castle
 #b_casemezia = temple
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

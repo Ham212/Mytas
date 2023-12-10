@@ -1,0 +1,17 @@
+# c_stepanya
+
+# County Title
+title = c_stepanya
+
+# Settlements
+max_settlements = 3
+
+b_stepanya = castle
+b_hovsep = city
+#b_mardir = temple
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History

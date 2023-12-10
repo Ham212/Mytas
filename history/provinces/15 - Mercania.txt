@@ -7,11 +7,11 @@ title = c_mercania
 max_settlements = 3
 
 b_cativa = castle
-b_nwotzkia = city
+#b_nwotzkia = city
 #b_thidrek = temple
 
 # Misc
-culture = lyngarian
+culture = cyvodic
 religion = peteran_theodarity
 
 #History

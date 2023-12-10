@@ -7,7 +7,7 @@ title = c_cota
 max_settlements = 4
 
 b_zalin = castle
-b_cota = city
+#b_cota = city
 #b_halina = temple
 #b_strako = castle
 

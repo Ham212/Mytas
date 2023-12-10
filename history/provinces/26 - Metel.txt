@@ -7,7 +7,7 @@ title = c_metel
 max_settlements = 3
 
 b_metel = castle
-b_rebin = city
+#b_rebin = city
 #b_duve = temple
 
 # Misc

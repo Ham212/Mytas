@@ -1,0 +1,17 @@
+# c_dzaghig
+
+# County Title
+title = c_dzaghig
+
+# Settlements
+max_settlements = 3
+
+b_ekizi = castle
+b_galinya = city
+#b_tarpin = temple
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History

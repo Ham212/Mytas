@@ -1,0 +1,17 @@
+# c_khosrova
+
+# County Title
+title = c_khosrova
+
+# Settlements
+max_settlements = 3
+
+b_getica = castle
+b_ricimer = city
+#b_athalar = temple
+
+# Misc
+culture = cyvodic
+religion = peteran_theodarity
+
+#History

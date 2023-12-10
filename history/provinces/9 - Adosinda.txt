@@ -7,7 +7,7 @@ title = c_adosinda
 max_settlements = 3
 
 b_adosinda = castle
-b_cniva = city
+#b_cniva = city
 #b_brandila = temple
 
 # Misc

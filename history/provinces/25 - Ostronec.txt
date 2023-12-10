@@ -7,7 +7,7 @@ title = c_ostronec
 max_settlements = 3
 
 b_kedska = castle
-b_ostronec = city
+#b_ostronec = city
 #b_lebezan = temple
 
 # Misc

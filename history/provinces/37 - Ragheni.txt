@@ -1,0 +1,16 @@
+# c_ragheni
+
+# County Title
+title = c_ragheni
+
+# Settlements
+max_settlements = 2
+
+b_ojagh = castle
+#b_barsa = city
+
+# Misc
+culture = mijinite
+religion = peteran_theodarity
+
+#History
