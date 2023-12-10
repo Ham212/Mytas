@@ -28,7 +28,7 @@
     670.01.15 = { birth=yes }
     723.09.09 = { death=yes }
 }
-3 = {
+4 = {
     name=John
     dynasty=752
   
