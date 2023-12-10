@@ -48,11 +48,11 @@ subtorrian = {
 		color = { 1 0.6 0.4 }
 
 		male_names = {
-			Lucijan
+			Richard
 		}
 
 		female_names = {
-			Female-Lucijan
+			Richard
 		}
 
 		from_dynasty_prefix = "of "
@@ -68,11 +68,31 @@ subtorrian = {
 		color = { 1 0.6 0.4 }
 
 		male_names = {
-			Lucijan
+			Richard
 		}
 
 		female_names = {
-			Female-Lucijan
+			Richard
+		}
+
+		from_dynasty_prefix = "of "
+
+		male_patronym = "son"
+		
+		modifier = default_culture_modifier
+	}
+
+	martirosyan = {
+		graphical_cultures = { westerngfx }
+
+		color = { 1 0.6 0.4 }
+
+		male_names = {
+			Richard
+		}
+
+		female_names = {
+			Richard
 		}
 
 		from_dynasty_prefix = "of "
