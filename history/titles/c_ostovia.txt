@@ -1,8 +1,10 @@
-# k_lyngaria
-500.1.1={
+# k_cyvod
+700.5.28={
+	liege = d_mercania
 	law = agnatic_succession
 	law = succ_gavelkind
+	holder = 1
 }
-700.1.1={
-	liege=k_lyngaria
+704.4.23={
+	holder = 4
 }

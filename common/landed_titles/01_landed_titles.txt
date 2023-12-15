@@ -1,3 +1,10 @@
+k_cyvod = {
+		color={ 82 66 193 }
+		color2={ 0 0 0 }
+}
+
+
+
 ###### AUTO GENERATED CONTENT (c) CKTools v19 ######
 
 

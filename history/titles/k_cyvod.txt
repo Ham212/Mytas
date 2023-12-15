@@ -1,10 +1,9 @@
 # k_cyvod
 700.5.28={
-	liege = d_mercania
 	law = agnatic_succession
 	law = succ_gavelkind
 	holder = 1
 }
 704.4.23={
-	holder = 4
+	holder = 3
 }

@@ -1,0 +1,70 @@
+1 = {
+	name=Sakib
+	dynasty=1
+	religion=peteran_theodarity
+	culture=cyvodic
+	665.2.6={
+		birth=yes
+	}
+	681.4.12 = {
+		add_spouse=2 #Zalka Krizaj
+	}
+	704.4.23={
+		death=yes
+	}
+}
+2 = {
+	name=Zalka
+	female=yes
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	664.10.11={
+		birth=yes
+	}
+	723.9.8={
+		death=yes
+	}
+}
+3 = {
+	name=Bruno #King of Cyvod and duke of Cyvodia
+	dynasty=1
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=1
+	mother=2
+	690.2.6={
+		birth=yes
+	}
+	737.4.23={
+		death=yes
+	}
+}
+4 = {
+	name=Rado #Duke of Mercania
+	dynasty=1
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=1
+	mother=2
+	692.4.7={
+		birth=yes
+	}
+	740.12.1={
+		death=yes
+	}
+}
+5 = {
+	name=Maj #Count of Altinado
+	dynasty=1
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=1
+	mother=2
+	695.7.22={
+		birth=yes
+	}
+	745.3.17={
+		death=yes
+	}
+}
