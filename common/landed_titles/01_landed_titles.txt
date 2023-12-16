@@ -1,5 +1,5 @@
 k_cyvod = {
-		color={ 82 66 193 }
+		color={ 0 120 192 }
 		color2={ 0 0 0 }
 }
 #family palaces
@@ -534,8 +534,8 @@ e_carrisia = {
 			}
 		}
 		d_ildovica = {
-			color={ 245 96 81 }
-			color2={ 255 255 255 }
+			color={ 36 122 0 }
+			color2={ 0 0 0 }
 			
 			allow = {
 				is_republic = yes
