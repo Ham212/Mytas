@@ -2,6 +2,27 @@ k_cyvod = {
 		color={ 82 66 193 }
 		color2={ 0 0 0 }
 }
+#family palaces
+b_colias = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_valamer = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_arimirez = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_avagisa = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_winguric = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
 
 
 
@@ -517,6 +538,8 @@ e_carrisia = {
 			color2={ 255 255 255 }
 			
 			allow = {
+				is_republic = yes
+				merchant_republic = yes
 				OR = {
 					lower_tier_than = KING
 					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 } }

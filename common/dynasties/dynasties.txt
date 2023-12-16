@@ -24,12 +24,37 @@
 	religion="peteran_theodarity"
 }
 6={
-	name="Bele"
-	culture="cyvodic"
+	name="Luporo"
+	culture="lyngarian"
 	religion="peteran_theodarity"
 }
 7={
 	name="Glasnovic"
 	culture="lucijan"
+	religion="peteran_theodarity"
+}
+8={
+	name="Colias"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+9={
+	name="Valamer"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+10={
+	name="Arimirez"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+11={
+	name="Avagisa"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+12={
+	name="Winguric"
+	culture="lyngarian"
 	religion="peteran_theodarity"
 }

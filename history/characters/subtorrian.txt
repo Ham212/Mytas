@@ -271,3 +271,63 @@
 		death=yes
 	}
 }
+20 = {
+	name=Ardo
+	dynasty=8
+	religion=peteran_theodarity
+	culture=cyvodic
+	695.2.6={
+		birth=yes
+	}
+	735.4.23={
+		death=yes
+	}
+}
+21 = {
+	name=Alaric
+	dynasty=9
+	religion=peteran_theodarity
+	culture=cyvodic
+	695.2.6={
+		birth=yes
+	}
+	735.4.23={
+		death=yes
+	}
+}
+22 = {
+	name=Bulgar
+	dynasty=10
+	religion=peteran_theodarity
+	culture=cyvodic
+	695.2.6={
+		birth=yes
+	}
+	735.4.23={
+		death=yes
+	}
+}
+23 = {
+	name=Leander
+	dynasty=11
+	religion=peteran_theodarity
+	culture=cyvodic
+	695.2.6={
+		birth=yes
+	}
+	735.4.23={
+		death=yes
+	}
+}
+24 = {
+	name=Euric
+	dynasty=12
+	religion=peteran_theodarity
+	culture=cyvodic
+	695.2.6={
+		birth=yes
+	}
+	735.4.23={
+		death=yes
+	}
+}
