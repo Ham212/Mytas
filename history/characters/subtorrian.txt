@@ -24,6 +24,7 @@
 	664.10.11={
 		birth=yes
 	}
+	#Sakib Jelovean
 	723.9.8={
 		death=yes
 	}
@@ -93,6 +94,7 @@
 	650.12.1={
 		birth=yes
 	}
+	#Ferdo Krizaj
 	702.2.3={
 		death=yes
 	}
@@ -137,12 +139,13 @@
 	682.10.11={
 		birth=yes
 	}
+	#Jadran Krizaj
 	739.5.3={
 		death=yes
 	}
 }
 11 = {
-	name=Jadran #King of Lucija
+	name=Naven #King of Lucija
 	dynasty=7
 	religion=peteran_theodarity
 	culture=lucijan
@@ -194,6 +197,77 @@
 		birth=yes
 	}
 	757.9.30={
+		death=yes
+	}
+}
+15 = {
+	name=Iztok
+	dynasty=3
+	religion=peteran_theodarity
+	culture=cyvodic
+	667.4.18={
+		birth=yes
+	}
+	684.8.8={
+		add_spouse=16
+	}
+	712.9.4={
+		death=yes
+	}
+}
+16 = {
+	name=Bosilkja
+	female=yes
+	religion=peteran_theodarity
+	culture=cyvodic
+	672.7.12={
+		birth=yes
+	}
+	#Iztok Zitnik
+	707.10.1={
+		death=yes
+	}
+}
+17 = {
+	name=Vinko
+	dynasty=3
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=15
+	mother=16
+	689.1.15={
+		birth=yes
+	}
+	738.2.2={
+		death=yes
+	}
+}
+18 = {
+	name=Matijaz
+	dynasty=3
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=15
+	mother=16
+	692.6.12={
+		birth=yes
+	}
+	736.10.24={
+		death=yes
+	}
+}
+19 = {
+	name=Jerneja
+	female=yes
+	dynasty=3
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=15
+	mother=16
+	694.7.24={
+		birth=yes
+	}
+	744.11.26={
 		death=yes
 	}
 }
