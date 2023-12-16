@@ -48,11 +48,11 @@ subtorrian = {
 		color = { 0.3 0.4 0.4 }
 
 		male_names = {
-			Richard
+			Grega Jurij Jab Nebojsa Lars Ferdo Doroe Radivoj Joza Rozle Bruno Maj Herman Deni Antonio Jadran Danijel Iztok Cvetko Semsudin Mario Danilo Matjaz Vinko Faton Jadran Bosko Ruben Zvone Dorian Elvir Tihomir Dubravko Kostja Savo Cene Nik Arnel Taras Arne Branko Hidajet Ozbej Misel Dejvid Vane Sakib Rado Adriano Zivan Florjan Miljan Emilijan Brane Dimitrij Ambroz Senad Andreas Ajdin Marjo Nedo Jelenko Jasa Vilko Zak Gaj Metod Franeisek Mohor Stanko Igor Marko Urh Milan Miro Natan Sinisa Mitko Slavoljub Domen Julian Jadranko Emrah Vaso
 		}
 
 		female_names = {
-			Richard
+			Zalka Nija Milena Iko Anamari Romina Lidija Enja Indira Spela Meta Gorana Semira Loredana Dora Marjana Olivera Rasima Vesna Damijana Vlasta Lucija Verica Elica Janina Dervisa Dorica Ernesta Jerneja Sasa Bosilkja Drita Nerina Anastazija Boja Armina Klaudia Smiljana Nada Timea Amelija Vilma Sonja Brankica Sladjana Zofka Jerica Ilona Ramiza Slavojka Monika Lueka Senka Hanka Masa Alena Melanja Tita Amira Rozika Breda Milanka Danka Veselka Nika Darka Klara Maya Grozdana Lucia Roza Pavla Sanija Bronislava Neza Aneta Hata Stana
 		}
 
 		from_dynasty_prefix = "of "
