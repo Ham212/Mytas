@@ -6,4 +6,4 @@
 700.1.1={
 	liege=k_lyngaria
 }
-1060.1.1={holder=1}
+
