@@ -1,8 +1,14 @@
-# k_lucija
-500.1.1={
+# k_cyvod
+669.4.2={
+	liege = d_cervinja
 	law = agnatic_succession
 	law = succ_gavelkind
+	holder = 6
 }
-700.1.1={
-	liege=k_lucija
+686.10.8={
+	holder = 9
+}
+696.10.8={
+	liege = k_lucija
+	holder = 11
 }

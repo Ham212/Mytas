@@ -1,5 +1,5 @@
 1 = {
-	name=Sakib
+	name=Sakib #Founder of the Jelovean dynasty
 	dynasty=1
 	religion=peteran_theodarity
 	culture=cyvodic
@@ -19,6 +19,8 @@
 	dynasty=2
 	religion=peteran_theodarity
 	culture=cyvodic
+	father=6
+	mother=7
 	664.10.11={
 		birth=yes
 	}
@@ -65,6 +67,133 @@
 		birth=yes
 	}
 	745.3.17={
+		death=yes
+	}
+}
+6 = {
+	name=Ferdo #Founder of the Krizaj dynasty
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	646.2.25={
+		birth=yes
+	}
+	662.4.9={
+		add_spouse=7
+	}
+	686.10.8={
+		death=yes
+	}
+}
+7 = {
+	name=Nija
+	female=yes
+	religion=peteran_theodarity
+	culture=cyvodic
+	650.12.1={
+		birth=yes
+	}
+	702.2.3={
+		death=yes
+	}
+}
+8 = {
+	name=Marjana
+	female=yes
+	dynasty=1
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=1
+	mother=2
+	693.11.15={
+		birth=yes
+	}
+	752.1.2={
+		death=yes
+	}
+}
+9 = {
+	name=Jadran #Duke of Cervinja
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=6
+	mother=7
+	680.10.11={
+		birth=yes
+	}
+	699.3.7={
+		add_spouse=10
+	}
+	725.6.2={
+		death=yes
+	}
+}
+10 = {
+	name=Vlasta
+	female=yes
+	religion=peteran_theodarity
+	culture=cyvodic
+	682.10.11={
+		birth=yes
+	}
+	739.5.3={
+		death=yes
+	}
+}
+11 = {
+	name=Jadran #King of Lucija
+	dynasty=7
+	religion=peteran_theodarity
+	culture=lucijan
+	685.5.24={
+		birth=yes
+	}
+	731.7.17={
+		death=yes
+	}
+}
+12 = {
+	name=Damjana
+	female=yes
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=9
+	mother=10
+	702.6.2={
+		birth=yes
+	}
+	753.7.18={
+		death=yes
+	}
+}
+13 = {
+	name=Deni
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=9
+	mother=10
+	705.7.7={
+		birth=yes
+	}
+	752.8.27={
+		death=yes
+	}
+}
+14 = {
+	name=Spela
+	female=yes
+	dynasty=2
+	religion=peteran_theodarity
+	culture=cyvodic
+	father=9
+	mother=10
+	709.2.4={
+		birth=yes
+	}
+	757.9.30={
 		death=yes
 	}
 }

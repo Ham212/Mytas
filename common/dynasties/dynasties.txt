@@ -28,3 +28,8 @@
 	culture="cyvodic"
 	religion="peteran_theodarity"
 }
+7={
+	name="Glasnovic"
+	culture="lucijan"
+	religion="peteran_theodarity"
+}

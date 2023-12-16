@@ -1,6 +1,6 @@
 # k_lucija
-500.1.1={
+692.10.2={
 	law = agnatic_succession
 	law = succ_gavelkind
+	holder = 11
 }
-700.1.1={holder=0}
