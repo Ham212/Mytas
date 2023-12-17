@@ -58,3 +58,13 @@
 	culture="lyngarian"
 	religion="peteran_theodarity"
 }
+13 ={
+	name="Ulfilas"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+14 ={
+	name="Cyrila"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}

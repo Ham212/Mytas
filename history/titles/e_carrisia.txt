@@ -1,5 +1,11 @@
 # e_carrisia
-800.1.1={
+458.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+}
+682.9.15={
+	holder = 33
+}
+700.5.25={
+	holder = 0
 }

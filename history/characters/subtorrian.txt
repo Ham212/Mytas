@@ -275,11 +275,14 @@
 	name=Ardo
 	dynasty=8
 	religion=peteran_theodarity
-	culture=cyvodic
-	695.2.6={
+	culture=lyngarian
+	696.4.8={
 		birth=yes
 	}
-	735.4.23={
+	712.10.8={
+		add_spouse=25
+	}
+	745.2.23={
 		death=yes
 	}
 }
@@ -287,11 +290,14 @@
 	name=Alaric
 	dynasty=9
 	religion=peteran_theodarity
-	culture=cyvodic
-	695.2.6={
+	culture=lyngarian
+	695.8.4={
 		birth=yes
 	}
-	735.4.23={
+	713.9.11={
+		add_spouse=26
+	}
+	742.7.28={
 		death=yes
 	}
 }
@@ -299,11 +305,14 @@
 	name=Bulgar
 	dynasty=10
 	religion=peteran_theodarity
-	culture=cyvodic
-	695.2.6={
+	culture=lyngarian
+	698.12.24={
 		birth=yes
 	}
-	735.4.23={
+	717.2.15={
+		add_spouse=27
+	}
+	749.6.12={
 		death=yes
 	}
 }
@@ -311,11 +320,14 @@
 	name=Leander
 	dynasty=11
 	religion=peteran_theodarity
-	culture=cyvodic
-	695.2.6={
+	culture=lyngarian
+	694.5.30={
 		birth=yes
 	}
-	735.4.23={
+	713.6.17={
+		add_spouse=28
+	}
+	739.5.16={
 		death=yes
 	}
 }
@@ -323,11 +335,354 @@
 	name=Euric
 	dynasty=12
 	religion=peteran_theodarity
-	culture=cyvodic
-	695.2.6={
+	culture=lyngarian
+	698.7.12={
 		birth=yes
 	}
-	735.4.23={
+	712.10.8={
+		add_spouse=29
+	}
+	741.7.1={
+		death=yes
+	}
+}
+25 = {
+	name=Brunhilda
+	female = yes
+	dynasty=9
+	religion=peteran_theodarity
+	culture=lyngarian
+	696.4.12={
+		birth=yes
+	}
+	#Ardo Colias
+	742.4.2={
+		death=yes
+	}
+}
+26 = {
+	name=Florentina
+	female = yes
+	dynasty=11
+	religion=peteran_theodarity
+	culture=lyngarian
+	697.11.11={
+		birth=yes
+	}
+	#Alaric Valamer
+	749.8.30={
+		death=yes
+	}
+}
+27 = {
+	name=Lorencia
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	695.8.9={
+		birth=yes
+	}
+	#Bulgar Arimirez
+	745.5.10={
+		death=yes
+	}
+}
+28 = {
+	name=Mencia
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	696.11.7={
+		birth=yes
+	}
+	#Leander Avagisa
+	750.8.12={
+		death=yes
+	}
+}
+29 = {
+	name=Arembiase
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	699.1.8={
+		birth=yes
+	}
+	#Euric Winguric
+	744.8.16={
+		death=yes
+	}
+}
+30 = {
+	name=Braulio
+	dynasty = 8
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 20
+	mother = 25
+	716.6.10={
+		birth=yes
+	}
+	764.5.16={
+		death=yes
+	}
+}
+31 = {
+	name=Monnia
+	dynasty = 9
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 21
+	mother = 26
+	720.4.15={
+		birth=yes
+	}
+	775.10.14={
+		death=yes
+	}
+}
+32 = {
+	name=Cristoval
+	dynasty = 11
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 23
+	mother = 28
+	715.1.24={
+		birth=yes
+	}
+	766.12.12={
+		death=yes
+	}
+}
+33 = {
+	name=Santiago #Emperor of Carrisia
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	668.6.10={
+		birth=yes
+	}
+	686.10.8={
+		add_spouse=34
+	}
+	700.5.25={
+		death=yes
+	}
+}
+34 = {
+	name=Madelena
+	dynasty = 13
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 46
+	mother = 47
+	670.2.8={
+		birth=yes
+	}
+	#Santiago Luporo
+	700.5.25={
+		death=yes
+	}
+}
+35 = {
+	name=Estevan #King of Lyngaria
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 33
+	mother = 34
+	690.8.12={
+		birth=yes
+	}
+	707.9.6={
+		add_spouse=38
+	}
+	741.5.4={
+		death=yes
+	}
+}
+36 = {
+	name=Onofria 
+	female=yes
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 33
+	mother = 34
+	692.4.24={
+		birth=yes
+	}
+	#Siserich Ulfilas
+	743.7.1={
+		death=yes
+	}
+}
+37 = {
+	name=Catallina
+	female=yes
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 33
+	mother = 34
+	695.6.22={
+		birth=yes
+	}
+	#Acach Cyrila
+	748.5.21={
+		death=yes
+	}
+}
+38 = {
+	name=Beatris
+	female=yes
+	dynasty = 14
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 39
+	mother = 40
+	688.2.21={
+		birth=yes
+	}
+	#Estevan Luporo
+	745.7.2={
+		death=yes
+	}
+}
+39 = {
+	name= Aznaro #Former duke of Ibba
+	dynasty = 14
+	religion=peteran_theodarity
+	culture=lyngarian
+	665.7.10={
+		birth=yes
+	}
+	682.4.5={
+		add_spouse=40
+	}
+	699.11.4={
+		death=yes
+	}
+}
+40 = {
+	name= Aldonza
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	664.8.23={
+		birth=yes
+	}
+	#Aznaro Cyrila
+	715.12.2={
+		death=yes
+	}
+}
+41 = {
+	name=Acach #Count of Aspar
+	dynasty = 14
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 39
+	mother = 40
+	691.3.7={
+		birth=yes
+	}
+	711.3.18={
+		add_spouse=37
+	}
+	742.6.21={
+		death=yes
+	}
+}
+42 = {
+	name= Ferrando 
+	dynasty = 14
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 41
+	mother = 37
+	715.10.21={
+		birth=yes
+	}
+	757.12.28={
+		death=yes
+	}
+}
+43 = {
+	name=Siserich #Count of Asterilla
+	dynasty = 13
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 44
+	mother = 45
+	693.8.17={
+		birth=yes
+	}
+	712.7.12={
+		add_spouse=36
+	}
+	742.6.21={
+		death=yes
+	}
+}
+44 = {
+	name=Vigila #Former Duke of Mercania
+	dynasty = 13
+	religion=peteran_theodarity
+	culture=lyngarian
+	father = 46
+	mother = 47
+	672.4.11={
+		birth=yes
+	}
+	688.6.14={
+		add_spouse=45
+	}
+	719.8.21={
+		death=yes
+	}
+}
+45 = {
+	name=Clarencia
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	671.5.18={
+		birth=yes
+	}
+	#Vigila Ulfilas
+	695.6.11={
+		death=yes
+	}
+}
+46 = {
+	name=Gundemar #Former Duke of Mercania
+	dynasty = 13
+	religion=peteran_theodarity
+	culture=lyngarian
+	647.3.12={
+		birth=yes
+	}
+	670.4.15={
+		add_spouse=47
+	}
+	690.9.15={
+		death=yes
+	}
+}
+47 = {
+	name=Eduvigis
+	female = yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	649.11.4={
+		birth=yes
+	}
+	#Gundemar Ulfilas
+	701.4.16={
 		death=yes
 	}
 }

@@ -1,9 +1,12 @@
 # k_lyngaria
-500.1.1={
+458.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege = k_lyngaria
 }
-700.1.1={
-	liege=k_lyngaria
+682.9.15={
+	holder = 33
 }
-1060.1.1={holder=1}
+700.5.25={
+	holder = 35
+}

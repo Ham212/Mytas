@@ -28,11 +28,14 @@ subtorrian = {
 		color = { 1 0.6 0.4 }
 
 		male_names = {
-			Lucijan
+			Santiago Ardo Alaric Bulgar Leander Euric Achila Agila Athanagild Braulio Chindasuinth Chintila Egica Ervig Gundemar Hermenegild Ildefonsus Isidore Iudila Julian Leovigild Leo Liuva Reccared Reccesuinth Roderic Rodrigo Sisbert Sisebut Sisenand Suinthila Suniefred Theoderic Theo Theudisclus Thorismund Tulga Wamba Witteric Wittiza
+			Acach Aio Ansurius Aznaro Bonafos Cresconio Cristoval Culema Diago Donadei Estevan Ezmael Fadrique Fafila Ferrando Ferrandus Flain Fortun Froila Fruela Galindo Garci Gascon Gelmiro Gilo Graviel Gudesteo Guillen Gundisalvo Juce Junez Lain Laurente Marculfo Mauregato Menendo Merdocay Narcisus Odelhard Oger Ordono Ortun Oveco 
+			Peiro Pero Piniolo Placentius Polo Recaredo Reyher Sandalius Servusdei Siserich Sisulf Tello Urso Vela Vevian Vigila Wlesindo Viterico Ysabelo Ysidro Yurde Zaite Zifar
 		}
 
 		female_names = {
-			Female-Lucijan
+			Brunhilda Florentina Adosinda Aldonza Argilo Arembiase Beatris Briceida Castellana Catallina Clarencia Cristofania Dionora Domenga Eduvigis Egilona Eilo Eldara Enderquina Engracia Ermengarda Ermesinda Estevania Falcona Fradegundia Fronilde Gelvira Geronima Godina Gontina Gontroda Gota Graciosa Grana Ildaria Ilduara Iniguez 
+			Lorencia Madelena Marquessa Mayor Mencia Missol Monnia Ochanda Odulina Olall Onofria Oreca Oroana Orodueyna Ostosia Paterna Peironella Placia Sancia Scemena Sendina Senthilde Servanda Soloro Solveyllida Sonifrida Talesa Taresa Tegrida Teoda Tigridia Toda Orraca Velasquita Ynes
 		}
 
 		from_dynasty_prefix = "of "
