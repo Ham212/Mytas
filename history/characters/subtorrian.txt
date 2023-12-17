@@ -621,7 +621,7 @@
 	693.8.17={
 		birth=yes
 	}
-	712.7.12={
+	712.1.1={
 		add_spouse=36
 	}
 	742.6.21={
@@ -683,6 +683,76 @@
 	}
 	#Gundemar Ulfilas
 	701.4.16={
+		death=yes
+	}
+}
+48 = {
+	name=Jab #Duke of Ibba
+	dynasty = 4
+	religion=peteran_theodarity
+	culture=cyvodic
+	693.2.21={
+		birth=yes
+	}
+	710.4.26={
+		add_spouse=49
+	}
+	741.4.15={
+		death=yes
+	}
+}
+49 = {
+	name=Anamari
+	female = yes
+	religion=peteran_theodarity
+	culture=cyvodic
+	692.11.4={
+		birth=yes
+	}
+	#Jab Bratusa
+	740.10.4={
+		death=yes
+	}
+}
+50 = {
+	name=Lars #Count of Upper Kaastid
+	dynasty = 5
+	religion=peteran_theodarity
+	culture=cyvodic
+	690.4.24={
+		birth=yes
+	}
+	706.6.24={
+		add_spouse=51
+	}
+	735.2.17={
+		death=yes
+	}
+}
+51 = {
+	name=Semira
+	female = yes
+	religion=peteran_theodarity
+	culture=cyvodic
+	688.8.7={
+		birth=yes
+	}
+	#Lars Balazic
+	738.8.6={
+		death=yes
+	}
+}
+52 = {
+	name=Cvetko 
+	dynasty = 5
+	religion=peteran_theodarity
+	culture=cyvodic
+	father = 50
+	mother = 51
+	706.7.21={
+		birth=yes
+	}
+	751.8.23={
 		death=yes
 	}
 }
