@@ -1,0 +1,53 @@
+technology = {
+	titles = {
+		d_leyre
+		d_veigonopole
+		d_marathos
+	}
+	710 = {
+		military = 2.4
+		economy = 3.0
+		culture = 2.1
+	}
+}
+technology = {
+	titles = {
+		d_ildovica
+		d_szespin
+		d_ibba
+		d_thuryma
+	}	
+	710 = {
+		military = 1.4
+		economy = 2.1
+		culture = 1.7
+	}
+}
+technology = {
+	titles = {
+		d_cyvodia
+		d_sapra
+		d_stepanya
+		d_dunavec
+		d_adrezen
+		d_mercania
+	}	
+	710 = {
+		military = 1.0
+		economy = 1.5
+		culture = 0.9
+	}
+}
+technology = {
+	titles = {
+		d_dzaghig
+		d_khosrova
+		d_cervinja
+		d_martirosya
+	}	
+	710 = {
+		military = 0.6
+		economy = 1.0
+		culture = 0.4
+	}
+}

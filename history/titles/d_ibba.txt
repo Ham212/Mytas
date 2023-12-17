@@ -12,5 +12,5 @@
 }
 700.5.28={
 	liege = k_cyvod
-	holder 48
+	holder = 48
 }
