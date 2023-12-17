@@ -4,7 +4,7 @@ technology = {
 		d_veigonopole
 		d_marathos
 	}
-	710 = {
+	800 = {
 		military = 2.4
 		economy = 3.0
 		culture = 2.1
@@ -17,7 +17,7 @@ technology = {
 		d_ibba
 		d_thuryma
 	}	
-	710 = {
+	800 = {
 		military = 1.4
 		economy = 2.1
 		culture = 1.7
@@ -32,7 +32,7 @@ technology = {
 		d_adrezen
 		d_mercania
 	}	
-	710 = {
+	800 = {
 		military = 1.0
 		economy = 1.5
 		culture = 0.9
@@ -45,7 +45,7 @@ technology = {
 		d_cervinja
 		d_martirosya
 	}	
-	710 = {
+	800 = {
 		military = 0.6
 		economy = 1.0
 		culture = 0.4
