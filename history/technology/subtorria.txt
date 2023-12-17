@@ -5,9 +5,14 @@ technology = {
 		d_marathos
 	}
 	800 = {
-		military = 2.4
-		economy = 3.0
-		culture = 2.1
+		military = 1.4
+		economy = 2.0
+		culture = 1.1
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
 	}
 }
 technology = {
@@ -18,9 +23,14 @@ technology = {
 		d_thuryma
 	}	
 	800 = {
-		military = 1.4
-		economy = 2.1
-		culture = 1.7
+		military = 0.4
+		economy = 1.1
+		culture = 0.7
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
 	}
 }
 technology = {
@@ -33,9 +43,14 @@ technology = {
 		d_mercania
 	}	
 	800 = {
-		military = 1.0
-		economy = 1.5
-		culture = 0.9
+		military = 0
+		economy = 0.5
+		culture = 0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
 	}
 }
 technology = {
@@ -46,8 +61,13 @@ technology = {
 		d_martirosya
 	}	
 	800 = {
-		military = 0.6
-		economy = 1.0
-		culture = 0.4
+		military = 0
+		economy = 0
+		culture = 0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
 	}
 }
