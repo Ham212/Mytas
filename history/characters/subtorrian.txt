@@ -279,7 +279,7 @@
 	696.4.8={
 		birth=yes
 	}
-	712.10.8={
+	711.10.8={
 		add_spouse=25
 	}
 	745.2.23={
@@ -291,13 +291,13 @@
 	dynasty=9
 	religion=peteran_theodarity
 	culture=lyngarian
-	695.8.4={
+	693.8.4={
 		birth=yes
 	}
-	713.9.11={
+	710.9.11={
 		add_spouse=26
 	}
-	742.7.28={
+	740.7.28={
 		death=yes
 	}
 }
@@ -306,13 +306,13 @@
 	dynasty=10
 	religion=peteran_theodarity
 	culture=lyngarian
-	698.12.24={
+	688.12.24={
 		birth=yes
 	}
-	717.2.15={
+	707.2.15={
 		add_spouse=27
 	}
-	749.6.12={
+	739.6.12={
 		death=yes
 	}
 }
@@ -321,13 +321,13 @@
 	dynasty=11
 	religion=peteran_theodarity
 	culture=lyngarian
-	694.5.30={
+	693.5.30={
 		birth=yes
 	}
-	713.6.17={
+	709.6.17={
 		add_spouse=28
 	}
-	739.5.16={
+	740.5.16={
 		death=yes
 	}
 }
@@ -336,10 +336,10 @@
 	dynasty=12
 	religion=peteran_theodarity
 	culture=lyngarian
-	698.7.12={
+	688.7.12={
 		birth=yes
 	}
-	712.10.8={
+	706.10.8={
 		add_spouse=29
 	}
 	741.7.1={
@@ -352,7 +352,7 @@
 	dynasty=9
 	religion=peteran_theodarity
 	culture=lyngarian
-	696.4.12={
+	694.4.12={
 		birth=yes
 	}
 	#Ardo Colias
@@ -366,7 +366,7 @@
 	dynasty=11
 	religion=peteran_theodarity
 	culture=lyngarian
-	697.11.11={
+	693.11.11={
 		birth=yes
 	}
 	#Alaric Valamer
@@ -379,11 +379,11 @@
 	female = yes
 	religion=peteran_theodarity
 	culture=lyngarian
-	695.8.9={
+	685.8.9={
 		birth=yes
 	}
 	#Bulgar Arimirez
-	745.5.10={
+	735.5.10={
 		death=yes
 	}
 }
@@ -392,7 +392,7 @@
 	female = yes
 	religion=peteran_theodarity
 	culture=lyngarian
-	696.11.7={
+	690.11.7={
 		birth=yes
 	}
 	#Leander Avagisa
@@ -405,7 +405,7 @@
 	female = yes
 	religion=peteran_theodarity
 	culture=lyngarian
-	699.1.8={
+	689.1.8={
 		birth=yes
 	}
 	#Euric Winguric
@@ -420,7 +420,7 @@
 	culture=lyngarian
 	father = 20
 	mother = 25
-	716.6.10={
+	711.12.10={
 		birth=yes
 	}
 	764.5.16={
@@ -435,7 +435,7 @@
 	culture=lyngarian
 	father = 21
 	mother = 26
-	720.4.15={
+	711.4.15={
 		birth=yes
 	}
 	775.10.14={
@@ -449,7 +449,7 @@
 	culture=lyngarian
 	father = 23
 	mother = 28
-	715.1.24={
+	710.1.24={
 		birth=yes
 	}
 	766.12.12={
