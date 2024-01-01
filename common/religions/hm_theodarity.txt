@@ -92,7 +92,7 @@ theodarity_group = {
 	}
 }
 
-pagan_group = {
+pagan = {
 	has_coa_on_barony_only = yes
 	graphical_culture = norsegfx
 	playable = yes
