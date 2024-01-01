@@ -6,10 +6,10 @@ title = c_avirias
 # Settlements
 max_settlements = 4
 
-b_avirias = city
+b_avirias = castle
 b_salegno = city
-#b_edetero = castle
-#b_macedora = temple
+#b_edetero = temple
+#b_macedora = castle
 
 # Misc
 culture = lyngarian

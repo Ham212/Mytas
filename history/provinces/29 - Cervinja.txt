@@ -13,6 +13,6 @@ b_prejov = city
 
 # Misc
 culture = lucijan
-religion = peteran_theodarity
+religion = tertari
 
 #History

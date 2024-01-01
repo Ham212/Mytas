@@ -12,6 +12,6 @@ b_respa = castle
 
 # Misc
 culture = cyvodic
-religion = peteran_theodarity
+religion = tertari
 
 #History

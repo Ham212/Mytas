@@ -1,0 +1,33 @@
+k_cyvod = {
+		color={ 0 120 192 }
+		color2={ 0 0 0 }
+}
+k_treporti = {
+		color={ 36 122 0 }
+		color2={ 0 0 0 }
+	allow = {
+		is_republic = yes
+		merchant_republic = yes
+	}
+}
+#family palaces
+b_colias = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_valamer = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_arimirez = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_avagisa = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_winguric = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}

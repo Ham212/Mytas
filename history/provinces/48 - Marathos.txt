@@ -15,6 +15,6 @@ b_marathos = city
 
 # Misc
 culture = aurissiote
-religion = peteran_theodarity
+religion = bogovinist_theodarity
 
 #History

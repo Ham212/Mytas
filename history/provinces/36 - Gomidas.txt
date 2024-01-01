@@ -12,6 +12,6 @@ b_muratin = city
 
 # Misc
 culture = mijinite
-religion = peteran_theodarity
+religion = tertari
 
 #History

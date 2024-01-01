@@ -12,6 +12,6 @@ b_nibel = castle
 
 # Misc
 culture = cyvodic
-religion = peteran_theodarity
+religion = tertari
 
 #History

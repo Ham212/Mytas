@@ -12,6 +12,6 @@ b_kedska = castle
 
 # Misc
 culture = lucijan
-religion = peteran_theodarity
+religion = tertari
 
 #History

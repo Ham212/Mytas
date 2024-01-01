@@ -13,6 +13,6 @@ b_dudsta = city
 
 # Misc
 culture = lucijan
-religion = peteran_theodarity
+religion = tertari
 
 #History

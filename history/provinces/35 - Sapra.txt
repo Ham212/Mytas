@@ -13,6 +13,6 @@ b_yeghiaz = city
 
 # Misc
 culture = mijinite
-religion = peteran_theodarity
+religion = tertari
 
 #History

@@ -3,7 +3,5 @@
 	liege=k_lyngaria
 }
 700.5.28={
-	liege=d_ildovica
-	law = succ_patrician_elective
-	holder = 20
+	liege=k_treporti
 }

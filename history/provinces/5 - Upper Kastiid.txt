@@ -13,6 +13,6 @@ b_lymai = city
 
 # Misc
 culture = cyvodic
-religion = peteran_theodarity
+religion = tertari
 
 #History

@@ -13,6 +13,6 @@ b_odorion = city
 
 # Misc
 culture = aurissiote
-religion = peteran_theodarity
+religion = bogovinist_theodarity
 
 #History

@@ -4,19 +4,29 @@ theodarity_group;Theodarity;;;;;;;;;;;x
 peteran_theodarity;Peteran;;;;;;;;;;;x
 peteran_theodarity_DESC;PLACEHOLDER;;;;;;;;;;;x
 
-peteran_high_god;Theodore;;;;;;;;;;;x
-peteran_evil_god;Richard;;;;;;;;;;;x
+peteran_high_god;God;;;;;;;;;;;x
+peteran_evil_god;Satan;;;;;;;;;;;x
 peteran_crusade_name;Crusade;;;;;;;;;;;x
-peteran_scripture_name;Richard's Diary;;;;;;;;;;;x
-peteran_priest_title;High Priest;;;;;;;;;;;x
+peteran_scripture_name;Holy Sivren;;;;;;;;;;;x
+peteran_priest_title;Priest;;;;;;;;;;;x
 
 bogovinist_theodarity;Bogovinist;;;;;;;;;;;x
 bogovinist_theodarity_DESC;PLACEHOLDER;;;;;;;;;;;x
-bogovinist_high_god;Theodore;;;;;;;;;;;x
-bogovinist_evil_god;Richard;;;;;;;;;;;x
+bogovinist_high_god;God;;;;;;;;;;;x
+bogovinist_evil_god;Satan;;;;;;;;;;;x
 bogovinist_crusade_name;Crusade;;;;;;;;;;;x
-bogovinist_scripture_name;Richard's Diary;;;;;;;;;;;x
-bogovinist_priest_title;High Priest;;;;;;;;;;;x
+bogovinist_scripture_name;Holy Sivren;;;;;;;;;;;x
+bogovinist_priest_title;Priest;;;;;;;;;;;x
 
 d_peteran_theodarity;Capital of Peteran Theodarity;;;;;;;;;;;x
-peteran_theodarity_pope;High Priest;;;;;;;;;;;x
+peteran_theodarity_pope;Pope;;;;;;;;;;;x
+
+
+pagan_group;Pagan;;;;;;;;;;;x
+tertari;Tertarist;;;;;;;;;;;x
+tertari_DESC;PLACEHOLDER;;;;;;;;;;;x
+tertari_high_god;Svjetas;;;;;;;;;;;x
+tertari_evil_god;Nejdjasa;;;;;;;;;;;x
+tertari_crusade_name;Great War;;;;;;;;;;;x
+tertari_scripture_name;The Myths;;;;;;;;;;;x
+tertari_priest_title;Vjesnik;;;;;;;;;;;x

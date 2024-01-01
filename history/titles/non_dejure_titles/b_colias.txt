@@ -1,0 +1,5 @@
+700.5.28={
+	holding_dynasty = 8
+	liege=d_ildovica
+	holder = 20
+}

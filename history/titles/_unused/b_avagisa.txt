@@ -1,0 +1,5 @@
+700.5.28={
+	holding_dynasty = 11
+	liege=k_treporti
+	holder = 23
+}

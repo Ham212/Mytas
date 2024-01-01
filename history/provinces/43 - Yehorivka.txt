@@ -12,6 +12,6 @@ b_yehorivka = castle
 
 # Misc
 culture = mijinite
-religion = peteran_theodarity
+religion = tertari
 
 #History

@@ -1,127 +1,195 @@
 subtorrian = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { occitangfx }
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
-	lucijan = {
-		graphical_cultures = { westerngfx }
-
-		color = { 0.5 0.7 0.1 }
-
-		male_names = {
-			Lucijan
-		}
-
-		female_names = {
-			Female-Lucijan
-		}
-
-		from_dynasty_prefix = "of "
-
-		male_patronym = "son"
-		
-		modifier = default_culture_modifier
-	}
-
 	lyngarian = {
-		graphical_cultures = { westerngfx }
-
-		color = { 1 0.6 0.4 }
-
+		graphical_cultures = { southerngfx }
+		
+		color = { 0.55 0.55 0.15 }
+		
 		male_names = {
 			Santiago Ardo Alaric Bulgar Leander Euric Achila Agila Athanagild Braulio Chindasuinth Chintila Egica Ervig Gundemar Hermenegild Ildefonsus Isidore Iudila Julian Leovigild Leo Liuva Reccared Reccesuinth Roderic Rodrigo Sisbert Sisebut Sisenand Suinthila Suniefred Theoderic Theo Theudisclus Thorismund Tulga Wamba Witteric Wittiza
 			Acach Aio Ansurius Aznaro Bonafos Cresconio Cristoval Culema Diago Donadei Estevan Ezmael Fadrique Fafila Ferrando Ferrandus Flain Fortun Froila Fruela Galindo Garci Gascon Gelmiro Gilo Graviel Gudesteo Guillen Gundisalvo Juce Junez Lain Laurente Marculfo Mauregato Menendo Merdocay Narcisus Odelhard Oger Ordono Ortun Oveco 
 			Peiro Pero Piniolo Placentius Polo Recaredo Reyher Sandalius Servusdei Siserich Sisulf Tello Urso Vela Vevian Vigila Wlesindo Viterico Ysabelo Ysidro Yurde Zaite Zifar
+			Adelfonso_Alphonse Agila Airmanagildo Alaricho_Alaric Aloito Assur Athanagildo Berengario_Berengar Diaco_Diaco Fafila
+			Friedenando_Ferdinand Friednand_Ferdinand Froila_Froila Garçi_Garcia Gonçalo_Gonzalo Gundemar Guttier_Walter Johan_John Liuva Liuvericho
+			Lupo_Lupo Mauregato Monnio_Munio Nunno_Nuno Oliba Ordonno_Ordono Pelagio_Pelagius Petro_Peter Ranimiro_Ramiro Rekkaredo_Richard
+			Rodericho_Roderick Sans_Sancho Silo Suneario_Sunyer Suniefredo Theodoricho_Theodoric Veremondo_Vermudo Wifredo_Wilfred Wimarano Witiza
 		}
-
 		female_names = {
 			Brunhilda Florentina Adosinda Aldonza Argilo Arembiase Beatris Briceida Castellana Catallina Clarencia Cristofania Dionora Domenga Eduvigis Egilona Eilo Eldara Enderquina Engracia Ermengarda Ermesinda Estevania Falcona Fradegundia Fronilde Gelvira Geronima Godina Gontina Gontroda Gota Graciosa Grana Ildaria Ilduara Iniguez 
 			Lorencia Madelena Marquessa Mayor Mencia Missol Monnia Ochanda Odulina Olall Onofria Oreca Oroana Orodueyna Ostosia Paterna Peironella Placia Sancia Scemena Sendina Senthilde Servanda Soloro Solveyllida Sonifrida Talesa Taresa Tegrida Teoda Tigridia Toda Orraca Velasquita Ynes
+			Adelgundis Adosinda Agnes_Agnes Aragonte Argilo Ava_Eva Brunechildis_Brunhilda Egilona Eldonza_Aldonza Elduara_Alduara
+			Elvira_Elvira Ermengardis_Ermengarde Ermenisinda_Ermesinda Flamula Fronilde_Fronilde Gaudiosa Gonterote_Gotruda Iberia Leodegundis Menenda
+			Monnia_Munia Monniadomna Onecca_Oneka Riciberga Sibilia_Sibylla Sisenanda Theodora_Theodora Urraca_Urraca Winidilda_Gunhild
 		}
 
-		from_dynasty_prefix = "of "
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
 
-		male_patronym = "son"
+		modifier = default_culture_modifier
+	}
+	martirosyan = {
+		graphical_cultures = { crimeangfx southerngfx }
+		
+		color = { 0.8 0.4 0.8}
+
+		male_names = {
+			Achila Adrianos_Adrian Alaricos_Alaric Alexandros_Alexander Alexios_Alexis Amalaric Andreas_Andrew Andronikos_Andronicus Antonios_Antonius Arsenios Athanasios_Athanasius Athanaricos Ataulphus 
+			Bartholomaios_Bartolomeus Bosporios Chindasuinto Chintila Christopher_Christopher Damianos_Damian Daniel_Daniel David_David Evaric_Eric Ervigius Ergica
+			Eugenios_Eugene Eustathios_Eustace Frederic_Frederick Gabriel_Gabriel Georgios_George Gregoras_Gregory Gregorios_Gregory Hektorios_Hector Helias_Elijah Herakleios_Heracles 
+			Iakobos_Jacob Ignatios_Ignatius Innokentios_Innocent Ioannes_John Ioannikios Iordanes_Jordan Ioseph_Joseph Isaakios_Isaac Isaias_Isaiah Isidoros_Isidoros Ioulianos_Julian Ioustinianos_Justinian Ioustinos_Justin
+			Kallinikos Kallistos_Callistus Kyriakos_Cyriacus Kyrillos_Cyril Laurentios_Laurence Leon_Leo Leovigild Liuva Loukas_Luke Markos_Marcus Michael_Michael Nikolaos_Nicholas
+			Pavlos_Paul Petros_Peter Philippos_Philip Radagaisus Raphail_Raphael Roderic_Roderick Samuel_Samuel Saurus Sebastianos_Sebastian Sigericos Sisebutus Sisenando Stephanos_Stephen
+			Symeon_Simon Suintila Symmachos_Symmachus Theocharistos Theodoric_Theodore Theodosios_Theodosios Theodat_Theodat Theudis Thomas_Thomas Thorismod Tiberius_Tiberius 
+			Timotheos_Timothy Valerios_Valerius Witteric Witiges Zacharias_Zachary
+		}
+		female_names = {
+			Adriane_Adriana Agathe_Agatha Agne_Agnes Aikaterine_Catherine Alexandra_Alexandra Alexeia_Alexia Anastasia_Anastasia Anna_Anna Antonia_Antonia Cixila
+			Dorothea_Dorothy Eirene_Irene Eudokia_Eudocia Ermenberga Eudoxia_Eudocia Eugenia_Eugenia Euphemia_Euphemia Euphrosyne_Euphrosyne
+			Georgia_Georgia Goiswinthia Helene_Helen Ioanna_Joan Ioulia_Julia Iouliana_Juliana Ioustina_Justina Konstantia_Constantia Konstantine_Constantina Kyriake_Kyriake Liuvigoto
+			Margarita_Margaret Maria_Maria Markia_Marcia Martha_Martha Melissa_Melisende Pavlina_Paulina Petronia_Petronia Philippa_Philippa Pulcheria_Pulcheria Recciberga Riccilo Sergia_Sergia Sibylla_Sibylla
+			Sophia_Sophia Stephania_Stephania Theodora_Theodora Theodosia_Theodosia Valeria_Valeria Viviana_Viviana
+		}
+
+		from_dynasty_prefix = "de "
+		grammar_transform = french
 		
 		modifier = default_culture_modifier
 	}
+}
 
-	cyvodic = {
-		graphical_cultures = { westerngfx }
-
-		color = { 0.3 0.4 0.4 }
+amiran = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
+	
+	lucijan = {
+		graphical_cultures = { croatsouthslavicgfx }
+		
+		color = { 0.4 0.2 0.2 }
 
 		male_names = {
+			Adam_Adam Andrija Bartol_Bartolomeus Besar Bojan Boris Branimir Castimir_Casimir Danail_Daniel Dmitar_Demetrius Dobromir Dragan Dragomir Drzislav Dujam Duym Filip_Philip Gaspar_Caspar Gheorghe_George Grigorii_Gregory
+			Hranislav Hrvoje Igor_Ingvar Ioan_John Ivan_John Ivanis Jitej Karlo_Charles Koloman_Koloman Kresimir Ladislav_Vladislav Ljudevit Ljutomisl Lovro Matej_Matthew Mihajlo_Michael Milman Mislav Mutimir Naven
+			Nikolitza_Nicholas Ognjen Petar_Peter Prohor Radomir Ratimir_Ratimir Sebeslav Seslav Slavich Stanislav_Stanislav Stjepan_Stephen Sulvan Teodor_Theodore Tomislav Tvrdoslav Tvrtko Ulfo_Ulf Vid Vitomir Vlaicu
+			Vukan Zvonimir
+		}
+		female_names = {
+			Adriana_Adriana Anna_Anna Borislava Cededa Doroteja_Dorothy Ekaterina_Catherine Helena_Helen Jadviga_Hedwig Jovana_Joan Kera Ladika Maria_Maria Mihaela_Michaela Nada Petra Viola_Yolanda Jadranka Mare
+			Antonija_Antonia Capeka Dragana Dubravka Emilija_Emily Gordana Jagoda Jelena_Helen Jelka Lucija_Lucia Katalin_Catherine Marija_Maria Marijana_Mariana Mirjana Mirna Mojca Natalija_Natalia Nataša
+			Rijeka Silvija_Silvia Snjezana Sofija_Sophia Suzana_Susan Svjetlana Suronja Tatjana Tihana Valerija_Valeria Vedrana Visnja Vjekoslava Zlata Zvonimira
+		}
+		
+		from_dynasty_prefix = "od "
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+		
+	}
+
+
+	cyvodic = {
+		graphical_cultures = { serbsouthslavicgfx }
+
+		color = { 0.5 0.3 0.5 }
+
+		male_names = {
+			Bedoslav Beli Benebod Benko Bislav Blagosod Boleslav Bodigoj Bogomir Bogumil_Bogomil Bojnoslav Borigoj Borižit Borut Branimir Braslav Budigoj Budin Cestilo Cestimir Crné Crnel Crni Crnig Dalimir Danimir Debeligoj Dober Dobrislav Dobrej Dobren Dobrodej Dorogoj Dobromisl Dobroneg Dobrost Dobrovlast Dobrožit Domagoj Domažil Domomir Domomisl Dragomir Dragoslav Dragovit Glavac Glušo Gnevaš Godemir Godemisl Gojen Gojimir Gojislav Golodrag Golomir Golotek Gorazd Gostibil Gostidrag Grd Hoten Hotimir Hrast Inko Izbor Jaroslav Jelen Junik Lastigoj Lastimir Lastnik Ljuban Ljubiš Ljubodrag Ljuboneg Ljubotin Ljubšin Ljutic Ljutomir Manidrag Maraš Medved Mil Milaš Milej Milo Misl Minigoj Mirigoj Miromisl Miroslav Mistibor Mistislav Nacek Naciživ Nadovid Namdrag Našemisl Nebomir Negoj Negomir Nenadej Nepokor Neško Nežir Nico Omisl Petanko Pitalo Pomik Predoslav Premil Premisl Pribibor Pribigoj Pribislav Prisnec Prisnoslav Prodan Radek Radogej Radenko Radigoj Radin Radoh Radoš Radul Radušic Sebeteh Sebibor Sebidrag Sebigoj Sebimir Semiko Skrben Slav Slavko Slavuš Sojdrag Sprejmir Stagoj Stamer Stane Stanislav Stano Stansgoj Stanon Stislav Stojan Stojce Stojdrag Stojgoj Stojmir Stradoslav Stranimir Stregomil Sujce Svegoj Sveljub Svemir Svetec Svetin Svetodrag Svetogoj Svetomir Svetoslav Scenedrag Tihodrag Tihomir Tihožit Trdac Trdogoj Trdomir Trdoslav Trebec Trebegoj Trebeš Trebibor Trebibrat Trebil Trebin Trebimir Trebišin Trebivit Trebnik Trebušnež Uncat Unislav Val Valnik Vecegoj Vecevoj Veligoj Velikne Vencegoj Venko Vilan Vitin Vitomir Vitomisl Vitogoj Vitošlav Višegoj Višemir Vladimir Vlado Voinomir Volkoj Volkun Zababerad Zadrag Zdebor Zdedrag Zdegoj Zdemir Zdeslav Zdestan Zememišl Zemeteh Zemiboned Zemidrug Zemignev Zemin Zloslav Zverce Zvergoj Zverko Železen Židislav Žilec Žitigoj Žitomir Žitomisl Žitovit Žizemir
+			Blaško Bogdan Bogoslav Božidar Božo Bojan Boril Boris Boroj Boško Branko Budislav Cvetni Cvetašin Cvetin Cvetoš Dejan Doberko Dobrilo Dobrovoj Dobroslav Dragaš Dragobrat Dražilo Dušan Godomir Gojko Gradimir Hraber Ivko Izeslav Jezerko Kazimir_Casimir Karan Kocelj Krilan Ljuben Ljubenko Liubivoj Ljubinko Ljubomir Ljuboslav Maleš Miladin Milan Milanko Milen Milenko Milevoj Milin Milinko Milislav Milovan Milorad Miloš Milun Miluš Milutin Miljen Miljko Milobrat Milodrag Mirko Mirodar Mišljen Mladen Negoš Nedeljko Ninko Nino Novko Obren Prerad Pribic Radan Radivoj Radinko Radislav Radic Radmil Radovan Radoj Radojko Radomir Radosim Radoslav Rajko Ratko Rebom Savo Slavoljub Sokol Srecan Srecko Stanko Stojadin Stojko Svetopolk_Svatopluk Šišman Šumijak Tašo Tihomil Uroš Valhun Vasoj Veselin Vecerin Vetko Vid Vidojko Vitko Vitor Vladoslav Vlatko Vojdrag Vojtek Volkašin Vratislav Zlatko Zlatoslav Zlatoust
 			Grega Jurij Jab Nebojsa Lars Ferdo Doroe Radivoj Joza Rozle Bruno Maj Herman Deni Antonio Jadran Danijel Iztok Cvetko Semsudin Mario Danilo Matjaz Vinko Faton Jadran Bosko Ruben Zvone Dorian Elvir Tihomir Dubravko Kostja Savo Cene Nik Arnel Taras Arne Branko Hidajet Ozbej Misel Dejvid Vane Sakib Rado Adriano Zivan Florjan Miljan Emilijan Brane Dimitrij Ambroz Senad Andreas Ajdin Marjo Nedo Jelenko Jasa Vilko Zak Gaj Metod Franeisek Mohor Stanko Igor Marko Urh Milan Miro Natan Sinisa Mitko Slavoljub Domen Julian Jadranko Emrah Vaso
 		}
 
 		female_names = {
+			Bega Bela Belica Beliša Bitinja Blagica Bogumila Boželisa Branka Bratina Bratrica Budislava Crna Dobrava Dobrica Dobrilka Dobrinja Dobrota Dobrožica Dobrožižna Dobruška Dolgodelka Domnega Dražica Godeslava Gojica Gosta Gostinja Gostiša Govica Jaronega Jaroslava Jelena Ladana Laduta Lastuša Lazica Lepa Ljuba Ljubiha Ljubonega Ljubonja Ljubota Ljuta Ljutica Mala Manidraga Miljena Mislena Mirica Mirna Miroslava Nedeljka Negota Odola Pacemira Predobra Pribila Pribina Pribislava Prisnoba Prisnota Radonja Semika Slava Slavka Slovenka Sobemisla Stanila Stanislava Stislava Stojana Stojina Straha Stranka Svetoslava Tešina Težkona Tihica Tihomira Tihonja Tonislava Topa Trebenja Trebica Trebina Ubislava Vevera Vidina Vilana Volcina Volkinja Volkonja Volkota Vranica Zemidraga Zenislava Zla Zlativenca Zleslava Zverica Zverinja Zverka Židana Živina
+			Bistra Bogdana Boža Bojana Bosiljka Brajna Cveta Cvetana Cudna Danica Daša Deva Dejana Divna Dobrana Dobrija Draga Dragica Golobica Gorislava Gradislava Granislava Grozda Grozdana Grobiša Ivka Jagoda Janja Jasna Jela Jelenka Kazimira Kalina Kosana Košuta Krilana Lilijana Ljubica Ljubomira Ljuboslava Maleša Malina Malinka Mila Milena Milislava Milica Milojka Milunka Miluša Milja Miljana Miljka Mira Mirca Mirjana Mica Mišljena Morava Neda Nišava Novica Ogrinja Pavica Prodana Rada Radana Radojka Rajka Sava Slavica Smiljana Stana Stanimir Stanka Stojna Tankosa Tankosava Tonka Vesela Vida Vidojka Vidoslava Volkoslava Volcica Zlatkoka Zorana Zorka Zvezdana Živkoka
 			Zalka Nija Milena Iko Anamari Romina Lidija Enja Indira Spela Meta Gorana Semira Loredana Dora Marjana Olivera Rasima Vesna Damijana Vlasta Lucija Verica Elica Janina Dervisa Dorica Ernesta Jerneja Sasa Bosilkja Drita Nerina Anastazija Boja Armina Klaudia Smiljana Nada Timea Amelija Vilma Sonja Brankica Sladjana Zofka Jerica Ilona Ramiza Slavojka Monika Lueka Senka Hanka Masa Alena Melanja Tita Amira Rozika Breda Milanka Danka Veselka Nika Darka Klara Maya Grozdana Lucia Roza Pavla Sanija Bronislava Neza Aneta Hata Stana
 		}
 
-		from_dynasty_prefix = "of "
-
-		male_patronym = "son"
+		from_dynasty_prefix = "od "
 		
+		male_patronym = "ic"
+		prefix = no
+
 		modifier = default_culture_modifier
 	}
+}
+nicatorian = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures =  { easterngfx }
 
 	mijinite = {
-		graphical_cultures = { westerngfx }
-
-		color = { 1 0.2 1 }
-
-		male_names = {
-			Richard
-		}
-
-		female_names = {
-			Richard
-		}
-
-		from_dynasty_prefix = "of "
-
-		male_patronym = "son"
+		graphical_cultures = { byzantinegfx }
 		
-		modifier = default_culture_modifier
-	}
-
-	martirosyan = {
-		graphical_cultures = { westerngfx }
-
-		color = { 0.3 0.7 0.7 }
+		color = { 0.5 0.2 0.5 }
 
 		male_names = {
-			Richard
+			Abas Abirad Aboughamr Aboulgharib Aleksandr_Alexander Artashes Artashir_Ardeshir Artavazd_Ardabast Arsen Arshak Ashot_Ashot Athom Atrnerseh_Atrnerseh Avag Avedis Bagour_Bagour Bagrat Bedros_Peter Boghos_Paul Davit_David Eshkhan Gagik_Gagik Gevorg_George
+			Gosdantin_Constantine Grigor_Gregory Gurgen_Lupo Hagop Hamazasp Hethum Hovhannes_John Hovsep_Joseph Ishkhan_Ishkhan Ivane_John Kapriel_Gabriel Khachik Khosrov_Khosrau Levon_Leo Malkhas_Malkhas Mamigon Manuel_Manuel Margos_Marcus Melek Mihrdat_Mithridates Mikayel_Michael Mleh Mushegh Mushel Mzhezh
+			Nerseh_Narses Oshin Roupen_Reuben Sahag_Isaac Sarkis_Sergius Sevag Shahanshah_Shahanshah Smbat_Smbat Stepanos_Stephen Tachat Taniel_Daniel Tatoul Tigran Tornik_Tornik Tovmas_Thomas Thoros_Theodore Trdat Vache Vachagan Vagharshak Vahag Vahan Vahram_Bahram Vakhtank Varazdat Vartan Vassak Vesd Vrtanes Zakare_Zachary Zarmihr
 		}
-
 		female_names = {
-			Richard
+			Aghavni Alitz_Alice Almasd Anahid Anna_Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi Datevig Dalita Eliz_Eloise Gadar Gorandoukht_Gorandukht Hasmig Houri Hranoush
+			Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid_Margaret Maria_Maria Mariyam_Maria Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik_Satinik Seta Siran Sirvart
+			Srpouhi Shoushanig Takouhi Tamar_Tamar Vartanoush Vartouhi Vosgi Yeva Zabel_Elizabeth Zmroukhd
 		}
-
-		from_dynasty_prefix = "of "
-
-		male_patronym = "son"
+		
+		from_dynasty_prefix = "ve "
+		
+		disinherit_from_blinding = yes
 		
 		modifier = default_culture_modifier
 	}
 
 	aurissiote = {
-		graphical_cultures = { westerngfx }
-
-		color = { 0.5 0.4 0.9 }
+		graphical_cultures = { byzantinegfx }
+		
+		color = { 0.8 0.3 0.8 }
 
 		male_names = {
-			Richard
+			Adrianos_Adrian Akakios_Acacius Alexandros_Alexander Alexios_Alexis Anastasios_Anastasius Anatolios Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos Antonios_Antonius Apollonios Arsenios Artemios Athanasios_Athanasius Bardas
+			Bartholomaios_Bartolomeus Basileios_Basil Belisarios_Belisarius Boethios Bosporios Christophoros_Christopher Chrysanthos Chrysogonos Damianos_Damian Daniel_Daniel David_David Demetrios_Demetrius Diogenes Dionysios_Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios_Eugene Euphemios Eusebios_Eusebius Eustathios_Eustace Evangelos Gabriel_Gabriel Gennadios_Gennadius Georgios_George Gerasimos Germanos_Germanus Gregoras_Gregory Gregorios_Gregory Hektorios_Hector Helias_Elijah Herakleios_Heracles Hierotheos Himerios
+			Hippolytos_Hippolytus Hypatios Iakobos_Jacob Ignatios_Ignatius Innokentios_Innocent Ioannes_John Ioannikios Iordanes_Jordan Ioseph_Joseph Isaakios_Isaac Isaias_Isaiah Isidoros_Isidoros Ioulianos_Julian Ioustinianos_Justinian Ioustinos_Justin Kaisarios_Caesar
+			Kallinikos Kallistos_Callistus Komitas Konstantinos_Constantine Konstantios_Constantius Konstas_Constans Kosmas_Cosmas Kyriakos_Cyriacus Kyrillos_Cyril Kyros Laurentios_Laurence Lazaros_Lazarus Leon_Leo Leontios_Leontius Loukas_Luke Makarios Manuel Markos_Marcus
+			Matthaios_Matthew Maurikios_Maurice Maximos_Maximus Megistos_Magnus Meletios Methodios Michael_Michael Narses Neophytos Nikephoros_Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Orestes Pamphilios Pankratios_Pancras Pantoleon Paschalis_Pascal
+			Pavlos_Paul Pelagios_Pelagius Petros_Peter Philaretos Philippos_Philip Philotheos Phokas Photios Polykarpos Porphyrios Prokopios_Procopius Pyrros Raphail_Raphael Romanos_Roman Sabas Samuel_Samuel Serapion_Seraphin Sebastianos_Sebastian Sergios_Sergius Stephanos_Stephen
+			Staurakios Symeon_Simon Symmachos_Symmachus Theocharistos Theodoros_Theodore Theodosios_Theodosios Theodotos_Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas_Thomas Tiberios_Tiberius Traianos_Trajan
+			Timotheos_Timothy Tryphon Valerios_Valerius Zacharias_Zachary Zenobios Zenon
 		}
-
 		female_names = {
-			Richard
+			Adriane_Adriana Agathe_Agatha Agne_Agnes Aikaterine_Catherine Alexandra_Alexandra Alexeia_Alexia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonia_Antonia Apollonia Athanasia Barbara_Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Epiphania Eudokia_Eudocia Eudoxia_Eudocia Eugenia_Eugenia Eulalia Eunike Euphemia_Euphemia Euphrasia Euphrosyne_Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia_Georgia Gregoria Helene_Helen Hypatia Ioanna_Joan Ioulia_Julia Iouliana_Juliana Ioustina_Justina Kale Konstantia_Constantia Konstantine_Constantina Kyra Kyriake_Kyriake
+			Leontia Margarita_Margaret Maria_Maria Markia_Marcia Martha_Martha Melissa_Melisende Nikarete Nikoletta Nonna Parthena Pavlina_Paulina Pelagia Petronia_Petronia Philippa_Philippa Phyllis Pulcheria_Pulcheria Rhodanthe Romane Romylia Sergia_Sergia Sibylla_Sibylla
+			Simonis Sophia_Sophia Stephania_Stephania Thekla Theochariste Theodora_Theodora Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais Valeria_Valeria Viviana_Viviana Xene Zenobia Zoe
 		}
 
 		from_dynasty_prefix = "of "
 
-		male_patronym = "son"
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 50
+		father_name_chance = 0
 		
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+		
+		disinherit_from_blinding = yes
+
 		modifier = default_culture_modifier
 	}
 
