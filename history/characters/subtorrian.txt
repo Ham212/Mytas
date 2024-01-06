@@ -342,7 +342,7 @@
 	706.10.8={
 		add_spouse=29
 	}
-	741.7.1={
+	752.7.1={
 		death=yes
 	}
 }
@@ -409,7 +409,7 @@
 		birth=yes
 	}
 	#Euric Winguric
-	746.8.16={
+	755.8.16={
 		death=yes
 	}
 }

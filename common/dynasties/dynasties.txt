@@ -1,27 +1,27 @@
 1={
 	name="Jelovean"
 	culture="cyvodic"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 2={
 	name="Krizaj"
 	culture="cyvodic"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 3={
 	name="Zitnik"
 	culture="cyvodic"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 4={
 	name="Bratusa"
 	culture="cyvodic"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 5={
 	name="Balazic"
 	culture="cyvodic"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 6={
 	name="Luporo"
@@ -31,7 +31,7 @@
 7={
 	name="Glasnovic"
 	culture="lucijan"
-	religion="peteran_theodarity"
+	religion="tertari"
 }
 8={
 	name="Colias"
@@ -68,3 +68,4 @@
 	culture="lyngarian"
 	religion="peteran_theodarity"
 }
+#15-x in "placeholder_lyngarian"

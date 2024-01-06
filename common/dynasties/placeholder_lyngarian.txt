@@ -1,0 +1,50 @@
+15 ={
+	name="Saphra"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+16 ={
+	name="Sigisvult"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+17 ={
+	name="Videric"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+18 ={
+	name="Frigerid"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+19 ={
+	name="Valia"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+20 ={
+	name="Radegond"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+21 ={
+	name="Lorelei"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+22 ={
+	name="Melisanda"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+23 ={
+	name="Avina"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
+24 ={
+	name="Liuva"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+}
