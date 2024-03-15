@@ -1,0 +1,15 @@
+# c_pazanbey
+
+# County Title
+title = c_pazanbey
+
+# Settlements
+max_settlements = 1
+
+b_b_8 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,8 @@
+# e_sikssayu
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+700.1.1={
+	liege=k_koroush
+}

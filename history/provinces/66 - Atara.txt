@@ -1,0 +1,15 @@
+# c_atara
+
+# County Title
+title = c_atara
+
+# Settlements
+max_settlements = 1
+
+b_a_4 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,15 @@
+# c_saasaniyas
+
+# County Title
+title = c_saasaniyas
+
+# Settlements
+max_settlements = 1
+
+b_b_6 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

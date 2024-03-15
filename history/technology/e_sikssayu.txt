@@ -1,0 +1,22 @@
+#SIKSSAYU
+technology = {
+	titles = {
+		d_arpaqui
+		d_delvaz
+		d_dez
+		d_gilan
+		d_moshedd
+		d_parwiz
+		d_skarjiq
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

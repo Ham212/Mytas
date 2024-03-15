@@ -1,0 +1,15 @@
+# c_xira
+
+# County Title
+title = c_xira
+
+# Settlements
+max_settlements = 1
+
+b_a_8 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

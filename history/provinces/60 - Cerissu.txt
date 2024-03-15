@@ -1,0 +1,15 @@
+# c_cerissu
+
+# County Title
+title = c_cerissu
+
+# Settlements
+max_settlements = 1
+
+b_a_2 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

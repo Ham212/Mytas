@@ -272,7 +272,7 @@ e_carrisia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 } }
+					any_demesne_province = { OR = { province_id = 10 province_id = 11 province_id = 12 province_id = 56 } }
 				}
 			}
 			capital = 10 # c_altinado
@@ -312,6 +312,19 @@ e_carrisia = {
 				b_zaralid = {
 				}
 				b_arnegliscus = {
+				}
+			}
+			c_maras = { # 56
+				color={ 255 110 110 }
+				color2={ 255 255 255 }
+				
+				b_ljubo = {
+				}
+				b_maras = {
+				}
+				b_radus = {
+				}
+				b_tihozi = {
 				}
 			}
 		}
@@ -370,7 +383,7 @@ e_carrisia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 } }
+					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 province_id = 54 province_id = 55 } }
 				}
 			}
 			capital = 7 # c_treporti
@@ -386,6 +399,8 @@ e_carrisia = {
 				b_veduco = {
 				}
 				b_sunnia = {
+				}
+				b_caseni = {
 				}
 			}
 			c_adosinda = { # 9
@@ -410,6 +425,34 @@ e_carrisia = {
 				b_edetero = {
 				}
 				b_macedora = {
+				}
+				b_adena = {
+				}
+			}
+			c_lygia = { # 54
+				color={ 255 82 82 }
+				color2={ 255 255 255 }
+				
+				b_vicevero = {
+				}
+				b_olirea = {
+				}
+				b_israrta = {
+				}
+				b_beninsa = {
+				}
+				b_gunidis = {
+				}
+			}
+			c_verios = { # 55
+				color={ 255 74 74 }
+				color2={ 255 255 255 }
+				
+				b_verios = {
+				}
+				b_rioris = {
+				}
+				b_benigona = {
 				}
 			}
 		}
@@ -911,6 +954,422 @@ e_carrisia = {
 				b_ojagh = {
 				}
 				b_barsa = {
+				}
+			}
+		}
+	}
+}
+e_sikssayu = {
+	color={ 73 62 24 }
+	color2={ 255 255 20 }
+	
+	capital = 57 # c_el_aris
+	culture = lyngarian
+	
+	k_siksa = {
+		color={ 63 72 19 }
+		color2={ 255 255 255 }
+		
+		capital = 57 # c_el_aris
+		culture = lyngarian
+		
+		c_abuter = { # 68
+			color={ 47 102 24 }
+			color2={ 255 255 255 }
+			
+			b_c_4 = {
+			}
+		}
+		c_arpaqui = { # 67
+			color={ 44 102 20 }
+			color2={ 255 255 255 }
+			
+			b_b_4 = {
+			}
+		}
+		c_atara = { # 66
+			color={ 37 102 10 }
+			color2={ 255 255 255 }
+			
+			b_a_4 = {
+			}
+		}
+		c_baquji = { # 69
+			color={ 46 102 22 }
+			color2={ 255 255 255 }
+			
+			b_a_5 = {
+			}
+		}
+		c_carizkale = { # 62
+			color={ 57 102 36 }
+			color2={ 255 255 255 }
+			
+			b_c_2 = {
+			}
+		}
+		c_cerissu = { # 60
+			color={ 54 102 32 }
+			color2={ 255 255 255 }
+			
+			b_a_2 = {
+			}
+		}
+		c_delvaz = { # 64
+			color={ 40 102 14 }
+			color2={ 255 255 255 }
+			
+			b_b_3 = {
+			}
+		}
+		c_guzler = { # 65
+			color={ 39 102 12 }
+			color2={ 255 255 255 }
+			
+			b_c_3 = {
+			}
+		}
+		c_haiqban = { # 63
+			color={ 52 102 30 }
+			color2={ 255 255 255 }
+			
+			b_a_3 = {
+			}
+		}
+		c_skarjiq = { # 61
+			color={ 55 102 34 }
+			color2={ 255 255 255 }
+			
+			b_b_2 = {
+			}
+		}
+		d_moshedd = {
+			color={ 43 92 9 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 57 province_id = 58 province_id = 59 } }
+				}
+			}
+			capital = 57 # c_el_aris
+			
+			c_el_aris = { # 57
+				color={ 33 102 4 }
+				color2={ 255 255 255 }
+				
+				b_a = {
+				}
+			}
+			c_marasa = { # 59
+				color={ 30 102 0 }
+				color2={ 255 255 255 }
+				
+				b_c = {
+				}
+			}
+			c_mosheddin = { # 58
+				color={ 32 102 2 }
+				color2={ 255 255 255 }
+				
+				b_b = {
+				}
+			}
+		}
+		d_arpaqui = {
+			color={ 54 92 25 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 67 province_id = 68 province_id = 69 } }
+				}
+			}
+			capital = 67 # c_arpaqui
+			
+			c_arpaqui = { # 67
+				color={ 44 102 20 }
+				color2={ 255 255 255 }
+				
+				b_b_4 = {
+				}
+			}
+			c_abuter = { # 68
+				color={ 47 102 24 }
+				color2={ 255 255 255 }
+				
+				b_c_4 = {
+				}
+			}
+			c_baquji = { # 69
+				color={ 46 102 22 }
+				color2={ 255 255 255 }
+				
+				b_a_5 = {
+				}
+			}
+		}
+		d_delvaz = {
+			color={ 50 92 19 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 64 province_id = 65 province_id = 66 } }
+				}
+			}
+			capital = 64 # c_delvaz
+			
+			c_delvaz = { # 64
+				color={ 40 102 14 }
+				color2={ 255 255 255 }
+				
+				b_b_3 = {
+				}
+			}
+			c_atara = { # 66
+				color={ 37 102 10 }
+				color2={ 255 255 255 }
+				
+				b_a_4 = {
+				}
+			}
+			c_guzler = { # 65
+				color={ 39 102 12 }
+				color2={ 255 255 255 }
+				
+				b_c_3 = {
+				}
+			}
+		}
+		d_skarjiq = {
+			color={ 64 92 37 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 60 province_id = 61 province_id = 62 province_id = 63 } }
+				}
+			}
+			capital = 60 # c_cerissu
+			
+			c_cerissu = { # 60
+				color={ 54 102 32 }
+				color2={ 255 255 255 }
+				
+				b_a_2 = {
+				}
+			}
+			c_carizkale = { # 62
+				color={ 57 102 36 }
+				color2={ 255 255 255 }
+				
+				b_c_2 = {
+				}
+			}
+			c_haiqban = { # 63
+				color={ 52 102 30 }
+				color2={ 255 255 255 }
+				
+				b_a_3 = {
+				}
+			}
+			c_skarjiq = { # 61
+				color={ 55 102 34 }
+				color2={ 255 255 255 }
+				
+				b_b_2 = {
+				}
+			}
+		}
+	}
+	k_koroush = {
+		color={ 69 94 17 }
+		color2={ 255 255 255 }
+		
+		capital = 70 # c_dez
+		culture = koroushi
+		
+		c_dez = { # 70
+			color={ 39 124 2 }
+			color2={ 255 255 255 }
+			
+			b_b_5 = {
+			}
+		}
+		c_at_tarnah = { # 76
+			color={ 46 124 12 }
+			color2={ 255 255 255 }
+			
+			b_b_7 = {
+			}
+		}
+		c_badekli = { # 75
+			color={ 48 122 14 }
+			color2={ 255 255 255 }
+			
+			b_a_7 = {
+			}
+		}
+		c_gilan = { # 77
+			color={ 57 122 29 }
+			color2={ 255 255 255 }
+			
+			b_c_7 = {
+			}
+		}
+		c_kazen = { # 72
+			color={ 42 124 7 }
+			color2={ 255 255 255 }
+			
+			b_a_6 = {
+			}
+		}
+		c_mallanzala = { # 71
+			color={ 38 127 0 }
+			color2={ 255 255 255 }
+			
+			b_c_5 = {
+			}
+		}
+		c_parwiz = { # 74
+			color={ 50 122 17 }
+			color2={ 255 255 255 }
+			
+			b_c_6 = {
+			}
+		}
+		c_pazanbey = { # 79
+			color={ 54 124 24 }
+			color2={ 255 255 255 }
+			
+			b_b_8 = {
+			}
+		}
+		c_saasaniyas = { # 73
+			color={ 40 124 4 }
+			color2={ 255 255 255 }
+			
+			b_b_6 = {
+			}
+		}
+		c_xira = { # 78
+			color={ 55 122 26 }
+			color2={ 255 255 255 }
+			
+			b_a_8 = {
+			}
+		}
+		d_dez = {
+			color={ 49 114 7 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 70 province_id = 71 province_id = 72 province_id = 73 } }
+				}
+			}
+			capital = 70 # c_dez
+			
+			c_dez = { # 70
+				color={ 39 124 2 }
+				color2={ 255 255 255 }
+				
+				b_b_5 = {
+				}
+			}
+			c_kazen = { # 72
+				color={ 42 124 7 }
+				color2={ 255 255 255 }
+				
+				b_a_6 = {
+				}
+			}
+			c_mallanzala = { # 71
+				color={ 38 127 0 }
+				color2={ 255 255 255 }
+				
+				b_c_5 = {
+				}
+			}
+			c_saasaniyas = { # 73
+				color={ 40 124 4 }
+				color2={ 255 255 255 }
+				
+				b_b_6 = {
+				}
+			}
+		}
+		d_gilan = {
+			color={ 67 112 34 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 77 province_id = 78 province_id = 79 } }
+				}
+			}
+			capital = 77 # c_gilan
+			
+			c_gilan = { # 77
+				color={ 57 122 29 }
+				color2={ 255 255 255 }
+				
+				b_c_7 = {
+				}
+			}
+			c_pazanbey = { # 79
+				color={ 54 124 24 }
+				color2={ 255 255 255 }
+				
+				b_b_8 = {
+				}
+			}
+			c_xira = { # 78
+				color={ 55 122 26 }
+				color2={ 255 255 255 }
+				
+				b_a_8 = {
+				}
+			}
+		}
+		d_parwiz = {
+			color={ 60 112 22 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 74 province_id = 75 province_id = 76 } }
+				}
+			}
+			capital = 74 # c_parwiz
+			
+			c_parwiz = { # 74
+				color={ 50 122 17 }
+				color2={ 255 255 255 }
+				
+				b_c_6 = {
+				}
+			}
+			c_at_tarnah = { # 76
+				color={ 46 124 12 }
+				color2={ 255 255 255 }
+				
+				b_b_7 = {
+				}
+			}
+			c_badekli = { # 75
+				color={ 48 122 14 }
+				color2={ 255 255 255 }
+				
+				b_a_7 = {
 				}
 			}
 		}

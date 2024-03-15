@@ -52,11 +52,37 @@ province;red;green;blue;x;x
 51;38;119;173;Thuryma;x
 52;41;120;173;Lebidon;x
 53;35;119;175;Baroli;x
-54;76;255;0;Ocean;x
-55;0;255;255;Gulf of Dalibor;x
-56;0;229;229;Gulf of Kastiid;x
-57;0;252;252;Subtorrian Sea;x
-58;0;239;239;Subtorrian Sea #2;x
-59;0;244;244;Golat Sea;x
-60;0;234;234;Almuhad Coast;x
-61;0;249;249;Sespinan Gulf;x
+54;255;82;82;Lygia;x
+55;255;74;74;Verios;x
+56;255;110;110;Maras;x
+57;33;102;4;El Aris;x
+58;32;102;2;Mosheddin;x
+59;30;102;0;Marasa;x
+60;54;102;32;Cerissu;x
+61;55;102;34;Skarjiq;x
+62;57;102;36;Carizkale;x
+63;52;102;30;Haiqban;x
+64;40;102;14;Delvaz;x
+65;39;102;12;Guzler;x
+66;37;102;10;Atara;x
+67;44;102;20;Arpaqui;x
+68;47;102;24;Abuter;x
+69;46;102;22;Baquji;x
+70;39;124;2;Dez;x
+71;38;127;0;Mallanzala;x
+72;42;124;7;Kazen;x
+73;40;124;4;Saasaniyas;x
+74;50;122;17;Parwiz;x
+75;48;122;14;Badekli;x
+76;46;124;12;At Tarnah;x
+77;57;122;29;Gilan;x
+78;55;122;26;Xira;x
+79;54;124;24;Pazanbey;x
+80;76;255;0;Ocean;x
+81;0;255;255;Gulf of Dalibor;x
+82;0;229;229;Gulf of Kastiid;x
+83;0;252;252;Subtorrian Sea;x
+84;0;239;239;Subtorrian Sea #2;x
+85;0;244;244;Golat Sea;x
+86;0;234;234;Almuhad Coast;x
+87;0;249;249;Sespinan Gulf;x

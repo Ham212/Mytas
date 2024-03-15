@@ -1,0 +1,15 @@
+# c_abuter
+
+# County Title
+title = c_abuter
+
+# Settlements
+max_settlements = 1
+
+b_c_4 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

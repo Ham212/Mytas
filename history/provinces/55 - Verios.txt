@@ -1,0 +1,17 @@
+# c_verios
+
+# County Title
+title = c_verios
+
+# Settlements
+max_settlements = 3
+
+b_verios = castle
+b_rioris = city
+#b_benigona = temple
+
+# Misc
+culture = lyngarian
+religion = peteran_theodarity
+
+#History

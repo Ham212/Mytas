@@ -1,0 +1,15 @@
+# c_delvaz
+
+# County Title
+title = c_delvaz
+
+# Settlements
+max_settlements = 1
+
+b_b_3 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

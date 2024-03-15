@@ -1,0 +1,15 @@
+# c_gilan
+
+# County Title
+title = c_gilan
+
+# Settlements
+max_settlements = 1
+
+b_c_7 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

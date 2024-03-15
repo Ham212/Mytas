@@ -1,0 +1,15 @@
+# c_at_tarnah
+
+# County Title
+title = c_at_tarnah
+
+# Settlements
+max_settlements = 1
+
+b_b_7 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

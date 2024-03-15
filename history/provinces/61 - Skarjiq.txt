@@ -1,0 +1,15 @@
+# c_skarjiq
+
+# County Title
+title = c_skarjiq
+
+# Settlements
+max_settlements = 1
+
+b_b_2 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

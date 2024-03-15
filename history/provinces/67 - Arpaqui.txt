@@ -1,0 +1,15 @@
+# c_arpaqui
+
+# County Title
+title = c_arpaqui
+
+# Settlements
+max_settlements = 1
+
+b_b_4 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,19 @@
+# c_lygia
+
+# County Title
+title = c_lygia
+
+# Settlements
+max_settlements = 5
+
+b_vicevero = castle
+b_olirea = city
+#b_israrta = temple
+#b_beninsa = castle
+#b_gunidis = city
+
+# Misc
+culture = lyngarian
+religion = peteran_theodarity
+
+#History

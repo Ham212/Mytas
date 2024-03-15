@@ -1,0 +1,15 @@
+# c_dez
+
+# County Title
+title = c_dez
+
+# Settlements
+max_settlements = 1
+
+b_b_5 = castle
+
+# Misc
+culture = koroushi
+religion = bassi_tamirism
+
+#History

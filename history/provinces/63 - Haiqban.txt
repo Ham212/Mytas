@@ -1,0 +1,15 @@
+# c_haiqban
+
+# County Title
+title = c_haiqban
+
+# Settlements
+max_settlements = 1
+
+b_a_3 = castle
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

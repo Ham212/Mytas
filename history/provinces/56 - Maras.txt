@@ -1,0 +1,18 @@
+# c_maras
+
+# County Title
+title = c_maras
+
+# Settlements
+max_settlements = 4
+
+b_ljubo = castle
+b_maras = city
+#b_radus = temple
+#b_tihozi = castle
+
+# Misc
+culture = cyvodic
+religion = tertari
+
+#History
