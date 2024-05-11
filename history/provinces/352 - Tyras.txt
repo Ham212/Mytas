@@ -1,0 +1,19 @@
+# c_tyras
+
+# County Title
+title = c_tyras
+
+# Settlements
+max_settlements = 5
+
+b_tyras = castle
+b_tyras_2 = city
+b_tyras_3 = temple
+#b_tyras_4 = castle
+#b_tyras_5 = city
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

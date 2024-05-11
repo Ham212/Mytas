@@ -1,0 +1,17 @@
+# c_iasynthos
+
+# County Title
+title = c_iasynthos
+
+# Settlements
+max_settlements = 3
+
+b_iasynthos = castle
+b_iasynthos_2 = city
+#b_iasynthos_3 = temple
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

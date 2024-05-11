@@ -1,0 +1,19 @@
+# c_golbahan
+
+# County Title
+title = c_golbahan
+
+# Settlements
+max_settlements = 5
+
+b_golbahan = castle
+b_golbahan_2 = city
+#b_golbahan_3 = temple
+#b_golbahan_4 = castle
+#b_golbahan_5 = city
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

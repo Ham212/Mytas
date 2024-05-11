@@ -1,0 +1,18 @@
+# c_farrati
+
+# County Title
+title = c_farrati
+
+# Settlements
+max_settlements = 4
+
+b_farrati = castle
+b_farrati_2 = city
+#b_farrati_3 = temple
+#b_farrati_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_tanera
+
+# County Title
+title = c_tanera
+
+# Settlements
+max_settlements = 4
+
+b_tanera = castle
+b_tanera_2 = city
+#b_tanera_3 = temple
+#b_tanera_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

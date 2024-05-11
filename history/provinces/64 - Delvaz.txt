@@ -4,9 +4,13 @@
 title = c_delvaz
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 
-b_b_3 = castle
+b_delvaz = castle
+b_quiziluk = city
+b_serinozu = temple
+#b_hadari = castle
+#b_oyooqraa = city
 
 # Misc
 culture = sikssaean

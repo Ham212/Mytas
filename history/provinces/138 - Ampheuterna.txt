@@ -1,0 +1,17 @@
+# c_ampheuterna
+
+# County Title
+title = c_ampheuterna
+
+# Settlements
+max_settlements = 3
+
+b_ampheuterna = castle
+#b_ampheuterna_2 = city
+#b_ampheuterna_3 = temple
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

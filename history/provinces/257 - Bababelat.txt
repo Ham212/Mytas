@@ -1,0 +1,17 @@
+# c_bababelat
+
+# County Title
+title = c_bababelat
+
+# Settlements
+max_settlements = 3
+
+b_bababelat = castle
+b_bababelat_2 = city
+#b_bababelat_3 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_scaserta
+
+# County Title
+title = c_scaserta
+
+# Settlements
+max_settlements = 4
+
+b_scaserta = castle
+b_scaserta_2 = city
+#b_scaserta_3 = temple
+#b_scaserta_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

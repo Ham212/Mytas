@@ -4,12 +4,13 @@
 title = c_maras
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_ljubo = castle
 b_maras = city
 #b_radus = temple
 #b_tihozi = castle
+#b_anesbes = city
 
 # Misc
 culture = cyvodic

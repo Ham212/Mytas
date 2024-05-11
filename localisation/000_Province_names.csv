@@ -54,12 +54,12 @@ PROV53;Baroli;Baroli;Baroli;;;;;;;;;x
 PROV54;Lygia;Lygia;Lygia;;;;;;;;;x
 PROV55;Verios;Verios;Verios;;;;;;;;;x
 PROV56;Maras;Maras;Maras;;;;;;;;;x
-PROV57;El Aris;El Aris;El Aris;;;;;;;;;x
+PROV57;Karis;Karis;Karis;;;;;;;;;x
 PROV58;Mosheddin;Mosheddin;Mosheddin;;;;;;;;;x
 PROV59;Marasa;Marasa;Marasa;;;;;;;;;x
 PROV60;Cerissu;Cerissu;Cerissu;;;;;;;;;x
 PROV61;Skarjiq;Skarjiq;Skarjiq;;;;;;;;;x
-PROV62;Carizkale;Carizkale;Carizkale;;;;;;;;;x
+PROV62;Carizquale;Carizquale;Carizquale;;;;;;;;;x
 PROV63;Haiqban;Haiqban;Haiqban;;;;;;;;;x
 PROV64;Delvaz;Delvaz;Delvaz;;;;;;;;;x
 PROV65;Guzler;Guzler;Guzler;;;;;;;;;x
@@ -77,11 +77,292 @@ PROV76;At Tarnah;At Tarnah;At Tarnah;;;;;;;;;x
 PROV77;Gilan;Gilan;Gilan;;;;;;;;;x
 PROV78;Xira;Xira;Xira;;;;;;;;;x
 PROV79;Pazanbey;Pazanbey;Pazanbey;;;;;;;;;x
-PROV80;Ocean;Ocean;Ocean;;;;;;;;;x
-PROV81;Gulf of Dalibor;Gulf of Dalibor;Gulf of Dalibor;;;;;;;;;x
-PROV82;Gulf of Kastiid;Gulf of Kastiid;Gulf of Kastiid;;;;;;;;;x
-PROV83;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
-PROV84;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
-PROV85;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
-PROV86;Almuhad Coast;Almuhad Coast;Almuhad Coast;;;;;;;;;x
-PROV87;Sespinan Gulf;Sespinan Gulf;Sespinan Gulf;;;;;;;;;x
+PROV80;Omukapi;Omukapi;Omukapi;;;;;;;;;x
+PROV81;Ilinbeyli;Ilinbeyli;Ilinbeyli;;;;;;;;;x
+PROV82;Lavargan;Lavargan;Lavargan;;;;;;;;;x
+PROV83;Ctesirkuk;Ctesirkuk;Ctesirkuk;;;;;;;;;x
+PROV84;Gokotton;Gokotton;Gokotton;;;;;;;;;x
+PROV85;Nusattin;Nusattin;Nusattin;;;;;;;;;x
+PROV86;Golbahan;Golbahan;Golbahan;;;;;;;;;x
+PROV87;Guzepinari;Guzepinari;Guzepinari;;;;;;;;;x
+PROV88;Konuculha;Konuculha;Konuculha;;;;;;;;;x
+PROV89;Dedernas;Dedernas;Dedernas;;;;;;;;;x
+PROV90;Teymur;Teymur;Teymur;;;;;;;;;x
+PROV91;Jirost;Jirost;Jirost;;;;;;;;;x
+PROV92;Cayika;Cayika;Cayika;;;;;;;;;x
+PROV93;Xaneme;Xaneme;Xaneme;;;;;;;;;x
+PROV94;Ahislu;Ahislu;Ahislu;;;;;;;;;x
+PROV95;Thayna;Thayna;Thayna;;;;;;;;;x
+PROV96;Nakleonica;Nakleonica;Nakleonica;;;;;;;;;x
+PROV97;Pyleron;Pyleron;Pyleron;;;;;;;;;x
+PROV98;Semyria;Semyria;Semyria;;;;;;;;;x
+PROV99;Alagasz;Alagasz;Alagasz;;;;;;;;;x
+PROV100;Phocastro;Phocastro;Phocastro;;;;;;;;;x
+PROV101;Orchanthus;Orchanthus;Orchanthus;;;;;;;;;x
+PROV102;Pixarnacia;Pixarnacia;Pixarnacia;;;;;;;;;x
+PROV103;Altymos;Altymos;Altymos;;;;;;;;;x
+PROV104;Corcespiae;Corcespiae;Corcespiae;;;;;;;;;x
+PROV105;Pelerikon;Pelerikon;Pelerikon;;;;;;;;;x
+PROV106;Didicea;Didicea;Didicea;;;;;;;;;x
+PROV107;Olythepios;Olythepios;Olythepios;;;;;;;;;x
+PROV108;Odithos;Odithos;Odithos;;;;;;;;;x
+PROV109;Tanera;Tanera;Tanera;;;;;;;;;x
+PROV110;Demyria;Demyria;Demyria;;;;;;;;;x
+PROV111;Cnidaros;Cnidaros;Cnidaros;;;;;;;;;x
+PROV112;Lampsetros;Lampsetros;Lampsetros;;;;;;;;;x
+PROV113;Psezus;Psezus;Psezus;;;;;;;;;x
+PROV114;Melanderios;Melanderios;Melanderios;;;;;;;;;x
+PROV115;Kydarina;Kydarina;Kydarina;;;;;;;;;x
+PROV116;Decontum;Decontum;Decontum;;;;;;;;;x
+PROV117;Naucricapaeum;Naucricapaeum;Naucricapaeum;;;;;;;;;x
+PROV118;Hiererma;Hiererma;Hiererma;;;;;;;;;x
+PROV119;Namoudoz;Namoudoz;Namoudoz;;;;;;;;;x
+PROV120;Bozakot;Bozakot;Bozakot;;;;;;;;;x
+PROV121;Hilartuz;Hilartuz;Hilartuz;;;;;;;;;x
+PROV122;Askorven;Askorven;Askorven;;;;;;;;;x
+PROV123;Primorekin;Primorekin;Primorekin;;;;;;;;;x
+PROV124;Zatrissa;Zatrissa;Zatrissa;;;;;;;;;x
+PROV125;Svec;Svec;Svec;;;;;;;;;x
+PROV126;Rmoutiz;Rmoutiz;Rmoutiz;;;;;;;;;x
+PROV127;Zukaluz;Zukaluz;Zukaluz;;;;;;;;;x
+PROV128;Pletanek;Pletanek;Pletanek;;;;;;;;;x
+PROV129;Opustil;Opustil;Opustil;;;;;;;;;x
+PROV130;Actessos;Actessos;Actessos;;;;;;;;;x
+PROV131;Hieralos;Hieralos;Hieralos;;;;;;;;;x
+PROV132;Iasox;Iasox;Iasox;;;;;;;;;x
+PROV133;Nireucia;Nireucia;Nireucia;;;;;;;;;x
+PROV134;Hyblos;Hyblos;Hyblos;;;;;;;;;x
+PROV135;Thassita;Thassita;Thassita;;;;;;;;;x
+PROV136;Eleutespontos;Eleutespontos;Eleutespontos;;;;;;;;;x
+PROV137;Olympena;Olympena;Olympena;;;;;;;;;x
+PROV138;Ampheuterna;Ampheuterna;Ampheuterna;;;;;;;;;x
+PROV139;Iasynthos;Iasynthos;Iasynthos;;;;;;;;;x
+PROV140;Sicigona;Sicigona;Sicigona;;;;;;;;;x
+PROV141;Dymydon;Dymydon;Dymydon;;;;;;;;;x
+PROV142;Aveirta;Aveirta;Aveirta;;;;;;;;;x
+PROV143;Alereggio;Alereggio;Alereggio;;;;;;;;;x
+PROV144;Syragno;Syragno;Syragno;;;;;;;;;x
+PROV145;Lourola;Lourola;Lourola;;;;;;;;;x
+PROV146;Girodura;Girodura;Girodura;;;;;;;;;x
+PROV147;Egatsi;Egatsi;Egatsi;;;;;;;;;x
+PROV148;Piviso;Piviso;Piviso;;;;;;;;;x
+PROV149;Perustosia;Perustosia;Perustosia;;;;;;;;;x
+PROV150;Tivosoria;Tivosoria;Tivosoria;;;;;;;;;x
+PROV151;Lenduo;Lenduo;Lenduo;;;;;;;;;x
+PROV152;Verugia;Verugia;Verugia;;;;;;;;;x
+PROV153;Syrallegno;Syrallegno;Syrallegno;;;;;;;;;x
+PROV154;Aveigre;Aveigre;Aveigre;;;;;;;;;x
+PROV155;Amatri;Amatri;Amatri;;;;;;;;;x
+PROV156;Nanice;Nanice;Nanice;;;;;;;;;x
+PROV157;Pracino;Pracino;Pracino;;;;;;;;;x
+PROV158;Girostile;Girostile;Girostile;;;;;;;;;x
+PROV159;Nealonghi;Nealonghi;Nealonghi;;;;;;;;;x
+PROV160;Vigera;Vigera;Vigera;;;;;;;;;x
+PROV161;Areliani;Areliani;Areliani;;;;;;;;;x
+PROV162;Ascogna;Ascogna;Ascogna;;;;;;;;;x
+PROV163;Resinde;Resinde;Resinde;;;;;;;;;x
+PROV164;Picelermo;Picelermo;Picelermo;;;;;;;;;x
+PROV165;Saltuzo;Saltuzo;Saltuzo;;;;;;;;;x
+PROV166;Arrinenze;Arrinenze;Arrinenze;;;;;;;;;x
+PROV167;Scaserta;Scaserta;Scaserta;;;;;;;;;x
+PROV168;Tolenresa;Tolenresa;Tolenresa;;;;;;;;;x
+PROV169;Alcarro;Alcarro;Alcarro;;;;;;;;;x
+PROV170;Voriani;Voriani;Voriani;;;;;;;;;x
+PROV171;Igemelli;Igemelli;Igemelli;;;;;;;;;x
+PROV172;Riova;Riova;Riova;;;;;;;;;x
+PROV173;Mozia;Mozia;Mozia;;;;;;;;;x
+PROV174;Caltasello;Caltasello;Caltasello;;;;;;;;;x
+PROV175;Ercopoli;Ercopoli;Ercopoli;;;;;;;;;x
+PROV176;Moncafati;Moncafati;Moncafati;;;;;;;;;x
+PROV177;Pavola;Pavola;Pavola;;;;;;;;;x
+PROV178;Amago;Amago;Amago;;;;;;;;;x
+PROV179;Tocia;Tocia;Tocia;;;;;;;;;x
+PROV180;Tagola;Tagola;Tagola;;;;;;;;;x
+PROV181;Prazara;Prazara;Prazara;;;;;;;;;x
+PROV182;Aveisa;Aveisa;Aveisa;;;;;;;;;x
+PROV183;Viceggio;Viceggio;Viceggio;;;;;;;;;x
+PROV184;Brirbo;Brirbo;Brirbo;;;;;;;;;x
+PROV185;Braria;Braria;Braria;;;;;;;;;x
+PROV186;Avitivi;Avitivi;Avitivi;;;;;;;;;x
+PROV187;Talvati;Talvati;Talvati;;;;;;;;;x
+PROV188;Levianno;Levianno;Levianno;;;;;;;;;x
+PROV189;Farrati;Farrati;Farrati;;;;;;;;;x
+PROV190;Maramori;Maramori;Maramori;;;;;;;;;x
+PROV191;Senia;Senia;Senia;;;;;;;;;x
+PROV192;Segomadura;Segomadura;Segomadura;;;;;;;;;x
+PROV193;Vessetta;Vessetta;Vessetta;;;;;;;;;x
+PROV194;Castelvecchio;Castelvecchio;Castelvecchio;;;;;;;;;x
+PROV195;Scarlatta;Scarlatta;Scarlatta;;;;;;;;;x
+PROV196;Caprera;Caprera;Caprera;;;;;;;;;x
+PROV197;Pretara;Pretara;Pretara;;;;;;;;;x
+PROV198;Croton;Croton;Croton;;;;;;;;;x
+PROV199;Bonenia;Bonenia;Bonenia;;;;;;;;;x
+PROV200;Augusta;Augusta;Augusta;;;;;;;;;x
+PROV201;Camerinum;Camerinum;Camerinum;;;;;;;;;x
+PROV202;Messambria;Messambria;Messambria;;;;;;;;;x
+PROV203;Tuder;Tuder;Tuder;;;;;;;;;x
+PROV204;Vallicella;Vallicella;Vallicella;;;;;;;;;x
+PROV205;Veii;Veii;Veii;;;;;;;;;x
+PROV206;Tenedo;Tenedo;Tenedo;;;;;;;;;x
+PROV207;Illici;Illici;Illici;;;;;;;;;x
+PROV208;Boscaril;Boscaril;Boscaril;;;;;;;;;x
+PROV209;Sempronium;Sempronium;Sempronium;;;;;;;;;x
+PROV210;Callatis;Callatis;Callatis;;;;;;;;;x
+PROV211;Vetera;Vetera;Vetera;;;;;;;;;x
+PROV212;Agheida;Agheida;Agheida;;;;;;;;;x
+PROV213;Rajhada;Rajhada;Rajhada;;;;;;;;;x
+PROV214;Rabahir;Rabahir;Rabahir;;;;;;;;;x
+PROV215;Bayatah;Bayatah;Bayatah;;;;;;;;;x
+PROV216;Ashni;Ashni;Ashni;;;;;;;;;x
+PROV217;Fernarouj;Fernarouj;Fernarouj;;;;;;;;;x
+PROV218;El Kecha;El Kecha;El Kecha;;;;;;;;;x
+PROV219;Suzougha;Suzougha;Suzougha;;;;;;;;;x
+PROV220;Khalil;Khalil;Khalil;;;;;;;;;x
+PROV221;Dahmafour;Dahmafour;Dahmafour;;;;;;;;;x
+PROV222;Moslal;Moslal;Moslal;;;;;;;;;x
+PROV223;Ajdaan;Ajdaan;Ajdaan;;;;;;;;;x
+PROV224;Tenkech;Tenkech;Tenkech;;;;;;;;;x
+PROV225;Kasbir;Kasbir;Kasbir;;;;;;;;;x
+PROV226;Kadulaib;Kadulaib;Kadulaib;;;;;;;;;x
+PROV227;Ad Dascha;Ad Dascha;Ad Dascha;;;;;;;;;x
+PROV228;Mahset;Mahset;Mahset;;;;;;;;;x
+PROV229;Afrad;Afrad;Afrad;;;;;;;;;x
+PROV230;Shehit;Shehit;Shehit;;;;;;;;;x
+PROV231;El Qahagha;El Qahagha;El Qahagha;;;;;;;;;x
+PROV232;El Geli;El Geli;El Geli;;;;;;;;;x
+PROV233;Ezzahtour;Ezzahtour;Ezzahtour;;;;;;;;;x
+PROV234;Khrouliana;Khrouliana;Khrouliana;;;;;;;;;x
+PROV235;Tahud;Tahud;Tahud;;;;;;;;;x
+PROV236;Rishita;Rishita;Rishita;;;;;;;;;x
+PROV237;Barata;Barata;Barata;;;;;;;;;x
+PROV238;Nalin;Nalin;Nalin;;;;;;;;;x
+PROV239;Terada;Terada;Terada;;;;;;;;;x
+PROV240;Jaset;Jaset;Jaset;;;;;;;;;x
+PROV241;Oraliana;Oraliana;Oraliana;;;;;;;;;x
+PROV242;Tobtan;Tobtan;Tobtan;;;;;;;;;x
+PROV243;Thefla;Thefla;Thefla;;;;;;;;;x
+PROV244;Shahte;Shahte;Shahte;;;;;;;;;x
+PROV245;Trari;Trari;Trari;;;;;;;;;x
+PROV246;Touggara;Touggara;Touggara;;;;;;;;;x
+PROV247;Sokliya;Sokliya;Sokliya;;;;;;;;;x
+PROV248;Jaha;Jaha;Jaha;;;;;;;;;x
+PROV249;Ifrale;Ifrale;Ifrale;;;;;;;;;x
+PROV250;Medagana;Medagana;Medagana;;;;;;;;;x
+PROV251;Tabaned;Tabaned;Tabaned;;;;;;;;;x
+PROV252;Fedanin;Fedanin;Fedanin;;;;;;;;;x
+PROV253;Guemaret;Guemaret;Guemaret;;;;;;;;;x
+PROV254;Nerata;Nerata;Nerata;;;;;;;;;x
+PROV255;Nelin;Nelin;Nelin;;;;;;;;;x
+PROV256;Berbat;Berbat;Berbat;;;;;;;;;x
+PROV257;Bababelat;Bababelat;Bababelat;;;;;;;;;x
+PROV258;Yafte;Yafte;Yafte;;;;;;;;;x
+PROV259;Teboubet;Teboubet;Teboubet;;;;;;;;;x
+PROV260;Ocean;Ocean;Ocean;;;;;;;;;x
+PROV261;Gulf of Dalibor;Gulf of Dalibor;Gulf of Dalibor;;;;;;;;;x
+PROV262;Gulf of Kastiid;Gulf of Kastiid;Gulf of Kastiid;;;;;;;;;x
+PROV263;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
+PROV264;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
+PROV265;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
+PROV266;Almuhad Coast;Almuhad Coast;Almuhad Coast;;;;;;;;;x
+PROV267;Sespinan Gulf;Sespinan Gulf;Sespinan Gulf;;;;;;;;;x
+PROV268;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
+PROV269;Gulf of Sukhar;Gulf of Sukhar;Gulf of Sukhar;;;;;;;;;x
+PROV270;Gulf of Sukhar;Gulf of Sukhar;Gulf of Sukhar;;;;;;;;;x
+PROV271;Subtorrian Sea;Subtorrian Sea;Subtorrian Sea;;;;;;;;;x
+PROV272;Avenska Lagoon;Avenska Lagoon;Avenska Lagoon;;;;;;;;;x
+PROV273;Karis Gateway;Karis Gateway;Karis Gateway;;;;;;;;;x
+PROV274;Coast of Pesherq;Coast of Pesherq;Coast of Pesherq;;;;;;;;;x
+PROV275;Cape of Cansk;Cape of Cansk;Cape of Cansk;;;;;;;;;x
+PROV277;Gulf of Ababda;Gulf of Ababda;Gulf of Ababda;;;;;;;;;x
+PROV278;Anelikan Coast;Anelikan Coast;Anelikan Coast;;;;;;;;;x
+PROV279;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
+PROV280;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
+PROV281;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
+PROV282;Golat Sea;Golat Sea;Golat Sea;;;;;;;;;x
+PROV283;Gulf of Moshed;Gulf of Moshed;Gulf of Moshed;;;;;;;;;x
+PROV284;Gulf of Moshed;Gulf of Moshed;Gulf of Moshed;;;;;;;;;x
+PROV285;Aukrolian Strait;Aukrolian Strait;Aukrolian Strait;;;;;;;;;x
+PROV286;Cresmias Bay;Cresmias Bay;Cresmias Bay;;;;;;;;;x
+PROV287;Vadian Passage;Vadian Passage;Vadian Passage;;;;;;;;;x
+PROV288;Vadian Passage;Vadian Passage;Vadian Passage;;;;;;;;;x
+PROV289;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV290;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV291;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV292;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV293;Auvedian Strait;Auvedian Strait;Auvedian Strait;;;;;;;;;x
+PROV294;Auvedian Strait;Auvedian Strait;Auvedian Strait;;;;;;;;;x
+PROV295;Bay of Nakleonica;Bay of Nakleonica;Bay of Nakleonica;;;;;;;;;x
+PROV296;Ildoan Sea;Ildoan Sea;Ildoan Sea;;;;;;;;;x
+PROV297;Ildoan Sea;Ildoan Sea;Ildoan Sea;;;;;;;;;x
+PROV298;Ildoan Sea;Ildoan Sea;Ildoan Sea;;;;;;;;;x
+PROV299;Mozian Bay;Mozian Bay;Mozian Bay;;;;;;;;;x
+PROV300;Haveran Straits;Haveran Straits;Haveran Straits;;;;;;;;;x
+PROV301;Haveran Straits;Haveran Straits;Haveran Straits;;;;;;;;;x
+PROV302;Haveran Straits;Haveran Straits;Haveran Straits;;;;;;;;;x
+PROV303;Haveran Straits;Haveran Straits;Haveran Straits;;;;;;;;;x
+PROV304;Pasian Sea;Pasian Sea;Pasian Sea;;;;;;;;;x
+PROV305;Pasian Sea;Pasian Sea;Pasian Sea;;;;;;;;;x
+PROV306;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV307;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV308;Vlyrian Cape;Vlyrian Cape;Vlyrian Cape;;;;;;;;;x
+PROV309;Cjenuvian Sea;Cjenuvian Sea;Cjenuvian Sea;;;;;;;;;x
+PROV310;Nanitian Bay;Nanitian Bay;Nanitian Bay;;;;;;;;;x
+PROV311;Nemean Strait;Nemean Strait;Nemean Strait;;;;;;;;;x
+PROV312;Inframi Coast;Inframi Coast;Inframi Coast;;;;;;;;;x
+PROV313;Inframi Coast;Inframi Coast;Inframi Coast;;;;;;;;;x
+PROV314;Inframi Coast;Inframi Coast;Inframi Coast;;;;;;;;;x
+PROV315;Azurlan Sea;Azurlan Sea;Azurlan Sea;;;;;;;;;x
+PROV316;Percorian Strait;Percorian Strait;Percorian Strait;;;;;;;;;x
+PROV317;Vessettan Islands;Vessettan Islands;Vessettan Islands;;;;;;;;;x
+PROV318;Caletan Bay;Caletan Bay;Caletan Bay;;;;;;;;;x
+PROV319;Caranerian Coast;Caranerian Coast;Caranerian Coast;;;;;;;;;x
+PROV320;Caranerian Coast;Caranerian Coast;Caranerian Coast;;;;;;;;;x
+PROV321;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x
+PROV322;Ebrus;Ebrus;Ebrus;;;;;;;;;x
+PROV323;Ebrus;Ebrus;Ebrus;;;;;;;;;x
+PROV324;Ligure;Ligure;Ligure;;;;;;;;;x
+PROV325;Ligure;Ligure;Ligure;;;;;;;;;x
+PROV326;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV327;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV328;Fernii;Fernii;Fernii;;;;;;;;;x
+PROV329;Lanzino;Lanzino;Lanzino;;;;;;;;;x
+PROV330;Lalmeta;Lalmeta;Lalmeta;;;;;;;;;x
+PROV331;Benamino;Benamino;Benamino;;;;;;;;;x
+PROV332;Salteno;Salteno;Salteno;;;;;;;;;x
+PROV333;Salteno;Salteno;Salteno;;;;;;;;;x
+PROV334;Savaltos;Savaltos;Savaltos;;;;;;;;;x
+PROV335;Savaltos;Savaltos;Savaltos;;;;;;;;;x
+PROV336;Savaltos;Savaltos;Savaltos;;;;;;;;;x
+PROV337;Savaltos;Savaltos;Savaltos;;;;;;;;;x
+PROV338;Tutori;Tutori;Tutori;;;;;;;;;x
+PROV339;Tutori;Tutori;Tutori;;;;;;;;;x
+PROV340;Tutori;Tutori;Tutori;;;;;;;;;x
+PROV341;Stelo;Stelo;Stelo;;;;;;;;;x
+PROV342;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV343;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV344;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV345;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV346;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV347;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV348;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV349;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV350;Larmos;Larmos;Larmos;;;;;;;;;x
+PROV351;Prasinos;Prasinos;Prasinos;;;;;;;;;x
+PROV352;Tyras;Tyras;Tyras;;;;;;;;;x
+PROV353;Vaksandri;Vaksandri;Vaksandri;;;;;;;;;x
+PROV354;Tiborivag;Tiborivag;Tiborivag;;;;;;;;;x
+PROV355;Starikan;Starikan;Starikan;;;;;;;;;x
+PROV356;Joroltan;Joroltan;Joroltan;;;;;;;;;x
+PROV357;Lunaraks;Lunaraks;Lunaraks;;;;;;;;;x
+PROV358;Variscksri;Variscksri;Variscksri;;;;;;;;;x
+PROV359;Veresen;Veresen;Veresen;;;;;;;;;x
+PROV360;Botondicksi;Botondicksi;Botondicksi;;;;;;;;;x
+PROV361;Acksabel;Acksabel;Acksabel;;;;;;;;;x
+PROV362;Csonkal;Csonkal;Csonkal;;;;;;;;;x
+PROV363;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV364;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV365;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV366;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV367;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV368;Delvos;Delvos;Delvos;;;;;;;;;x
+PROV369;Valan Channel;Valan Channel;Valan Channel;;;;;;;;;x

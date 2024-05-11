@@ -1,0 +1,18 @@
+# c_resinde
+
+# County Title
+title = c_resinde
+
+# Settlements
+max_settlements = 4
+
+b_resinde = castle
+b_resinde_2 = city
+#b_resinde_3 = temple
+#b_resinde_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

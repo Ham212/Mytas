@@ -1,0 +1,17 @@
+# c_tivosoria
+
+# County Title
+title = c_tivosoria
+
+# Settlements
+max_settlements = 3
+
+b_tivosoria = castle
+b_tivosoria_2 = city
+#b_tivosoria_3 = temple
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,19 @@
+# c_ashni
+
+# County Title
+title = c_ashni
+
+# Settlements
+max_settlements = 5
+
+b_ashni = castle
+b_ashni_2 = city
+b_ashni_3 = temple
+#b_ashni_4 = castle
+#b_ashni_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_ahislu
+
+# County Title
+title = c_ahislu
+
+# Settlements
+max_settlements = 4
+
+b_ahislu = castle
+b_ahislu_2 = city
+#b_ahislu_3 = temple
+#b_ahislu_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

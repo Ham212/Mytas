@@ -1,0 +1,18 @@
+# c_tuder
+
+# County Title
+title = c_tuder
+
+# Settlements
+max_settlements = 4
+
+b_tuder = castle
+b_tuder_2 = city
+#b_tuder_3 = temple
+#b_tuder_4 = castle
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

@@ -4,14 +4,15 @@
 title = c_baroli
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_baroli = castle
-#b_kamarous = city
+b_kamarous = city
 #b_phererae = temple
+#b_phasarnassus = castle
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = rassic
+religion = tertari
 
 #History

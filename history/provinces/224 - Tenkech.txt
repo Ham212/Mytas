@@ -1,0 +1,17 @@
+# c_tenkech
+
+# County Title
+title = c_tenkech
+
+# Settlements
+max_settlements = 3
+
+b_tenkech = castle
+#b_tenkech_2 = city
+#b_tenkech_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

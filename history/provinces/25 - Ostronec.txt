@@ -4,14 +4,15 @@
 title = c_ostronec
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_kedska = castle
 #b_ostronec = city
 #b_lebezan = temple
+#b_veterszicka = castle
 
 # Misc
-culture = lucijan
-religion = tertari
+culture = szespinan
+religion = kaszesrian
 
 #History

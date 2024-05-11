@@ -4,16 +4,17 @@
 title = c_zanic
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 
 b_zanic = castle
 b_cisnalonta = city
-#b_leva = temple
-#b_szilasz = castle
-#b_zanic_2 = city
+b_leva = temple
+b_szilasz = castle
+#b_zsyiita = city
+#b_melmet = temple
 
 # Misc
-culture = lucijan
-religion = tertari
+culture = szespinan
+religion = kaszesrian
 
 #History

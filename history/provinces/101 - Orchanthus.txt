@@ -1,0 +1,19 @@
+# c_orchanthus
+
+# County Title
+title = c_orchanthus
+
+# Settlements
+max_settlements = 5
+
+b_orchanthus = castle
+b_orchanthus_2 = city
+b_orchanthus_3 = temple
+b_orchanthus_4 = castle
+#b_orchanthus_5 = city
+
+# Misc
+culture = auvedian
+religion = bogovinist_theodarity
+
+#History

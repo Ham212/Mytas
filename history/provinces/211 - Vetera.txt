@@ -1,0 +1,18 @@
+# c_vetera
+
+# County Title
+title = c_vetera
+
+# Settlements
+max_settlements = 4
+
+b_vetera = castle
+b_vetera_2 = city
+#b_vetera_3 = temple
+#b_vetera_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_brirbo
+
+# County Title
+title = c_brirbo
+
+# Settlements
+max_settlements = 4
+
+b_brirbo = castle
+b_brirbo_2 = city
+#b_brirbo_3 = temple
+#b_brirbo_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

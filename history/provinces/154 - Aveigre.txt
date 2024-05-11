@@ -1,0 +1,18 @@
+# c_aveigre
+
+# County Title
+title = c_aveigre
+
+# Settlements
+max_settlements = 4
+
+b_aveigre = castle
+b_aveigre_2 = city
+#b_aveigre_3 = temple
+#b_aveigre_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

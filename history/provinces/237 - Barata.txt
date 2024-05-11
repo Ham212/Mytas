@@ -1,0 +1,20 @@
+# c_barata
+
+# County Title
+title = c_barata
+
+# Settlements
+max_settlements = 6
+
+b_barata = castle
+b_barata_2 = city
+b_barata_3 = temple
+b_barata_4 = castle
+#b_barata_5 = city
+#b_barata_6 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

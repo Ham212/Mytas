@@ -4,9 +4,12 @@
 title = c_guzler
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_c_3 = castle
+b_guzler = castle
+b_quarazil = city
+#b_amatra = temple
+#b_dibarut = castle
 
 # Misc
 culture = sikssaean

@@ -1,0 +1,18 @@
+# c_nusattin
+
+# County Title
+title = c_nusattin
+
+# Settlements
+max_settlements = 4
+
+b_nusattin = castle
+b_nusattin_2 = city
+b_nusattin_3 = temple
+#b_nusattin_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

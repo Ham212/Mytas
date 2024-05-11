@@ -1,0 +1,20 @@
+# c_avitivi
+
+# County Title
+title = c_avitivi
+
+# Settlements
+max_settlements = 6
+
+b_avitivi = castle
+b_avitivi_2 = city
+b_avitivi_3 = temple
+b_avitivi_4 = castle
+#b_avitivi_5 = city
+#b_avitivi_6 = temple
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

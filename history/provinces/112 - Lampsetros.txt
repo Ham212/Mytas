@@ -1,0 +1,18 @@
+# c_lampsetros
+
+# County Title
+title = c_lampsetros
+
+# Settlements
+max_settlements = 4
+
+b_lampsetros = castle
+b_lampsetros_2 = city
+#b_lampsetros_3 = temple
+#b_lampsetros_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

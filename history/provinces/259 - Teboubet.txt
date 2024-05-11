@@ -1,0 +1,15 @@
+# c_teboubet
+
+# County Title
+title = c_teboubet
+
+# Settlements
+max_settlements = 1
+
+b_teboubet = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,17 @@
+# c_voriani
+
+# County Title
+title = c_voriani
+
+# Settlements
+max_settlements = 3
+
+b_voriani = castle
+b_voriani_2 = city
+#b_voriani_3 = temple
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

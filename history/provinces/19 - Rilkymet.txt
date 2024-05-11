@@ -4,17 +4,16 @@
 title = c_rilkymet
 
 # Settlements
-max_settlements = 6
+max_settlements = 5
 
 b_komaszice = castle
 b_rylkymet = city
 b_varpavarda = temple
 #b_sanlau = castle
 #b_gbesina = city
-#b_zsyiita = temple
 
 # Misc
-culture = lucijan
-religion = tertari
+culture = szespinan
+religion = kaszesrian
 
 #History

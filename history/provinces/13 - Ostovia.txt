@@ -4,11 +4,12 @@
 title = c_ostovia
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_osatavi = castle
 #b_espiraes = city
 #b_sovia = temple
+#b_madolis = castle
 
 # Misc
 culture = cyvodic

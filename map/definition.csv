@@ -55,12 +55,12 @@ province;red;green;blue;x;x
 54;255;82;82;Lygia;x
 55;255;74;74;Verios;x
 56;255;110;110;Maras;x
-57;33;102;4;El Aris;x
+57;33;102;4;Karis;x
 58;32;102;2;Mosheddin;x
 59;30;102;0;Marasa;x
 60;54;102;32;Cerissu;x
 61;55;102;34;Skarjiq;x
-62;57;102;36;Carizkale;x
+62;57;102;36;Carizquale;x
 63;52;102;30;Haiqban;x
 64;40;102;14;Delvaz;x
 65;39;102;12;Guzler;x
@@ -78,11 +78,293 @@ province;red;green;blue;x;x
 77;57;122;29;Gilan;x
 78;55;122;26;Xira;x
 79;54;124;24;Pazanbey;x
-80;76;255;0;Ocean;x
-81;0;255;255;Gulf of Dalibor;x
-82;0;229;229;Gulf of Kastiid;x
-83;0;252;252;Subtorrian Sea;x
-84;0;239;239;Subtorrian Sea #2;x
-85;0;244;244;Golat Sea;x
-86;0;234;234;Almuhad Coast;x
-87;0;249;249;Sespinan Gulf;x
+80;18;51;4;Omukapi;x
+81;19;51;6;Ilinbeyli;x
+82;16;51;2;Lavargan;x
+83;15;51;0;Ctesirkuk;x
+84;23;51;12;Gokotton;x
+85;25;51;14;Nusattin;x
+86;22;51;10;Golbahan;x
+87;32;51;24;Guzepinari;x
+88;31;51;22;Konuculha;x
+89;29;51;20;Dedernas;x
+90;34;71;17;Teymur;x
+91;36;71;19;Jirost;x
+92;32;73;14;Cayika;x
+93;25;73;4;Xaneme;x
+94;23;73;2;Ahislu;x
+95;22;73;0;Thayna;x
+96;56;175;255;Nakleonica;x
+97;50;170;255;Pyleron;x
+98;61;177;255;Semyria;x
+99;102;193;255;Alagasz;x
+100;117;199;255;Phocastro;x
+101;107;195;255;Orchanthus;x
+102;112;197;255;Pixarnacia;x
+103;132;208;255;Altymos;x
+104;127;204;255;Corcespiae;x
+105;137;210;255;Pelerikon;x
+106;81;185;255;Didicea;x
+107;76;183;255;Olythepios;x
+108;86;187;255;Odithos;x
+109;91;189;255;Tanera;x
+110;25;159;255;Demyria;x
+111;35;163;255;Cnidaros;x
+112;40;165;255;Lampsetros;x
+113;45;167;255;Psezus;x
+114;30;161;255;Melanderios;x
+115;5;150;255;Kydarina;x
+116;10;153;255;Decontum;x
+117;0;148;255;Naucricapaeum;x
+118;15;155;255;Hiererma;x
+119;24;129;204;Namoudoz;x
+120;20;127;204;Bozakot;x
+121;28;130;204;Hilartuz;x
+122;32;132;204;Askorven;x
+123;4;120;204;Primorekin;x
+124;8;122;204;Zatrissa;x
+125;12;124;204;Svec;x
+126;0;119;204;Rmoutiz;x
+127;48;141;204;Zukaluz;x
+128;44;140;204;Pletanek;x
+129;40;136;204;Opustil;x
+130;53;156;224;Actessos;x
+131;49;154;224;Hieralos;x
+132;45;151;226;Iasox;x
+133;4;134;226;Nireucia;x
+134;9;136;226;Hyblos;x
+135;0;133;229;Thassita;x
+136;22;141;226;Eleutespontos;x
+137;26;142;224;Olympena;x
+138;31;143;224;Ampheuterna;x
+139;74;161;224;Iasynthos;x
+140;78;163;224;Sicigona;x
+141;68;160;226;Dymydon;x
+142;175;144;3;Aveirta;x
+143;175;144;7;Alereggio;x
+144;178;148;0;Syragno;x
+145;175;146;17;Lourola;x
+146;173;142;20;Girodura;x
+147;173;143;24;Egatsi;x
+148;175;150;35;Piviso;x
+149;173;147;41;Perustosia;x
+150;173;146;38;Tivosoria;x
+151;255;223;66;Lenduo;x
+152;255;221;50;Verugia;x
+153;255;224;71;Syrallegno;x
+154;255;222;61;Aveigre;x
+155;255;221;56;Amatri;x
+156;255;216;45;Nanice;x
+157;255;216;25;Pracino;x
+158;255;215;40;Girostile;x
+159;255;214;35;Nealonghi;x
+160;255;213;30;Vigera;x
+161;255;233;127;Areliani;x
+162;255;233;137;Ascogna;x
+163;255;232;132;Resinde;x
+164;255;234;142;Picelermo;x
+165;255;229;102;Saltuzo;x
+166;255;229;117;Arrinenze;x
+167;255;227;107;Scaserta;x
+168;255;228;112;Tolenresa;x
+169;255;219;76;Alcarro;x
+170;255;225;76;Voriani;x
+171;255;223;81;Igemelli;x
+172;255;224;86;Riova;x
+173;204;168;28;Mozia;x
+174;204;169;32;Caltasello;x
+175;204;170;20;Ercopoli;x
+176;204;168;24;Moncafati;x
+177;204;183;93;Pavola;x
+178;204;183;91;Amago;x
+179;204;181;81;Tocia;x
+180;204;183;89;Tagola;x
+181;204;182;85;Prazara;x
+182;204;177;61;Aveisa;x
+183;204;177;73;Viceggio;x
+184;204;177;69;Brirbo;x
+185;204;176;65;Braria;x
+186;204;171;40;Avitivi;x
+187;204;177;57;Talvati;x
+188;204;172;48;Levianno;x
+189;204;174;44;Farrati;x
+190;204;176;53;Maramori;x
+191;204;170;0;Senia;x
+192;204;167;4;Segomadura;x
+193;204;168;8;Vessetta;x
+194;226;189;4;Castelvecchio;x
+195;229;191;0;Scarlatta;x
+196;226;190;9;Caprera;x
+197;224;191;26;Pretara;x
+198;226;192;22;Croton;x
+199;224;192;31;Bonenia;x
+200;224;195;53;Augusta;x
+201;224;196;58;Camerinum;x
+202;226;196;45;Messambria;x
+203;224;195;49;Tuder;x
+204;224;199;74;Vallicella;x
+205;224;200;78;Veii;x
+206;224;200;83;Tenedo;x
+207;226;200;68;Illici;x
+208;226;204;90;Boscaril;x
+209;224;202;94;Sempronium;x
+210;224;204;103;Callatis;x
+211;224;203;98;Vetera;x
+212;6;51;7;Agheida;x
+213;5;51;7;Rajhada;x
+214;7;51;8;Rabahir;x
+215;8;51;9;Bayatah;x
+216;13;51;14;Ashni;x
+217;10;51;12;Fernarouj;x
+218;12;51;13;El Kecha;x
+219;11;51;12;Suzougha;x
+220;21;51;21;Khalil;x
+221;23;51;23;Dahmafour;x
+222;24;51;24;Moslal;x
+223;20;51;21;Ajdaan;x
+224;22;51;22;Tenkech;x
+225;16;51;18;Kasbir;x
+226;18;51;20;Kadulaib;x
+227;19;51;20;Ad Dascha;x
+228;23;51;24;Mahset;x
+229;15;51;17;Afrad;x
+230;17;51;19;Shehit;x
+231;18;51;19;El Qahagha;x
+232;3;51;5;El Geli;x
+233;0;51;3;Ezzahtour;x
+234;2;51;4;Khrouliana;x
+235;4;51;6;Tahud;x
+236;1;51;3;Rishita;x
+237;2;73;7;Barata;x
+238;1;73;6;Nalin;x
+239;4;73;9;Terada;x
+240;0;76;6;Jaset;x
+241;5;73;10;Oraliana;x
+242;32;71;35;Tobtan;x
+243;31;71;34;Thefla;x
+244;29;71;32;Shahte;x
+245;29;73;32;Trari;x
+246;36;73;39;Touggara;x
+247;38;71;40;Sokliya;x
+248;37;71;39;Jaha;x
+249;17;71;20;Ifrale;x
+250;15;71;19;Medagana;x
+251;14;73;18;Tabaned;x
+252;7;73;11;Fedanin;x
+253;11;71;14;Guemaret;x
+254;9;71;13;Nerata;x
+255;8;71;11;Nelin;x
+256;24;71;27;Berbat;x
+257;22;73;25;Bababelat;x
+258;26;71;28;Yafte;x
+259;23;71;25;Teboubet;x
+260;76;255;0;Ocean;x
+261;0;255;255;Gulf of Dalibor;x
+262;0;229;229;Gulf of Kastiid;x
+263;0;252;252;Subtorrian Sea;x
+264;0;239;239;Subtorrian Sea #2;x
+265;0;244;244;Golat Sea;x
+266;0;234;234;Almuhad Coast;x
+267;0;249;249;Sespinan Gulf;x
+268;14;237;237;Subtorrian Sea #3;x
+269;30;237;237;Gulf of Sukhar;x
+270;35;237;237;Gulf of Sukhar #2;x
+271;33;237;237;Subtorrian Sea #4;x
+272;23;237;237;Avenska Lagoon;x
+273;21;237;237;Karis Gateway;x
+274;16;237;237;Coast of Pesherq;x
+275;9;237;237;Cape of Cansk;x
+276;1;1;1;PLACEHOLDER276;x
+277;11;237;237;Gulf of Ababda #2;x
+278;18;237;237;Anelikan Coast;x
+279;47;237;237;Golat Sea #2;x
+280;37;237;237;Golat Sea #3;x
+281;54;237;237;Golat Sea #4;x
+282;56;237;237;Golat Sea #5;x
+283;42;237;237;Gulf of Moshed;x
+284;40;237;237;Gulf of Moshed #2;x
+285;52;237;237;Aukrolian Strait;x
+286;49;237;237;Cresmias Bay;x
+287;154;237;237;Vadian Passage;x
+288;151;237;237;Vadian Passage #2;x
+289;116;237;237;Valan Channel;x
+290;177;237;237;Valan Channel #2;x
+291;182;237;237;Valan Channel #3;x
+292;184;237;237;Valan Channel #4;x
+293;64;237;237;Auvedian Strait;x
+294;45;237;237;Auvedian Strait #2;x
+295;120;237;237;Bay of Nakleonica;x
+296;61;237;237;Ildoan Sea;x
+297;66;237;237;Ildoan Sea #2;x
+298;59;237;237;Ildoan Sea #3;x
+299;113;237;237;Mozian Bay;x
+300;80;237;237;Haveran Straits;x
+301;83;237;237;Haveran Straits #2;x
+302;87;237;237;Haveran Straits #3;x
+303;85;237;237;Haveran Straits #4;x
+304;175;237;237;Pasian Sea;x
+305;173;237;237;Pasian Sea #2;x
+306;180;237;237;Valan Channel #5;x
+307;187;237;237;Valan Channel #6;x
+308;189;237;237;Vlyrian Cape;x
+309;192;237;237;Cjenuvian Sea;x
+310;194;237;237;Nanitian Bay;x
+311;68;237;237;Nemean Strait;x
+312;78;237;237;Inframi Coast;x
+313;75;237;237;Inframi Coast #2;x
+314;73;237;237;Inframi Coast #3;x
+315;71;237;237;Azurlan Sea;x
+316;92;237;237;Percorian Strait;x
+317;90;237;237;Vessettan Islands;x
+318;111;237;237;Caletan Bay;x
+319;106;237;237;Caranerian Coast;x
+320;109;237;237;Caranerian Coast #2;x
+321;94;237;237;Valan Channel #7;x
+322;125;237;237;Ebrus;x
+323;128;237;237;Ebrus #2;x
+324;2;237;237;Ligure;x
+325;4;237;237;Ligure #2;x
+326;26;237;237;Delvos;x
+327;28;237;237;Delvos #2;x
+328;7;236;236;Fernii;x
+329;161;237;237;Lanzino;x
+330;158;237;237;Lalmeta;x
+331;156;237;237;Benamino;x
+332;196;237;237;Salteno;x
+333;199;237;237;Salteno #2;x
+334;163;237;237;Savaltos;x
+335;166;237;237;Savaltos #2;x
+336;168;237;237;Savaltos #3;x
+337;170;237;237;Savaltos #4;x
+338;99;237;237;Tutori;x
+339;101;237;237;Tutori #2;x
+340;104;237;237;Tutori #3;x
+341;97;237;237;Stelo;x
+342;130;237;237;Larmos;x
+343;132;237;237;Larmos #2;x
+344;135;237;237;Larmos #3;x
+345;137;237;237;Larmos #4;x
+346;139;237;237;Larmos #5;x
+347;142;237;237;Larmos #6;x
+348;144;237;237;Larmos #7;x
+349;147;237;237;Larmos #8;x
+350;149;237;237;Larmos #9;x
+351;123;237;237;Prasinos;x
+352;255;135;61;Tyras;x
+353;255;132;50;Vaksandri;x
+354;255;135;56;Tiborivag;x
+355;255;117;25;Starikan;x
+356;255;119;35;Joroltan;x
+357;255;116;30;Lunaraks;x
+358;255;151;86;Variscksri;x
+359;255;147;76;Veresen;x
+360;255;148;81;Botondicksi;x
+361;255;105;5;Acksabel;x
+362;255;106;0;Csonkal;x
+363;2;249;249;Delvos #3;x
+364;4;249;249;Delvos #4;x
+365;7;249;249;Delvos #5;x
+366;9;249;249;Delvos #6;x
+367;12;249;249;Delvos #7;x
+368;14;249;249;Delvos #8;x
+369;118;237;237;Valan Channel #8;x

@@ -1,0 +1,19 @@
+# c_guzepinari
+
+# County Title
+title = c_guzepinari
+
+# Settlements
+max_settlements = 5
+
+b_guzepinari = castle
+b_guzepinari_2 = city
+b_guzepinari_3 = temple
+#b_guzepinari_4 = castle
+#b_guzepinari_5 = city
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

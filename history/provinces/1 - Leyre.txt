@@ -4,13 +4,14 @@
 title = c_leyre
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 
 b_leyre = castle
 b_nalicia = city
 b_theodem = temple
 #b_erar = castle
 #b_osuin = city
+#b_petraia = temple
 
 # Misc
 culture = lyngarian

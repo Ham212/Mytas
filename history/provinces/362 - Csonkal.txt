@@ -1,0 +1,16 @@
+# c_csonkal
+
+# County Title
+title = c_csonkal
+
+# Settlements
+max_settlements = 2
+
+b_csonkal = castle
+#b_csonkal_2 = city
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

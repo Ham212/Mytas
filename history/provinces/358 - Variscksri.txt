@@ -1,0 +1,17 @@
+# c_variscksri
+
+# County Title
+title = c_variscksri
+
+# Settlements
+max_settlements = 3
+
+b_variscksri = castle
+b_variscksri_2 = city
+#b_variscksri_3 = temple
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

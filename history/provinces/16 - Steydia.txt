@@ -4,11 +4,13 @@
 title = c_steydia
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_avrentii = castle
-#b_stedyyo = city
+b_stedyyo = city
 #b_castela = temple
+#b_allaciras = castle
+#b_gredeia = city
 
 # Misc
 culture = lyngarian

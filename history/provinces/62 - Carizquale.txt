@@ -1,0 +1,19 @@
+# c_carizquale
+
+# County Title
+title = c_carizquale
+
+# Settlements
+max_settlements = 5
+
+b_carizquale = castle
+b_andirma = city
+b_nebiollar = temple
+#b_bayittin = castle
+#b_aratia = city
+
+# Misc
+culture = sikssaean
+religion = bassi_tamirism
+
+#History

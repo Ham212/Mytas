@@ -4,14 +4,15 @@
 title = c_dzaghig
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_ekizi = castle
 b_galinya = city
 #b_tarpin = temple
+#b_esmeria = castle
 
 # Misc
 culture = mijinite
-religion = tertari
+religion = bogovinist_theodarity
 
 #History

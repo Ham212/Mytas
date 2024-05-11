@@ -4,14 +4,13 @@
 title = c_zadiad
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 
 b_bagratun = castle
 #b_dadekia = city
-#b_esmeria = temple
 
 # Misc
 culture = mijinite
-religion = tertari
+religion = bogovinist_theodarity
 
 #History

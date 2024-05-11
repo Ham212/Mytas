@@ -1,0 +1,19 @@
+# c_scarlatta
+
+# County Title
+title = c_scarlatta
+
+# Settlements
+max_settlements = 5
+
+b_scarlatta = castle
+b_scarlatta_2 = city
+b_scarlatta_3 = temple
+#b_scarlatta_4 = castle
+#b_scarlatta_5 = city
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

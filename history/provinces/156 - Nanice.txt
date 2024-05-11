@@ -1,0 +1,21 @@
+# c_nanice
+
+# County Title
+title = c_nanice
+
+# Settlements
+max_settlements = 7
+
+b_nanice = castle
+b_nanice_2 = city
+b_nanice_3 = temple
+b_nanice_4 = castle
+b_nanice_5 = city
+b_nanice_6 = temple
+#b_nanice_7 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

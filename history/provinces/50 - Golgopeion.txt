@@ -11,7 +11,7 @@ b_lapelea = city
 #b_tenamnus = temple
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = szespinan
+religion = kaszesrian
 
 #History

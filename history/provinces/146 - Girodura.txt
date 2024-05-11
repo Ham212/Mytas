@@ -1,0 +1,18 @@
+# c_girodura
+
+# County Title
+title = c_girodura
+
+# Settlements
+max_settlements = 4
+
+b_girodura = castle
+b_girodura_2 = city
+b_girodura_3 = temple
+#b_girodura_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

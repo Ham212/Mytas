@@ -1,0 +1,18 @@
+# c_fernarouj
+
+# County Title
+title = c_fernarouj
+
+# Settlements
+max_settlements = 4
+
+b_fernarouj = castle
+b_fernarouj_2 = city
+#b_fernarouj_3 = temple
+#b_fernarouj_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

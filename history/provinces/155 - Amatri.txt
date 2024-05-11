@@ -1,0 +1,19 @@
+# c_amatri
+
+# County Title
+title = c_amatri
+
+# Settlements
+max_settlements = 5
+
+b_amatri = castle
+b_amatri_2 = city
+#b_amatri_3 = temple
+#b_amatri_4 = castle
+#b_amatri_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

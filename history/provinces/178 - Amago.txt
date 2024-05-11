@@ -1,0 +1,20 @@
+# c_amago
+
+# County Title
+title = c_amago
+
+# Settlements
+max_settlements = 6
+
+b_amago = castle
+b_amago_2 = city
+b_amago_3 = temple
+b_amago_4 = castle
+#b_amago_5 = city
+#b_amago_6 = temple
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

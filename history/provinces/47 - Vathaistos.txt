@@ -12,7 +12,7 @@ b_odorion = city
 #b_eleutapolis = castle
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = szespinan
+religion = kaszesrian
 
 #History

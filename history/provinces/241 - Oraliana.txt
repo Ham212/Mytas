@@ -1,0 +1,16 @@
+# c_oraliana
+
+# County Title
+title = c_oraliana
+
+# Settlements
+max_settlements = 2
+
+b_oraliana = castle
+#b_oraliana_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

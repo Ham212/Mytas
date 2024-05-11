@@ -1,0 +1,18 @@
+# c_lavargan
+
+# County Title
+title = c_lavargan
+
+# Settlements
+max_settlements = 4
+
+b_lavargan = castle
+b_lavargan_2 = city
+#b_lavargan_3 = temple
+#b_lavargan_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

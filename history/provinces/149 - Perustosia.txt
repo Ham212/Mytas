@@ -1,0 +1,18 @@
+# c_perustosia
+
+# County Title
+title = c_perustosia
+
+# Settlements
+max_settlements = 4
+
+b_perustosia = castle
+b_perustosia_2 = city
+b_perustosia_3 = temple
+#b_perustosia_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,16 @@
+# c_fedanin
+
+# County Title
+title = c_fedanin
+
+# Settlements
+max_settlements = 2
+
+b_fedanin = castle
+#b_fedanin_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

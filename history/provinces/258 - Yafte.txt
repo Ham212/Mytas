@@ -1,0 +1,16 @@
+# c_yafte
+
+# County Title
+title = c_yafte
+
+# Settlements
+max_settlements = 2
+
+b_yafte = castle
+#b_yafte_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

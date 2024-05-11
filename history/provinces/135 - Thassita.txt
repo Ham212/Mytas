@@ -1,0 +1,16 @@
+# c_thassita
+
+# County Title
+title = c_thassita
+
+# Settlements
+max_settlements = 2
+
+b_thassita = castle
+b_thassita_2 = city
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

@@ -1,0 +1,21 @@
+# c_karis
+
+# County Title
+title = c_karis
+
+# Settlements
+max_settlements = 7
+
+b_karis = castle
+b_aqdandira = city
+b_amadere = temple
+b_addasit = castle
+b_barequa = city
+#b_aljaaq = temple
+#b_namran = castle
+
+# Misc
+culture = lyngarian
+religion = peteran_theodarity
+
+#History

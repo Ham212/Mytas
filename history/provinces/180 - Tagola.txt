@@ -1,0 +1,18 @@
+# c_tagola
+
+# County Title
+title = c_tagola
+
+# Settlements
+max_settlements = 4
+
+b_tagola = castle
+b_tagola_2 = city
+#b_tagola_3 = temple
+#b_tagola_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,19 @@
+# c_caltasello
+
+# County Title
+title = c_caltasello
+
+# Settlements
+max_settlements = 5
+
+b_caltasello = castle
+b_caltasello_2 = city
+b_caltasello_3 = temple
+#b_caltasello_4 = castle
+#b_caltasello_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

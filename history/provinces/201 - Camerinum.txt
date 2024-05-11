@@ -1,0 +1,18 @@
+# c_camerinum
+
+# County Title
+title = c_camerinum
+
+# Settlements
+max_settlements = 4
+
+b_camerinum = castle
+b_camerinum_2 = city
+#b_camerinum_3 = temple
+#b_camerinum_4 = castle
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

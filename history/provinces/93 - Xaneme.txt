@@ -1,0 +1,16 @@
+# c_xaneme
+
+# County Title
+title = c_xaneme
+
+# Settlements
+max_settlements = 2
+
+b_xaneme = castle
+b_xaneme_2 = city
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

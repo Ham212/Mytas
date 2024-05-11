@@ -1,0 +1,18 @@
+# c_eleutespontos
+
+# County Title
+title = c_eleutespontos
+
+# Settlements
+max_settlements = 4
+
+b_eleutespontos = castle
+b_eleutespontos_2 = city
+#b_eleutespontos_3 = temple
+#b_eleutespontos_4 = castle
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

@@ -4,9 +4,13 @@
 title = c_cerissu
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 
-b_a_2 = castle
+b_cerissu = castle
+b_faquiya = city
+b_ilimit = temple
+#b_baquush = castle
+#b_quallifag = city
 
 # Misc
 culture = sikssaean

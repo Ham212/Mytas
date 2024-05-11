@@ -1,0 +1,19 @@
+# c_pyleron
+
+# County Title
+title = c_pyleron
+
+# Settlements
+max_settlements = 5
+
+b_pyleron = castle
+b_pyleron_2 = city
+b_pyleron_3 = temple
+b_pyleron_4 = castle
+#b_pyleron_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

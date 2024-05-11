@@ -1,0 +1,33 @@
+#VALAN
+technology = {
+	titles = {
+		d_aureliani
+		d_avedessa
+		d_aveirta
+		d_caleta
+		d_coleniari
+		d_granporte
+		d_isole_dei_valani
+		d_jenuvigna
+		d_lenduagna
+		d_massigno
+		d_moesigna
+		d_montenarri
+		d_nanizia
+		d_nord_valda
+		d_onero
+		d_passiganti
+		d_segna
+		d_traneium
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

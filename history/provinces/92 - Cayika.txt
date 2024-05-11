@@ -1,0 +1,16 @@
+# c_cayika
+
+# County Title
+title = c_cayika
+
+# Settlements
+max_settlements = 3
+
+#b_cayika_2 = city
+#b_cayika_3 = temple
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,17 @@
+# c_zatrissa
+
+# County Title
+title = c_zatrissa
+
+# Settlements
+max_settlements = 3
+
+b_zatrissa = castle
+#b_zatrissa_2 = city
+#b_zatrissa_3 = temple
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

@@ -1,0 +1,20 @@
+# c_rajhada
+
+# County Title
+title = c_rajhada
+
+# Settlements
+max_settlements = 6
+
+b_rajhada = castle
+b_rajhada_2 = city
+b_rajhada_3 = temple
+b_rajhada_4 = castle
+#b_rajhada_5 = city
+#b_rajhada_6 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

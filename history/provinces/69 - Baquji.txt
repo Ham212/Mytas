@@ -4,9 +4,12 @@
 title = c_baquji
 
 # Settlements
-max_settlements = 1
+max_settlements = 4
 
-b_a_5 = castle
+b_baquji = castle
+b_hamitina = city
+#b_thufji = temple
+#b_gorerasi = castle
 
 # Misc
 culture = sikssaean

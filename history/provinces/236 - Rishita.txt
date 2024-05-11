@@ -1,0 +1,17 @@
+# c_rishita
+
+# County Title
+title = c_rishita
+
+# Settlements
+max_settlements = 3
+
+b_rishita = castle
+#b_rishita_2 = city
+#b_rishita_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

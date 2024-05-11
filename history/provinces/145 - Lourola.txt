@@ -1,0 +1,19 @@
+# c_lourola
+
+# County Title
+title = c_lourola
+
+# Settlements
+max_settlements = 5
+
+b_lourola = castle
+b_lourola_2 = city
+b_lourola_3 = temple
+#b_lourola_4 = castle
+#b_lourola_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_pixarnacia
+
+# County Title
+title = c_pixarnacia
+
+# Settlements
+max_settlements = 4
+
+b_pixarnacia = castle
+b_pixarnacia_2 = city
+b_pixarnacia_3 = temple
+#b_pixarnacia_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

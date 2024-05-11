@@ -1,0 +1,17 @@
+# c_trari
+
+# County Title
+title = c_trari
+
+# Settlements
+max_settlements = 3
+
+b_trari = castle
+b_trari_2 = city
+#b_trari_3 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

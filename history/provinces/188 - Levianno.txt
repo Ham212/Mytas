@@ -1,0 +1,19 @@
+# c_levianno
+
+# County Title
+title = c_levianno
+
+# Settlements
+max_settlements = 5
+
+b_levianno = castle
+b_levianno_2 = city
+b_levianno_3 = temple
+#b_levianno_4 = castle
+#b_levianno_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

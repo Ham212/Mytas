@@ -1,0 +1,19 @@
+# c_pracino
+
+# County Title
+title = c_pracino
+
+# Settlements
+max_settlements = 5
+
+b_pracino = castle
+b_pracino_2 = city
+b_pracino_3 = temple
+b_pracino_4 = castle
+#b_pracino_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

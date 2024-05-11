@@ -1,0 +1,18 @@
+# c_veresen
+
+# County Title
+title = c_veresen
+
+# Settlements
+max_settlements = 4
+
+b_veresen = castle
+b_veresen_2 = city
+#b_veresen_3 = temple
+#b_veresen_4 = castle
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

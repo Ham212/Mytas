@@ -1,0 +1,19 @@
+# c_ilinbeyli
+
+# County Title
+title = c_ilinbeyli
+
+# Settlements
+max_settlements = 5
+
+b_ilinbeyli = castle
+b_ilinbeyli_2 = city
+b_ilinbeyli_3 = temple
+b_ilinbeyli_4 = castle
+#b_ilinbeyli_5 = city
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,18 @@
+# c_caprera
+
+# County Title
+title = c_caprera
+
+# Settlements
+max_settlements = 4
+
+b_caprera = castle
+b_caprera_2 = city
+#b_caprera_3 = temple
+#b_caprera_4 = castle
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

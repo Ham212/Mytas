@@ -1,0 +1,18 @@
+# c_naucricapaeum
+
+# County Title
+title = c_naucricapaeum
+
+# Settlements
+max_settlements = 4
+
+b_naucricapaeum = castle
+b_naucricapaeum_2 = city
+#b_naucricapaeum_3 = temple
+#b_naucricapaeum_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

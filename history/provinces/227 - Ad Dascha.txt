@@ -1,0 +1,19 @@
+# c_ad_dascha
+
+# County Title
+title = c_ad_dascha
+
+# Settlements
+max_settlements = 5
+
+b_ad_dascha = castle
+b_ad_dascha_2 = city
+b_ad_dascha_3 = temple
+#b_ad_dascha_4 = castle
+#b_ad_dascha_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

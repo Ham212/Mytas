@@ -1,0 +1,19 @@
+# c_piviso
+
+# County Title
+title = c_piviso
+
+# Settlements
+max_settlements = 5
+
+b_piviso = castle
+b_piviso_2 = city
+b_piviso_3 = temple
+#b_piviso_4 = castle
+#b_piviso_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

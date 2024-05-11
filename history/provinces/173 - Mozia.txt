@@ -1,0 +1,21 @@
+# c_mozia
+
+# County Title
+title = c_mozia
+
+# Settlements
+max_settlements = 7
+
+b_mozia = castle
+b_mozia_2 = city
+b_mozia_3 = temple
+b_mozia_4 = castle
+b_mozia_5 = city
+#b_mozia_6 = temple
+#b_mozia_7 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

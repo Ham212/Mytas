@@ -1,0 +1,19 @@
+# c_actessos
+
+# County Title
+title = c_actessos
+
+# Settlements
+max_settlements = 5
+
+b_actessos = castle
+b_actessos_2 = city
+b_actessos_3 = temple
+#b_actessos_4 = castle
+#b_actessos_5 = city
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

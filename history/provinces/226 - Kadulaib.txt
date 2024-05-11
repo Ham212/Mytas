@@ -1,0 +1,19 @@
+# c_kadulaib
+
+# County Title
+title = c_kadulaib
+
+# Settlements
+max_settlements = 5
+
+b_kadulaib = castle
+b_kadulaib_2 = city
+b_kadulaib_3 = temple
+#b_kadulaib_4 = castle
+#b_kadulaib_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

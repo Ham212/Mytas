@@ -1,0 +1,19 @@
+# c_aveisa
+
+# County Title
+title = c_aveisa
+
+# Settlements
+max_settlements = 5
+
+b_aveisa = castle
+b_aveisa_2 = city
+b_aveisa_3 = temple
+#b_aveisa_4 = castle
+#b_aveisa_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

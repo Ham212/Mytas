@@ -4,15 +4,13 @@
 title = c_sapra
 
 # Settlements
-max_settlements = 4
+max_settlements = 2
 
 b_sapra = castle
 b_yeghiaz = city
-#b_kostoy = temple
-#b_panos = castle
 
 # Misc
 culture = mijinite
-religion = tertari
+religion = bogovinist_theodarity
 
 #History

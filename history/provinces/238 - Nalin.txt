@@ -1,0 +1,19 @@
+# c_nalin
+
+# County Title
+title = c_nalin
+
+# Settlements
+max_settlements = 5
+
+b_nalin = castle
+b_nalin_2 = city
+b_nalin_3 = temple
+#b_nalin_4 = castle
+#b_nalin_5 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -7,12 +7,12 @@ title = c_bobrozan
 max_settlements = 4
 
 b_szillava = castle
-#b_bobrozan = city
+b_bobrozan = city
 #b_aninic = temple
 #b_sikcsa = castle
 
 # Misc
 culture = lucijan
-religion = tertari
+religion = kaszesrian
 
 #History

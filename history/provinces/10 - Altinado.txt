@@ -4,11 +4,12 @@
 title = c_altinado
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_nibel = castle
 #b_loussa = city
 #b_casemezia = temple
+#b_camoz = castle
 
 # Misc
 culture = cyvodic

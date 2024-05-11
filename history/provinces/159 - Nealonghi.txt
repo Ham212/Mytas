@@ -1,0 +1,18 @@
+# c_nealonghi
+
+# County Title
+title = c_nealonghi
+
+# Settlements
+max_settlements = 4
+
+b_nealonghi = castle
+b_nealonghi_2 = city
+#b_nealonghi_3 = temple
+#b_nealonghi_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

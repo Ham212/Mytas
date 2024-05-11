@@ -1,0 +1,20 @@
+# c_alagasz
+
+# County Title
+title = c_alagasz
+
+# Settlements
+max_settlements = 6
+
+b_alagasz = castle
+b_alagasz_2 = city
+b_alagasz_3 = temple
+b_alagasz_4 = castle
+b_alagasz_5 = city
+#b_alagasz_6 = temple
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

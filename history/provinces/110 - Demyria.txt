@@ -1,0 +1,19 @@
+# c_demyria
+
+# County Title
+title = c_demyria
+
+# Settlements
+max_settlements = 5
+
+b_demyria = castle
+b_demyria_2 = city
+b_demyria_3 = temple
+#b_demyria_4 = castle
+#b_demyria_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

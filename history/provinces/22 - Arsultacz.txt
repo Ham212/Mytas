@@ -4,15 +4,16 @@
 title = c_arsultacz
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_arsultacz = castle
 b_dudsta = city
 #b_barrita = temple
 #b_zistovo = castle
+#b_mipovo = city
 
 # Misc
-culture = lucijan
-religion = tertari
+culture = szespinan
+religion = kaszesrian
 
 #History

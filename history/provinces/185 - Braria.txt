@@ -1,0 +1,19 @@
+# c_braria
+
+# County Title
+title = c_braria
+
+# Settlements
+max_settlements = 5
+
+b_braria = castle
+b_braria_2 = city
+#b_braria_3 = temple
+#b_braria_4 = castle
+#b_braria_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

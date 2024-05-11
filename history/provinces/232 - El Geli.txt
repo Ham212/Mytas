@@ -1,0 +1,17 @@
+# c_el_geli
+
+# County Title
+title = c_el_geli
+
+# Settlements
+max_settlements = 3
+
+b_el_geli = castle
+b_el_geli_2 = city
+#b_el_geli_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

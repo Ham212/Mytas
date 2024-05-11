@@ -1,0 +1,18 @@
+# c_kydarina
+
+# County Title
+title = c_kydarina
+
+# Settlements
+max_settlements = 4
+
+b_kydarina = castle
+b_kydarina_2 = city
+#b_kydarina_3 = temple
+#b_kydarina_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

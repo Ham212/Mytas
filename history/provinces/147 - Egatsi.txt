@@ -1,0 +1,18 @@
+# c_egatsi
+
+# County Title
+title = c_egatsi
+
+# Settlements
+max_settlements = 4
+
+b_egatsi = castle
+b_egatsi_2 = city
+#b_egatsi_3 = temple
+#b_egatsi_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

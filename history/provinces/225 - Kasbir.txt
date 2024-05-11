@@ -1,0 +1,20 @@
+# c_kasbir
+
+# County Title
+title = c_kasbir
+
+# Settlements
+max_settlements = 6
+
+b_kasbir = castle
+b_kasbir_2 = city
+b_kasbir_3 = temple
+b_kasbir_4 = castle
+#b_kasbir_5 = city
+#b_kasbir_6 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

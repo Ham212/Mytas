@@ -4,10 +4,11 @@
 title = c_berj
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 
 b_berj = castle
 #b_ancobia = city
+#b_azilencii = temple
 
 # Misc
 culture = martirosyan

@@ -1,0 +1,19 @@
+# c_lenduo
+
+# County Title
+title = c_lenduo
+
+# Settlements
+max_settlements = 5
+
+b_lenduo = castle
+b_lenduo_2 = city
+b_lenduo_3 = temple
+#b_lenduo_4 = castle
+#b_lenduo_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

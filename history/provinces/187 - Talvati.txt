@@ -1,0 +1,19 @@
+# c_talvati
+
+# County Title
+title = c_talvati
+
+# Settlements
+max_settlements = 5
+
+b_talvati = castle
+b_talvati_2 = city
+b_talvati_3 = temple
+b_talvati_4 = castle
+#b_talvati_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

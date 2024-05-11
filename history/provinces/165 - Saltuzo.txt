@@ -1,0 +1,19 @@
+# c_saltuzo
+
+# County Title
+title = c_saltuzo
+
+# Settlements
+max_settlements = 5
+
+b_saltuzo = castle
+b_saltuzo_2 = city
+b_saltuzo_3 = temple
+b_saltuzo_4 = castle
+#b_saltuzo_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

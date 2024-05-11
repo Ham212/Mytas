@@ -1,0 +1,19 @@
+#TRANSAMRIAN
+technology = {
+	titles = {
+		d_deakesz
+		d_mezerolan
+		d_tyras
+		d_varis
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

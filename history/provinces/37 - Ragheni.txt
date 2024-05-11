@@ -11,6 +11,6 @@ b_ojagh = castle
 
 # Misc
 culture = mijinite
-religion = tertari
+religion = bogovinist_theodarity
 
 #History

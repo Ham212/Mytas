@@ -1,0 +1,19 @@
+# c_rabahir
+
+# County Title
+title = c_rabahir
+
+# Settlements
+max_settlements = 5
+
+b_rabahir = castle
+b_rabahir_2 = city
+b_rabahir_3 = temple
+#b_rabahir_4 = castle
+#b_rabahir_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

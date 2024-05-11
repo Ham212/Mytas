@@ -1,0 +1,17 @@
+# c_el_kecha
+
+# County Title
+title = c_el_kecha
+
+# Settlements
+max_settlements = 3
+
+b_el_kecha = castle
+b_el_kecha_2 = city
+#b_el_kecha_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

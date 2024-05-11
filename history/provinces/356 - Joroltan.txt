@@ -1,0 +1,17 @@
+# c_joroltan
+
+# County Title
+title = c_joroltan
+
+# Settlements
+max_settlements = 3
+
+b_joroltan = castle
+b_joroltan_2 = city
+#b_joroltan_3 = temple
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

@@ -1,0 +1,19 @@
+# c_phocastro
+
+# County Title
+title = c_phocastro
+
+# Settlements
+max_settlements = 5
+
+b_phocastro = castle
+b_phocastro_2 = city
+b_phocastro_3 = temple
+#b_phocastro_4 = castle
+#b_phocastro_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

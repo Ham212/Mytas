@@ -1,0 +1,19 @@
+# c_pavola
+
+# County Title
+title = c_pavola
+
+# Settlements
+max_settlements = 5
+
+b_pavola = castle
+b_pavola_2 = city
+b_pavola_3 = temple
+b_pavola_4 = castle
+#b_pavola_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

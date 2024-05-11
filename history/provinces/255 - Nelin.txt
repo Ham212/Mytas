@@ -1,0 +1,15 @@
+# c_nelin
+
+# County Title
+title = c_nelin
+
+# Settlements
+max_settlements = 1
+
+b_nelin = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

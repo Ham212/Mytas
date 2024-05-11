@@ -1,0 +1,15 @@
+# c_guemaret
+
+# County Title
+title = c_guemaret
+
+# Settlements
+max_settlements = 1
+
+b_guemaret = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

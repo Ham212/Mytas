@@ -1,0 +1,19 @@
+# c_pelerikon
+
+# County Title
+title = c_pelerikon
+
+# Settlements
+max_settlements = 5
+
+b_pelerikon = castle
+b_pelerikon_2 = city
+b_pelerikon_3 = temple
+#b_pelerikon_4 = castle
+#b_pelerikon_5 = city
+
+# Misc
+culture = auvedian
+religion = bogovinist_theodarity
+
+#History

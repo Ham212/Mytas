@@ -1,0 +1,20 @@
+# c_altymos
+
+# County Title
+title = c_altymos
+
+# Settlements
+max_settlements = 6
+
+b_altymos = castle
+b_altymos_2 = city
+b_altymos_3 = temple
+b_altymos_4 = castle
+#b_altymos_5 = city
+#b_altymos_6 = temple
+
+# Misc
+culture = auvedian
+religion = bogovinist_theodarity
+
+#History

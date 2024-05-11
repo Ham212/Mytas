@@ -1,0 +1,20 @@
+# c_maramori
+
+# County Title
+title = c_maramori
+
+# Settlements
+max_settlements = 6
+
+b_maramori = castle
+b_maramori_2 = city
+b_maramori_3 = temple
+#b_maramori_4 = castle
+#b_maramori_5 = city
+#b_maramori_6 = temple
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_bonenia
+
+# County Title
+title = c_bonenia
+
+# Settlements
+max_settlements = 4
+
+b_bonenia = castle
+b_bonenia_2 = city
+#b_bonenia_3 = temple
+#b_bonenia_4 = castle
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

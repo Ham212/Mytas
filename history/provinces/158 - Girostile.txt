@@ -1,0 +1,19 @@
+# c_girostile
+
+# County Title
+title = c_girostile
+
+# Settlements
+max_settlements = 5
+
+b_girostile = castle
+b_girostile_2 = city
+b_girostile_3 = temple
+#b_girostile_4 = castle
+#b_girostile_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

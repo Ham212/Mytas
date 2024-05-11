@@ -1,0 +1,17 @@
+# c_shahte
+
+# County Title
+title = c_shahte
+
+# Settlements
+max_settlements = 3
+
+b_shahte = castle
+b_shahte_2 = city
+#b_shahte_3 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,16 @@
+# c_ifrale
+
+# County Title
+title = c_ifrale
+
+# Settlements
+max_settlements = 2
+
+b_ifrale = castle
+#b_ifrale_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

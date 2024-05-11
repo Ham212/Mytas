@@ -1,0 +1,17 @@
+# c_pretara
+
+# County Title
+title = c_pretara
+
+# Settlements
+max_settlements = 3
+
+b_pretara = castle
+b_pretara_2 = city
+#b_pretara_3 = temple
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

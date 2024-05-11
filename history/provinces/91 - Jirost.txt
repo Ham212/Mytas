@@ -1,0 +1,17 @@
+# c_jirost
+
+# County Title
+title = c_jirost
+
+# Settlements
+max_settlements = 4
+
+b_jirost_2 = city
+#b_jirost_3 = temple
+#b_jirost_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

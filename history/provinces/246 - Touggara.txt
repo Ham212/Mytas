@@ -1,0 +1,16 @@
+# c_touggara
+
+# County Title
+title = c_touggara
+
+# Settlements
+max_settlements = 2
+
+b_touggara = castle
+#b_touggara_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

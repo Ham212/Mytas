@@ -1,0 +1,18 @@
+# c_starikan
+
+# County Title
+title = c_starikan
+
+# Settlements
+max_settlements = 4
+
+b_starikan = castle
+b_starikan_2 = city
+#b_starikan_3 = temple
+#b_starikan_4 = castle
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

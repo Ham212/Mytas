@@ -1,0 +1,19 @@
+# c_dahmafour
+
+# County Title
+title = c_dahmafour
+
+# Settlements
+max_settlements = 5
+
+b_dahmafour = castle
+b_dahmafour_2 = city
+#b_dahmafour_3 = temple
+#b_dahmafour_4 = castle
+#b_dahmafour_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_ctesirkuk
+
+# County Title
+title = c_ctesirkuk
+
+# Settlements
+max_settlements = 4
+
+b_ctesirkuk = castle
+b_ctesirkuk_2 = city
+#b_ctesirkuk_3 = temple
+#b_ctesirkuk_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

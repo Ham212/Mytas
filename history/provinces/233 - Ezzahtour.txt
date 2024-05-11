@@ -1,0 +1,20 @@
+# c_ezzahtour
+
+# County Title
+title = c_ezzahtour
+
+# Settlements
+max_settlements = 6
+
+b_ezzahtour = castle
+b_ezzahtour_2 = city
+b_ezzahtour_3 = temple
+b_ezzahtour_4 = castle
+#b_ezzahtour_5 = city
+#b_ezzahtour_6 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

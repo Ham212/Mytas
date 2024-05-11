@@ -4,9 +4,13 @@
 title = c_parwiz
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 
-b_c_6 = castle
+b_parwiz = castle
+b_pinanozu = city
+b_alpardir = temple
+#b_lizan = castle
+#b_cukunbey = city
 
 # Misc
 culture = koroushi

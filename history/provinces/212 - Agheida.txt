@@ -1,0 +1,21 @@
+# c_agheida
+
+# County Title
+title = c_agheida
+
+# Settlements
+max_settlements = 7
+
+b_agheida = castle
+b_agheida_2 = city
+b_agheida_3 = temple
+b_agheida_4 = castle
+b_agheida_5 = city
+#b_agheida_6 = temple
+#b_agheida_7 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_tolenresa
+
+# County Title
+title = c_tolenresa
+
+# Settlements
+max_settlements = 4
+
+b_tolenresa = castle
+b_tolenresa_2 = city
+#b_tolenresa_3 = temple
+#b_tolenresa_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

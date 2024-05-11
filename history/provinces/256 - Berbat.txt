@@ -1,0 +1,18 @@
+# c_berbat
+
+# County Title
+title = c_berbat
+
+# Settlements
+max_settlements = 4
+
+b_berbat = castle
+b_berbat_2 = city
+#b_berbat_3 = temple
+#b_berbat_4 = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,17 @@
+# c_lunaraks
+
+# County Title
+title = c_lunaraks
+
+# Settlements
+max_settlements = 3
+
+b_lunaraks = castle
+#b_lunaraks_2 = city
+#b_lunaraks_3 = temple
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

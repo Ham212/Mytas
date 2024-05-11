@@ -1,0 +1,18 @@
+# c_askorven
+
+# County Title
+title = c_askorven
+
+# Settlements
+max_settlements = 4
+
+b_askorven = castle
+b_askorven_2 = city
+#b_askorven_3 = temple
+#b_askorven_4 = castle
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

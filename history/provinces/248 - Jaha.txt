@@ -1,0 +1,17 @@
+# c_jaha
+
+# County Title
+title = c_jaha
+
+# Settlements
+max_settlements = 3
+
+b_jaha = castle
+b_jaha_2 = city
+#b_jaha_3 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,19 @@
+# c_khrouliana
+
+# County Title
+title = c_khrouliana
+
+# Settlements
+max_settlements = 5
+
+b_khrouliana = castle
+b_khrouliana_2 = city
+b_khrouliana_3 = temple
+#b_khrouliana_4 = castle
+#b_khrouliana_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,19 @@
+# c_ascogna
+
+# County Title
+title = c_ascogna
+
+# Settlements
+max_settlements = 5
+
+b_ascogna = castle
+b_ascogna_2 = city
+b_ascogna_3 = temple
+#b_ascogna_4 = castle
+#b_ascogna_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

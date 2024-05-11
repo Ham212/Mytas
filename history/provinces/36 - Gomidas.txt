@@ -11,7 +11,7 @@ b_muratin = city
 #b_aviet = temple
 
 # Misc
-culture = mijinite
-religion = tertari
+culture = martirosyan
+religion = peteran_theodarity
 
 #History

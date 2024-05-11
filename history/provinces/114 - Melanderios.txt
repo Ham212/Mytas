@@ -1,0 +1,16 @@
+# c_melanderios
+
+# County Title
+title = c_melanderios
+
+# Settlements
+max_settlements = 2
+
+b_melanderios = castle
+b_melanderios_2 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

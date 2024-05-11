@@ -1,0 +1,17 @@
+# c_thayna
+
+# County Title
+title = c_thayna
+
+# Settlements
+max_settlements = 3
+
+b_thayna = castle
+#b_thayna_2 = city
+#b_thayna_3 = temple
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

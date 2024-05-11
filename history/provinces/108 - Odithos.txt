@@ -1,0 +1,18 @@
+# c_odithos
+
+# County Title
+title = c_odithos
+
+# Settlements
+max_settlements = 4
+
+b_odithos = castle
+b_odithos_2 = city
+b_odithos_3 = temple
+#b_odithos_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

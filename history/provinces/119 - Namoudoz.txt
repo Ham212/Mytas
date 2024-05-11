@@ -1,0 +1,20 @@
+# c_namoudoz
+
+# County Title
+title = c_namoudoz
+
+# Settlements
+max_settlements = 6
+
+b_namoudoz = castle
+b_namoudoz_2 = city
+b_namoudoz_3 = temple
+#b_namoudoz_4 = castle
+#b_namoudoz_5 = city
+#b_namoudoz_6 = temple
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

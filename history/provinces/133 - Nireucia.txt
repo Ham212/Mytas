@@ -1,0 +1,18 @@
+# c_nireucia
+
+# County Title
+title = c_nireucia
+
+# Settlements
+max_settlements = 4
+
+b_nireucia = castle
+b_nireucia_2 = city
+#b_nireucia_3 = temple
+#b_nireucia_4 = castle
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

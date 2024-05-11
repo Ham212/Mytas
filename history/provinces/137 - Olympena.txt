@@ -1,0 +1,17 @@
+# c_olympena
+
+# County Title
+title = c_olympena
+
+# Settlements
+max_settlements = 3
+
+b_olympena = castle
+b_olympena_2 = city
+#b_olympena_3 = temple
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

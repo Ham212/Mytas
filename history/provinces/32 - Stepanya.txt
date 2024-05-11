@@ -4,14 +4,16 @@
 title = c_stepanya
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_stepanya = castle
 b_hovsep = city
 #b_mardir = temple
+#b_ardzruni_2 = castle
+#b_natania = city
 
 # Misc
-culture = mijinite
-religion = tertari
+culture = martirosyan
+religion = peteran_theodarity
 
 #History

@@ -12,7 +12,7 @@ b_cythaca = city
 #b_lapauros = castle
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = szespinan
+religion = kaszesrian
 
 #History

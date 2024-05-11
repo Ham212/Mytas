@@ -1,0 +1,20 @@
+# c_vallicella
+
+# County Title
+title = c_vallicella
+
+# Settlements
+max_settlements = 6
+
+b_vallicella = castle
+b_vallicella_2 = city
+b_vallicella_3 = temple
+b_vallicella_4 = castle
+b_vallicella_5 = city
+#b_vallicella_6 = temple
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

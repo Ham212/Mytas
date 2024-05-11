@@ -1,0 +1,17 @@
+# c_tiborivag
+
+# County Title
+title = c_tiborivag
+
+# Settlements
+max_settlements = 3
+
+b_tiborivag = castle
+#b_tiborivag_2 = city
+#b_tiborivag_3 = temple
+
+# Misc
+culture = mijinite
+religion = bogovinist_theodarity
+
+#History

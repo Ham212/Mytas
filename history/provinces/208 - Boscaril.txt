@@ -1,0 +1,19 @@
+# c_boscaril
+
+# County Title
+title = c_boscaril
+
+# Settlements
+max_settlements = 5
+
+b_boscaril = castle
+b_boscaril_2 = city
+b_boscaril_3 = temple
+#b_boscaril_4 = castle
+#b_boscaril_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

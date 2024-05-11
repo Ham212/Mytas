@@ -1,0 +1,19 @@
+# c_svec
+
+# County Title
+title = c_svec
+
+# Settlements
+max_settlements = 5
+
+b_svec = castle
+b_svec_2 = city
+#b_svec_3 = temple
+#b_svec_4 = castle
+#b_svec_5 = city
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

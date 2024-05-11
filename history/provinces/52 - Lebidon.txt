@@ -7,12 +7,12 @@ title = c_lebidon
 max_settlements = 4
 
 b_lebidon = castle
-#b_braurelea = city
+b_braurelea = city
 #b_lamesia = temple
 #b_petsamahos = castle
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = rassic
+religion = tertari
 
 #History

@@ -1,0 +1,18 @@
+# c_prazara
+
+# County Title
+title = c_prazara
+
+# Settlements
+max_settlements = 4
+
+b_prazara = castle
+b_prazara_2 = city
+b_prazara_3 = temple
+#b_prazara_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_pletanek
+
+# County Title
+title = c_pletanek
+
+# Settlements
+max_settlements = 4
+
+b_pletanek = castle
+b_pletanek_2 = city
+#b_pletanek_3 = temple
+#b_pletanek_4 = castle
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

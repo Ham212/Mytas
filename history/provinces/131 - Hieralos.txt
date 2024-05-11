@@ -1,0 +1,19 @@
+# c_hieralos
+
+# County Title
+title = c_hieralos
+
+# Settlements
+max_settlements = 5
+
+b_hieralos = castle
+b_hieralos_2 = city
+b_hieralos_3 = temple
+#b_hieralos_4 = castle
+#b_hieralos_5 = city
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

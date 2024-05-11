@@ -1,0 +1,19 @@
+# c_zukaluz
+
+# County Title
+title = c_zukaluz
+
+# Settlements
+max_settlements = 5
+
+b_zukaluz = castle
+b_zukaluz_2 = city
+b_zukaluz_3 = temple
+#b_zukaluz_4 = castle
+#b_zukaluz_5 = city
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

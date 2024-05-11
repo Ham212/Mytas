@@ -1,0 +1,18 @@
+# c_hyblos
+
+# County Title
+title = c_hyblos
+
+# Settlements
+max_settlements = 4
+
+b_hyblos = castle
+b_hyblos_2 = city
+#b_hyblos_3 = temple
+#b_hyblos_4 = castle
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

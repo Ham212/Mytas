@@ -1,0 +1,18 @@
+# c_segomadura
+
+# County Title
+title = c_segomadura
+
+# Settlements
+max_settlements = 4
+
+b_segomadura = castle
+b_segomadura_2 = city
+#b_segomadura_3 = temple
+#b_segomadura_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

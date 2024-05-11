@@ -1,0 +1,18 @@
+# c_igemelli
+
+# County Title
+title = c_igemelli
+
+# Settlements
+max_settlements = 4
+
+b_igemelli = castle
+b_igemelli_2 = city
+#b_igemelli_3 = temple
+#b_igemelli_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

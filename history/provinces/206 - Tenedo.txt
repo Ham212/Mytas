@@ -1,0 +1,17 @@
+# c_tenedo
+
+# County Title
+title = c_tenedo
+
+# Settlements
+max_settlements = 3
+
+b_tenedo = castle
+b_tenedo_2 = city
+#b_tenedo_3 = temple
+
+# Misc
+culture = ildoan
+religion = sohonist
+
+#History

@@ -1,0 +1,20 @@
+# c_omukapi
+
+# County Title
+title = c_omukapi
+
+# Settlements
+max_settlements = 6
+
+b_omukapi = castle
+b_omukapi_2 = city
+b_omukapi_3 = temple
+b_omukapi_4 = castle
+#b_omukapi_5 = city
+#b_omukapi_6 = temple
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

@@ -1,0 +1,17 @@
+# c_el_qahagha
+
+# County Title
+title = c_el_qahagha
+
+# Settlements
+max_settlements = 3
+
+b_el_qahagha = castle
+#b_el_qahagha_2 = city
+#b_el_qahagha_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

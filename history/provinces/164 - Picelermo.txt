@@ -1,0 +1,19 @@
+# c_picelermo
+
+# County Title
+title = c_picelermo
+
+# Settlements
+max_settlements = 5
+
+b_picelermo = castle
+b_picelermo_2 = city
+b_picelermo_3 = temple
+#b_picelermo_4 = castle
+#b_picelermo_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

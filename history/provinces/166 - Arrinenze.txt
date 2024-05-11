@@ -1,0 +1,19 @@
+# c_arrinenze
+
+# County Title
+title = c_arrinenze
+
+# Settlements
+max_settlements = 5
+
+b_arrinenze = castle
+b_arrinenze_2 = city
+b_arrinenze_3 = temple
+#b_arrinenze_4 = castle
+#b_arrinenze_5 = city
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

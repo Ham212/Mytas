@@ -1,0 +1,18 @@
+# c_alereggio
+
+# County Title
+title = c_alereggio
+
+# Settlements
+max_settlements = 4
+
+b_alereggio = castle
+b_alereggio_2 = city
+b_alereggio_3 = temple
+b_alereggio_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

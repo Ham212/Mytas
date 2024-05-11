@@ -1,0 +1,19 @@
+# c_bozakot
+
+# County Title
+title = c_bozakot
+
+# Settlements
+max_settlements = 5
+
+b_bozakot = castle
+b_bozakot_2 = city
+b_bozakot_3 = temple
+#b_bozakot_4 = castle
+#b_bozakot_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

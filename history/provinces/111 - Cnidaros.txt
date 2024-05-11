@@ -1,0 +1,18 @@
+# c_cnidaros
+
+# County Title
+title = c_cnidaros
+
+# Settlements
+max_settlements = 4
+
+b_cnidaros = castle
+b_cnidaros_2 = city
+b_cnidaros_3 = temple
+#b_cnidaros_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

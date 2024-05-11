@@ -4,9 +4,13 @@
 title = c_abuter
 
 # Settlements
-max_settlements = 1
+max_settlements = 5
 
-b_c_4 = castle
+b_abuter = castle
+b_amaris = city
+#b_ridis = temple
+#b_zaira = castle
+#b_quiniyah = city
 
 # Misc
 culture = sikssaean

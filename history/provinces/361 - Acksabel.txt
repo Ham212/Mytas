@@ -1,0 +1,18 @@
+# c_acksabel
+
+# County Title
+title = c_acksabel
+
+# Settlements
+max_settlements = 4
+
+b_acksabel = castle
+b_acksabel_2 = city
+#b_acksabel_3 = temple
+#b_acksabel_4 = castle
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

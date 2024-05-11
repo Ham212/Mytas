@@ -1,0 +1,19 @@
+# c_senia
+
+# County Title
+title = c_senia
+
+# Settlements
+max_settlements = 5
+
+b_senia = castle
+b_senia_2 = city
+#b_senia_3 = temple
+#b_senia_4 = castle
+#b_senia_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

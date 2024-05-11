@@ -1,0 +1,17 @@
+# c_botondicksi
+
+# County Title
+title = c_botondicksi
+
+# Settlements
+max_settlements = 3
+
+b_botondicksi = castle
+#b_botondicksi_2 = city
+#b_botondicksi_3 = temple
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

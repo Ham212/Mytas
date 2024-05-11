@@ -1,0 +1,20 @@
+# c_iasox
+
+# County Title
+title = c_iasox
+
+# Settlements
+max_settlements = 6
+
+b_iasox = castle
+b_iasox_2 = city
+b_iasox_3 = temple
+#b_iasox_4 = castle
+#b_iasox_5 = city
+#b_iasox_6 = temple
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

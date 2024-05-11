@@ -1,0 +1,18 @@
+# c_vessetta
+
+# County Title
+title = c_vessetta
+
+# Settlements
+max_settlements = 4
+
+b_vessetta = castle
+b_vessetta_2 = city
+#b_vessetta_3 = temple
+#b_vessetta_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

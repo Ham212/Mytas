@@ -1,0 +1,19 @@
+# c_ercopoli
+
+# County Title
+title = c_ercopoli
+
+# Settlements
+max_settlements = 5
+
+b_ercopoli = castle
+b_ercopoli_2 = city
+b_ercopoli_3 = temple
+#b_ercopoli_4 = castle
+#b_ercopoli_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

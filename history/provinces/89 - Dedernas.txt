@@ -1,0 +1,18 @@
+# c_dedernas
+
+# County Title
+title = c_dedernas
+
+# Settlements
+max_settlements = 4
+
+b_dedernas = castle
+b_dedernas_2 = city
+#b_dedernas_3 = temple
+#b_dedernas_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

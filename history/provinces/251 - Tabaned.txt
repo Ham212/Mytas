@@ -1,0 +1,16 @@
+# c_tabaned
+
+# County Title
+title = c_tabaned
+
+# Settlements
+max_settlements = 2
+
+b_tabaned = castle
+#b_tabaned_2 = city
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

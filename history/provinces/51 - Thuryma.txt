@@ -4,15 +4,16 @@
 title = c_thuryma
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_thuryma = castle
 b_lsomnos = city
-#b_aphea = temple
+b_aphea = temple
 #b_naucreucia = castle
+#b_milesia = city
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = rassic
+religion = tertari
 
 #History

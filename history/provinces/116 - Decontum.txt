@@ -1,0 +1,18 @@
+# c_decontum
+
+# County Title
+title = c_decontum
+
+# Settlements
+max_settlements = 4
+
+b_decontum = castle
+b_decontum_2 = city
+b_decontum_3 = temple
+#b_decontum_4 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

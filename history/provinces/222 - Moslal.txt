@@ -1,0 +1,18 @@
+# c_moslal
+
+# County Title
+title = c_moslal
+
+# Settlements
+max_settlements = 4
+
+b_moslal = castle
+b_moslal_2 = city
+#b_moslal_3 = temple
+#b_moslal_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

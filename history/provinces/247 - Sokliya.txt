@@ -1,0 +1,15 @@
+# c_sokliya
+
+# County Title
+title = c_sokliya
+
+# Settlements
+max_settlements = 1
+
+b_sokliya = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,17 @@
+# c_moncafati
+
+# County Title
+title = c_moncafati
+
+# Settlements
+max_settlements = 3
+
+b_moncafati = castle
+b_moncafati_2 = city
+#b_moncafati_3 = temple
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

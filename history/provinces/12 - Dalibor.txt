@@ -4,12 +4,14 @@
 title = c_dalibor
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
 b_dalibor = castle
 b_brezske = city
 #b_vysova = temple
 #b_hloca = castle
+#b_acivorna = city
+#b_cuelva = temple
 
 # Misc
 culture = cyvodic

@@ -1,0 +1,18 @@
+# c_opustil
+
+# County Title
+title = c_opustil
+
+# Settlements
+max_settlements = 4
+
+b_opustil = castle
+b_opustil_2 = city
+#b_opustil_3 = temple
+#b_opustil_4 = castle
+
+# Misc
+culture = mecudial
+religion = kaszesrian
+
+#History

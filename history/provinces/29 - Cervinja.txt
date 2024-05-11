@@ -4,15 +4,16 @@
 title = c_cervinja
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_cervinja = castle
 b_prejov = city
 #b_dubava = temple
 #b_zilne = castle
+#b_trboszkem = city
 
 # Misc
 culture = lucijan
-religion = tertari
+religion = kaszesrian
 
 #History

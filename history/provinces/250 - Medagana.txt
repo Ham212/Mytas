@@ -1,0 +1,15 @@
+# c_medagana
+
+# County Title
+title = c_medagana
+
+# Settlements
+max_settlements = 1
+
+b_medagana = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

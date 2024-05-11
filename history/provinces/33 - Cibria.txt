@@ -4,11 +4,12 @@
 title = c_cibria
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_demir = castle
 #b_trdaty = city
 #b_balik = temple
+#b_kocharia = castle
 
 # Misc
 culture = martirosyan

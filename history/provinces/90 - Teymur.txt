@@ -1,0 +1,18 @@
+# c_teymur
+
+# County Title
+title = c_teymur
+
+# Settlements
+max_settlements = 4
+
+b_teymur = castle
+b_teymur_2 = city
+#b_teymur_3 = temple
+#b_teymur_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

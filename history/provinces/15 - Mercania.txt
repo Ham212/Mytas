@@ -4,11 +4,12 @@
 title = c_mercania
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_cativa = castle
 #b_nwotzkia = city
 #b_thidrek = temple
+#b_salarinis = castle
 
 # Misc
 culture = cyvodic

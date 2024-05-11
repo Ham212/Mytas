@@ -1,0 +1,19 @@
+# c_callatis
+
+# County Title
+title = c_callatis
+
+# Settlements
+max_settlements = 5
+
+b_callatis = castle
+b_callatis_2 = city
+#b_callatis_3 = temple
+#b_callatis_4 = castle
+#b_callatis_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

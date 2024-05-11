@@ -1,0 +1,18 @@
+# c_konuculha
+
+# County Title
+title = c_konuculha
+
+# Settlements
+max_settlements = 4
+
+b_konuculha = castle
+b_konuculha_2 = city
+#b_konuculha_3 = temple
+#b_konuculha_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

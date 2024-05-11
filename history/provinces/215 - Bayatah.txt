@@ -1,0 +1,18 @@
+# c_bayatah
+
+# County Title
+title = c_bayatah
+
+# Settlements
+max_settlements = 4
+
+b_bayatah = castle
+b_bayatah_2 = city
+#b_bayatah_3 = temple
+#b_bayatah_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

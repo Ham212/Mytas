@@ -1,0 +1,19 @@
+# c_semyria
+
+# County Title
+title = c_semyria
+
+# Settlements
+max_settlements = 5
+
+b_semyria = castle
+b_semyria_2 = city
+b_semyria_3 = temple
+b_semyria_4 = castle
+#b_semyria_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

@@ -1,0 +1,16 @@
+# c_ajdaan
+
+# County Title
+title = c_ajdaan
+
+# Settlements
+max_settlements = 2
+
+b_ajdaan = castle
+#b_ajdaan_2 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

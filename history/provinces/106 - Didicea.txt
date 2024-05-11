@@ -1,0 +1,20 @@
+# c_didicea
+
+# County Title
+title = c_didicea
+
+# Settlements
+max_settlements = 6
+
+b_didicea = castle
+b_didicea_2 = city
+b_didicea_3 = temple
+b_didicea_4 = castle
+b_didicea_5 = city
+#b_didicea_6 = temple
+
+# Misc
+culture = szespinan
+religion = kaszesrian
+
+#History

@@ -1,0 +1,19 @@
+# c_castelvecchio
+
+# County Title
+title = c_castelvecchio
+
+# Settlements
+max_settlements = 5
+
+b_castelvecchio = castle
+b_castelvecchio_2 = city
+b_castelvecchio_3 = temple
+b_castelvecchio_4 = castle
+#b_castelvecchio_5 = city
+
+# Misc
+culture = ildoan
+religion = peteran_theodarity
+
+#History

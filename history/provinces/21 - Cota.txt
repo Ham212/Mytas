@@ -4,15 +4,16 @@
 title = c_cota
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 
 b_zalin = castle
-#b_cota = city
+b_cota = city
 #b_halina = temple
 #b_strako = castle
+#b_kubluk = city
 
 # Misc
-culture = lucijan
-religion = tertari
+culture = szespinan
+religion = kaszesrian
 
 #History

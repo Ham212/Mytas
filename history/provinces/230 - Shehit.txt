@@ -1,0 +1,19 @@
+# c_shehit
+
+# County Title
+title = c_shehit
+
+# Settlements
+max_settlements = 5
+
+b_shehit = castle
+b_shehit_2 = city
+b_shehit_3 = temple
+#b_shehit_4 = castle
+#b_shehit_5 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

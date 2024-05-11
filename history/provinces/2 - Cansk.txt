@@ -4,15 +4,17 @@
 title = c_cansk
 
 # Settlements
-max_settlements = 4
+max_settlements = 6
 
 b_czansk = castle
 b_ansis = city
-#b_alath = temple
+b_alath = temple
 #b_thoris = castle
+#b_meria = city
+#b_moncadica = temple
 
 # Misc
 culture = cyvodic
-religion = peteran_theodarity
+religion = tertari
 
 #History

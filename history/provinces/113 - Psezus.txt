@@ -1,0 +1,17 @@
+# c_psezus
+
+# County Title
+title = c_psezus
+
+# Settlements
+max_settlements = 3
+
+b_psezus = castle
+b_psezus_2 = city
+#b_psezus_3 = temple
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

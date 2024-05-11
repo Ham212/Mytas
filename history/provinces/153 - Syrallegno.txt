@@ -1,0 +1,18 @@
+# c_syrallegno
+
+# County Title
+title = c_syrallegno
+
+# Settlements
+max_settlements = 4
+
+b_syrallegno = castle
+b_syrallegno_2 = city
+#b_syrallegno_3 = temple
+#b_syrallegno_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

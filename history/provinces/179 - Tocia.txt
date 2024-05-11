@@ -1,0 +1,19 @@
+# c_tocia
+
+# County Title
+title = c_tocia
+
+# Settlements
+max_settlements = 5
+
+b_tocia = castle
+b_tocia_2 = city
+b_tocia_3 = temple
+#b_tocia_4 = castle
+#b_tocia_5 = city
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

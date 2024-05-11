@@ -1,0 +1,18 @@
+# c_terada
+
+# County Title
+title = c_terada
+
+# Settlements
+max_settlements = 4
+
+b_terada = castle
+b_terada_2 = city
+#b_terada_3 = temple
+#b_terada_4 = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -1,0 +1,19 @@
+# c_olythepios
+
+# County Title
+title = c_olythepios
+
+# Settlements
+max_settlements = 5
+
+b_olythepios = castle
+b_olythepios_2 = city
+b_olythepios_3 = temple
+b_olythepios_4 = castle
+#b_olythepios_5 = city
+
+# Misc
+culture = szespinan
+religion = kaszesrian
+
+#History

@@ -1,0 +1,17 @@
+# c_gokotton
+
+# County Title
+title = c_gokotton
+
+# Settlements
+max_settlements = 4
+
+b_gokotton_2 = city
+#b_gokotton_3 = temple
+#b_gokotton_4 = castle
+
+# Misc
+culture = rashan
+religion = bassi_tamirism
+
+#History

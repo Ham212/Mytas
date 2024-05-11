@@ -4,18 +4,17 @@
 title = c_veigonopole
 
 # Settlements
-max_settlements = 7
+max_settlements = 6
 
 b_lampsokampos = castle
 b_veigonopole = city
 b_tomegea = temple
-#b_thermynthus = castle
+b_thermynthus = castle
 #b_kerkeion = city
 #b_amburii = temple
-#b_milesia = castle
 
 # Misc
-culture = aurissiote
-religion = bogovinist_theodarity
+culture = szespinan
+religion = kaszesrian
 
 #History

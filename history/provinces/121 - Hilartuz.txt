@@ -1,0 +1,19 @@
+# c_hilartuz
+
+# County Title
+title = c_hilartuz
+
+# Settlements
+max_settlements = 5
+
+b_hilartuz = castle
+b_hilartuz_2 = city
+b_hilartuz_3 = temple
+#b_hilartuz_4 = castle
+#b_hilartuz_5 = city
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

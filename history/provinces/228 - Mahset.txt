@@ -1,0 +1,17 @@
+# c_mahset
+
+# County Title
+title = c_mahset
+
+# Settlements
+max_settlements = 3
+
+b_mahset = castle
+b_mahset_2 = city
+#b_mahset_3 = temple
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

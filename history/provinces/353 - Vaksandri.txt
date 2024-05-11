@@ -1,0 +1,18 @@
+# c_vaksandri
+
+# County Title
+title = c_vaksandri
+
+# Settlements
+max_settlements = 4
+
+b_vaksandri = castle
+b_vaksandri_2 = city
+#b_vaksandri_3 = temple
+#b_vaksandri_4 = castle
+
+# Misc
+culture = kaldan
+religion = tertari
+
+#History

@@ -1,0 +1,20 @@
+# c_areliani
+
+# County Title
+title = c_areliani
+
+# Settlements
+max_settlements = 6
+
+b_areliani = castle
+b_areliani_2 = city
+b_areliani_3 = temple
+b_areliani_4 = castle
+#b_areliani_5 = city
+#b_areliani_6 = temple
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

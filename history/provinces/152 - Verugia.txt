@@ -1,0 +1,20 @@
+# c_verugia
+
+# County Title
+title = c_verugia
+
+# Settlements
+max_settlements = 6
+
+b_verugia = castle
+b_verugia_2 = city
+b_verugia_3 = temple
+#b_verugia_4 = castle
+#b_verugia_5 = city
+#b_verugia_6 = temple
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

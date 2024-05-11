@@ -1,0 +1,18 @@
+# c_sempronium
+
+# County Title
+title = c_sempronium
+
+# Settlements
+max_settlements = 4
+
+b_sempronium = castle
+b_sempronium_2 = city
+#b_sempronium_3 = temple
+#b_sempronium_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

@@ -1,0 +1,18 @@
+# c_afrad
+
+# County Title
+title = c_afrad
+
+# Settlements
+max_settlements = 4
+
+b_afrad = castle
+b_afrad_2 = city
+#b_afrad_3 = temple
+#b_afrad_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

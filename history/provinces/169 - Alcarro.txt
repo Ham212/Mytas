@@ -1,0 +1,18 @@
+# c_alcarro
+
+# County Title
+title = c_alcarro
+
+# Settlements
+max_settlements = 4
+
+b_alcarro = castle
+b_alcarro_2 = city
+#b_alcarro_3 = temple
+#b_alcarro_4 = castle
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

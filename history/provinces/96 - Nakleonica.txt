@@ -1,0 +1,21 @@
+# c_nakleonica
+
+# County Title
+title = c_nakleonica
+
+# Settlements
+max_settlements = 7
+
+b_nakleonica = castle
+b_nakleonica_2 = city
+b_nakleonica_3 = temple
+b_nakleonica_4 = castle
+b_nakleonica_5 = city
+b_nakleonica_6 = temple
+#b_nakleonica_7 = castle
+
+# Misc
+culture = rassic
+religion = tertari
+
+#History

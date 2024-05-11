@@ -1,0 +1,18 @@
+# c_illici
+
+# County Title
+title = c_illici
+
+# Settlements
+max_settlements = 4
+
+b_illici = castle
+b_illici_2 = city
+#b_illici_3 = temple
+#b_illici_4 = castle
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History

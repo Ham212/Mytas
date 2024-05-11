@@ -1,0 +1,18 @@
+# c_tobtan
+
+# County Title
+title = c_tobtan
+
+# Settlements
+max_settlements = 4
+
+b_tobtan = castle
+b_tobtan_2 = city
+#b_tobtan_3 = temple
+#b_tobtan_4 = castle
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

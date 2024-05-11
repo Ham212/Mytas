@@ -1,0 +1,17 @@
+# c_vigera
+
+# County Title
+title = c_vigera
+
+# Settlements
+max_settlements = 3
+
+b_vigera = castle
+b_vigera_2 = city
+#b_vigera_3 = temple
+
+# Misc
+culture = pasian
+religion = peteran_theodarity
+
+#History

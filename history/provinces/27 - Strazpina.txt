@@ -4,14 +4,16 @@
 title = c_strazpina
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_mihaihoi = castle
-#b_sabin = city
+b_sabin = city
 #b_handve = temple
+#b_brasebes = castle
+#b_majnica = city
 
 # Misc
 culture = lucijan
-religion = tertari
+religion = kaszesrian
 
 #History

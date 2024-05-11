@@ -1,0 +1,16 @@
+# c_dymydon
+
+# County Title
+title = c_dymydon
+
+# Settlements
+max_settlements = 2
+
+b_dymydon = castle
+#b_dymydon_2 = city
+
+# Misc
+culture = savosian
+religion = bogovinist_theodarity
+
+#History

@@ -1,0 +1,18 @@
+# c_viceggio
+
+# County Title
+title = c_viceggio
+
+# Settlements
+max_settlements = 4
+
+b_viceggio = castle
+b_viceggio_2 = city
+#b_viceggio_3 = temple
+#b_viceggio_4 = castle
+
+# Misc
+culture = pausanian
+religion = peteran_theodarity
+
+#History

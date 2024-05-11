@@ -1,0 +1,19 @@
+# c_hiererma
+
+# County Title
+title = c_hiererma
+
+# Settlements
+max_settlements = 5
+
+b_hiererma = castle
+b_hiererma_2 = city
+#b_hiererma_3 = temple
+#b_hiererma_4 = castle
+#b_hiererma_5 = city
+
+# Misc
+culture = auvedian
+religion = bogovinist_theodarity
+
+#History

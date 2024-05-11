@@ -4,10 +4,12 @@
 title = c_avedis
 
 # Settlements
-max_settlements = 2
+max_settlements = 4
 
 b_avedis = castle
 #b_fanoos = city
+#b_kostoy = temple
+#b_panos = castle
 
 # Misc
 culture = martirosyan

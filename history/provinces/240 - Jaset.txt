@@ -1,0 +1,17 @@
+# c_jaset
+
+# County Title
+title = c_jaset
+
+# Settlements
+max_settlements = 3
+
+b_jaset = castle
+b_jaset_2 = city
+#b_jaset_3 = temple
+
+# Misc
+culture = adanese
+religion = sohonist
+
+#History

@@ -4,14 +4,16 @@
 title = c_adosinda
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 
 b_adosinda = castle
-#b_cniva = city
+b_cniva = city
 #b_brandila = temple
+#b_gajo = castle
+#b_terale = city
 
 # Misc
-culture = lyngarian
-religion = peteran_theodarity
+culture = cyvodic
+religion = tertari
 
 #History

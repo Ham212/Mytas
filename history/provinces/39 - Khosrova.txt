@@ -4,14 +4,15 @@
 title = c_khosrova
 
 # Settlements
-max_settlements = 3
+max_settlements = 4
 
 b_getica = castle
 b_ricimer = city
 #b_athalar = temple
+#b_kostikya = castle
 
 # Misc
-culture = cyvodic
-religion = tertari
+culture = mijinite
+religion = bogovinist_theodarity
 
 #History

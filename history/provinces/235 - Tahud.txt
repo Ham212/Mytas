@@ -1,0 +1,16 @@
+# c_tahud
+
+# County Title
+title = c_tahud
+
+# Settlements
+max_settlements = 2
+
+b_tahud = castle
+#b_tahud_2 = city
+
+# Misc
+culture = moshedic
+religion = sohonist
+
+#History
