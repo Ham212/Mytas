@@ -274,7 +274,7 @@ province;red;green;blue;x;x
 273;21;237;237;Karis Gateway;x
 274;16;237;237;Coast of Pesherq;x
 275;9;237;237;Cape of Cansk;x
-276;1;1;1;PLACEHOLDER276;x
+276;7;236;236;Gulf of Ababda;x
 277;11;237;237;Gulf of Ababda #2;x
 278;18;237;237;Anelikan Coast;x
 279;47;237;237;Golat Sea #2;x
@@ -326,7 +326,7 @@ province;red;green;blue;x;x
 325;4;237;237;Ligure #2;x
 326;26;237;237;Delvos;x
 327;28;237;237;Delvos #2;x
-328;7;236;236;Fernii;x
+328;7;230;230;Fernii;x
 329;161;237;237;Lanzino;x
 330;158;237;237;Lalmeta;x
 331;156;237;237;Benamino;x
@@ -368,3 +368,4 @@ province;red;green;blue;x;x
 367;12;249;249;Delvos #7;x
 368;14;249;249;Delvos #8;x
 369;118;237;237;Valan Channel #8;x
+370;39;235;235;Arat;x

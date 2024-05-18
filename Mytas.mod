@@ -1,4 +1,4 @@
-name = "Mytas"
+name = "Lords of Mytas"
 path = "mod/Mytas"
 user_dir = "Mytas"
 

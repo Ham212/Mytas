@@ -1557,23 +1557,6 @@ e_aurissos = {
 		capital = 130 # c_actessos
 		culture = savosian
 		
-		c_iasox = { # 132
-			color={ 45 151 226 }
-			color2={ 255 255 255 }
-			
-			b_iasox = {
-			}
-			b_iasox_2 = {
-			}
-			b_iasox_3 = {
-			}
-			b_iasox_4 = {
-			}
-			b_iasox_5 = {
-			}
-			b_iasox_6 = {
-			}
-		}
 		d_actessos = {
 			color={ 43 166 219 }
 			color2={ 255 255 255 }
@@ -3337,7 +3320,7 @@ e_sikssayu = {
 		}
 	}
 }
-e_transamrian = {
+e_transamiran = {
 	color={ 215 175 41 }
 	color2={ 255 255 20 }
 	

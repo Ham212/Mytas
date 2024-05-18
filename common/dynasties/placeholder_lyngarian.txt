@@ -1,50 +1,180 @@
-15 ={
+1001 ={
 	name="Saphra"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-16 ={
+1002 ={
 	name="Sigisvult"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-17 ={
+1003 ={
 	name="Videric"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-18 ={
+1004 ={
 	name="Frigerid"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-19 ={
+1005 ={
 	name="Valia"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-20 ={
+1006 ={
 	name="Radegond"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-21 ={
+1007 ={
 	name="Lorelei"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-22 ={
+1008 ={
 	name="Melisanda"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-23 ={
+1009 ={
 	name="Avina"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
 }
-24 ={
+1010 ={
 	name="Liuva"
 	culture="lyngarian"
 	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1011 ={
+	name="Ildebad"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1012 ={
+	name="Salla"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1013 ={
+	name="Ansis"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1014 ={
+	name="Alatheus"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1015 ={
+	name="Eutharic"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1016 ={
+	name="Talida"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1017 ={
+	name="Amalfrieda"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1018 ={
+	name="Amalda"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1019 ={
+	name="Areagne"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1020 ={
+	name="Limiteti"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1021 ={
+	name="Melle"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1022 ={
+	name="Emelia"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1023 ={
+	name="Teja"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1024 ={
+	name="Rhima"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1025 ={
+	name="Aoric"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1026 ={
+	name="Sigis"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1027 ={
+	name="Arnegliscus"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1028 ={
+	name="Namatius"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1029 ={
+	name="Gaut"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
+}
+1030 ={
+	name="Arvandus"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = yes
 }

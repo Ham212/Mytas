@@ -2,11 +2,8 @@
 458.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
-	liege = d_leyre
-}
-682.9.15={
-	holder = 33
+	liege = 0
 }
 700.5.25={
-	holder = 35
+	holder = 1
 }

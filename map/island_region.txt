@@ -1,0 +1,49 @@
+region_verios = {
+	provinces = { 55 }
+}
+region_phocastro = {
+	provinces = { 100 }
+}
+region_igemelli = {
+	provinces = { 171 }
+}
+region_senia = {
+	provinces = { 191 }
+}
+region_segomadura = {
+	provinces = { 192 }
+}
+region_vessetta = {
+	provinces = { 193 }
+}
+region_caprera = {
+	provinces = { 196 }
+}
+region_tuder = {
+	provinces = { 203 }
+}
+region_shehit = {
+	provinces = { 230 }
+}
+region_qahagha = {
+	provinces = { 231 }
+}
+region_asanessia = { 
+	provinces = {173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190
+	194 195 197 198 199}
+}
+region_avedessa = { 
+	provinces = {204 205 206 207 208 209 210 211}
+}
+region_granporte = { 
+	provinces = {200 201 202}
+}
+region_nord_valdia = { 
+	provinces = {148 149 150}
+}
+region_segna = { 
+	provinces = {145 146 147}
+}
+region_isola_maggiore = { 
+	provinces = {169 170 172}
+}

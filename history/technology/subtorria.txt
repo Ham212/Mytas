@@ -1,13 +1,14 @@
-technology = {
+technology = {#7
 	titles = {
-		d_leyre
-		d_veigonopole
-		d_marathos
+		c_aveirta
+		c_karis
+		c_nakleonica
+		c_nanice
 	}
-	800 = {
-		military = 1.4
-		economy = 2.0
-		culture = 1.1
+	700 = {
+		military = 3.8
+		economy = 3.8
+		culture = 3.8
 	}
 	2500 = {
 		military = 5.0
@@ -15,17 +16,30 @@ technology = {
 		culture = 5.0
 	}
 }
-technology = {
+technology = {#6
 	titles = {
-		d_ildovica
-		d_szespin
-		d_ibba
-		d_thuryma
-	}	
-	800 = {
-		military = 0.4
-		economy = 1.1
-		culture = 0.7
+		c_alagasz
+		c_treporti
+		c_orchanthus
+		c_altymos
+		c_alereggio
+		c_syragno
+		c_pracino
+		c_areliani
+		c_saltuzo
+		c_pavola
+		c_amago
+		c_avitivi
+		c_talvati
+		c_castelvecchio
+		c_mosheddin
+		c_mozia
+		c_vallicella
+	}
+	700 = {
+		military = 3.4
+		economy = 3.4
+		culture = 3.4
 	}
 	2500 = {
 		military = 5.0
@@ -33,19 +47,271 @@ technology = {
 		culture = 5.0
 	}
 }
-technology = {
+technology = {#5
 	titles = {
-		d_cyvodia
-		d_sapra
-		d_stepanya
-		d_dunavec
-		d_adrezen
-		d_mercania
+		c_didicea
+		c_agheida
+		c_leyre
+		c_pelerikon
+		c_actessos
+		c_hieralos
+		c_iasox
+		c_lourola
+		c_girodura
+		c_piviso
+		c_perustosia
+		c_lenduo
+		c_verugia
+		c_girostile
+		c_ascogna
+		c_picelermo
+		c_arrinenze
+		c_riova
+		c_caltasello
+		c_ercopoli
+		c_tocia
+		c_prazara
+		c_aveisa
+		c_levianno
+		c_maramori
+		c_scarlatta
+		c_augusta
+		c_veii
+		c_boscaril
+		c_pyleron
+		c_semyria
+		c_veigonopole
+	}
+	700 = {
+		military = 2.6
+		economy = 2.6
+		culture = 2.6
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+technology = {#4
+	titles = {
+		c_zanic
+		c_solactus
+		c_dez
+		c_omukapi
+		c_ilinbeyli
+		c_olythepios
+		c_rajhada
+		c_kasbir
+		c_ezzahtour
+		c_barata
+		c_corcespiae
+		c_hiererma
+		c_nireucia
+		c_hyblos
+		c_thassita
+		c_eleutespontos
+		c_olympena
+		c_iasynthos
+		c_sicigona
+		c_egatsi
+		c_tivosoria
+		c_syrallegno
+		c_aveigre
+		c_amatri
+		c_nealonghi
+		c_vigera
+		c_resinde
+		c_scaserta
+		c_tolenresa
+		c_alcarro
+		c_voriani
+		c_igemelli
+		c_moncafati
+		c_tagola
+		c_viceggio
+		c_brirbo
+		c_braria
+		c_farrati
+		c_senia
+		c_segomadura
+		c_vessetta
+		c_caprera
+		c_pretara
+		c_croton
+		c_bonenia
+		c_camerinum
+		c_messambria
+		c_tuder
+		c_tenedo
+		c_illici
+		c_sempronium
+		c_callatis
+		c_vetera
+		c_phocastro
+		c_pixarnacia
+		c_odithos
+		c_demyria
+		c_cnidaros
+		c_decontum
+		c_namoudoz
+		c_bozakot
+		c_hilartuz
+		c_primorekin
+		c_zukaluz
+	}
+	700 = {
+		military = 1.6
+		economy = 1.6
+		culture = 1.6
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+technology = {#3
+	titles = {
+		c_cansk
+		c_rilkymet
+		c_tripoinion
+		c_marathos
+		c_thuryma
+		c_marasa
+		c_cerissu
+		c_skarjiq
+		c_carizquale
+		c_delvaz
+		c_parwiz
+		c_badekli
+		c_nusattin
+		c_guzepinari
+		c_rabahir
+		c_ashni
+		c_kadulaib
+		c_ad_dascha
+		c_shehit
+		c_khrouliana
+		c_nalin
+		c_tyras
+		c_elja
+		c_avirias
+		c_asterilla
+		c_steydia
+		c_zatrissa
+		c_ampheuterna
+		c_dymydon
+		c_lygia
+		c_verios
+		c_tanera
+		c_lampsetros
+		c_psezus
+		c_melanderios
+		c_kydarina
+		c_naucricapaeum
+		c_askorven
+		c_svec
+		c_rmoutiz
+		c_pletanek
+		c_opustil
+		
+		
 	}	
-	800 = {
-		military = 0
+	700 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
+technology = {#2
+	titles = {
+		c_lower_kastiid
+		c_upper_kastiid
+		c_adosinda
+		c_hyrkania
+		c_dalibor
+		c_cota
+		c_arsultacz
+		c_dunavec
+		c_bobrozan
+		c_metel
+		c_strazpina
+		c_cervinja
+		c_stepanya
+		c_sapra
+		c_gomidas
+		c_khosrova
+		c_dzaghig
+		c_vathaistos
+		c_latias
+		c_golgopeion
+		c_lebidon
+		c_baroli
+		c_maras
+		c_haiqban
+		c_guzler
+		c_atara
+		c_arpaqui
+		c_abuter
+		c_baquji
+		c_mallanzala
+		c_kazen
+		c_saasaniyas
+		c_at_tarnah
+		c_gilan
+		c_xira
+		c_lavargan
+		c_ctesirkuk
+		c_gokotton
+		c_golbahan
+		c_konuculha
+		c_dedernas
+		c_teymur
+		c_jirost
+		c_xaneme
+		c_ahislu
+		c_bayatah
+		c_fernarouj
+		c_el_kecha
+		c_khalil
+		c_dahmafour
+		c_moslal
+		c_mahset
+		c_afrad
+		c_el_geli
+		c_terada
+		c_jaset
+		c_tobtan
+		c_thefla
+		c_shahte
+		c_trari
+		c_jaha
+		c_berbat
+		c_bababelat
+		c_vaksandri
+		c_starikan
+		c_joroltan
+		c_variscksri
+		c_veresen
+		c_acksabel
+		c_aspar
+		c_altinado
+		c_ostovia
+		c_mercania
+		c_yezras
+		c_berj
+		
+	}	
+	700 = {
+		military = 0.5
 		economy = 0.5
-		culture = 0
+		culture = 0.5
 	}
 	2500 = {
 		military = 5.0
@@ -53,17 +319,49 @@ technology = {
 		culture = 5.0
 	}
 }
-technology = {
+technology = {#1
 	titles = {
-		d_dzaghig
-		d_khosrova
-		d_cervinja
-		d_martirosya
+		c_ostronec
+		c_adrezen
+		c_myszin
+		c_alzen
+		c_cibria
+		c_avedis
+		c_ragheni
+		c_ohaneus
+		c_marut
+		c_zadiad
+		c_yehorivka
+		c_pazanbey
+		c_cayika
+		c_thayna
+		c_suzougha
+		c_ajdaan
+		c_tenkech
+		c_el_qahagha
+		c_tahud
+		c_rishita
+		c_oraliana
+		c_touggara
+		c_sokliya
+		c_ifrale
+		c_medagana
+		c_tabaned
+		c_fedanin
+		c_guemaret
+		c_nerata
+		c_nelin
+		c_yafte
+		c_teboubet
+		c_tiborivag
+		c_lunaraks
+		c_botondicksi
+		c_csonkal
 	}	
-	800 = {
-		military = 0
-		economy = 0
-		culture = 0
+	700 = {
+		military = 0.2
+		economy = 0.2
+		culture = 0.2
 	}
 	2500 = {
 		military = 5.0

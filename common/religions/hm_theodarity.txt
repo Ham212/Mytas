@@ -240,7 +240,7 @@ pagan_religions = {
 }
 tertari_group = {
 	has_coa_on_barony_only = yes
-	graphical_culture = muslimgfx
+	graphical_culture = pagangfx
 	playable = yes
 	
 	ai_convert_same_group = 2 # always try to convert

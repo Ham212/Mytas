@@ -3,8 +3,4 @@
 	liege = d_cyvodia
 	law = agnatic_succession
 	law = succ_gavelkind
-	holder = 1
-}
-704.4.23={
-	holder = 5
 }
