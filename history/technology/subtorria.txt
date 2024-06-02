@@ -228,11 +228,44 @@ technology = {
 		culture = 1.5
 		
 		TECH_NAVAL = 1.75
+		TECH_FORTIFICATIONS_CONSTRUCTION = 1.3
 	}
 		
 
 }
+technology = {
+	titles = {
+		d_ashni
+		d_hebilil
+	}
 
+	712 = {
+		military = 0.3
+		economy = 0.5
+		culture = 0.5
+	}
+		
+
+}
 #Hordes of Kanta
+
+technology = {
+	titles = {
+		d_kelal
+		d_rizajila
+		d_touggara
+		d_ifrale
+		d_ouarzate
+	}
+
+	712 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+		
+		TECH_CAVALRY = 2
+		TECH_SKIRMISH = 2
+	}
+}
 
 
