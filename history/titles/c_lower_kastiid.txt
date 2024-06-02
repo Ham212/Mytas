@@ -1,15 +1,9 @@
 # d_ibba
-458.11.8={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
 	liege = d_ibba
 }
-681.4.25={
-	holder = 39
-}
-699.11.4={
-	holder = 41
-}
-700.5.28={
-	holder = 48
+701.6.5 = {
+	holder = 1010
 }

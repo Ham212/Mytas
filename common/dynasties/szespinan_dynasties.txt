@@ -1,0 +1,18 @@
+301 ={
+	name="Aldimiric"
+	culture="szespinan"
+	religion="kaszesrian"
+	used_for_random = no
+}
+302 ={
+	name="Asenic"
+	culture="szespinan"
+	religion="kaszesrian"
+	used_for_random = no
+}
+303 ={
+	name="Mukasinev"
+	culture="szespinan"
+	religion="kaszesrian"
+	used_for_random = no
+}

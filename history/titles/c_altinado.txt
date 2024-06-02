@@ -1,5 +1,5 @@
 # k_cyvod
-700.5.28={
+581.11.8={
 	liege = d_cyvodia
 	law = agnatic_succession
 	law = succ_gavelkind

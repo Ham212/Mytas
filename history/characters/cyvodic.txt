@@ -1,0 +1,126 @@
+1001 = {
+	name=Ovtay #First King of Cyvod
+	father = 1002
+	mother = 1003
+	dynasty = 101
+	religion=tertari
+	culture=cyvodic
+	678.3.18={
+		birth=yes
+	}
+	698.6.17 ={
+		add_spouse = 1004
+	}
+	731.7.1={
+		death=yes
+	}
+}
+1005 = {
+	name=Andyamo
+	father = 1001
+	mother = 1004
+	dynasty=101
+	religion=tertari
+	culture=cyvodic
+	700.7.12={
+		birth=yes
+	}
+}
+1006 = {
+	name=Siyamka
+	father = 1001
+	mother = 1004
+	dynasty=101
+	female=yes
+	religion=tertari
+	culture=cyvodic
+	702.3.15={
+		birth=yes
+	}
+}
+1007 = {
+	name=Kunyavka
+	father = 1001
+	mother = 1004
+	dynasty=101
+	female=yes
+	religion=tertari
+	culture=cyvodic
+	705.8.12={
+		birth=yes
+	}
+}
+1008 = {
+	name=Vechkas
+	father = 1001
+	mother = 1004
+	dynasty=101
+	religion=tertari
+	culture=cyvodic
+	709.7.25={
+		birth=yes
+	}
+}
+1002 = {
+	name = Varaka #Duke of Cyvodia and founder of the Varakezh dynasty
+	dynasty = 101
+	religion = tertari
+	culture = cyvodic
+	660.7.14={
+		birth=yes
+	}
+	677.1.2={
+		add_spouse = 1003
+	}
+	694.11.18={
+		death=yes
+	}
+}
+1003 = {
+	name=Pemka
+	female=yes
+	religion=tertari
+	culture=cyvodic
+	661.6.15={
+		birth=yes
+	}
+	734.12.21={
+		death=yes
+	}
+}
+1004 = {
+	name=Asrava
+	female=yes
+	religion=tertari
+	culture=cyvodic
+	682.9.5={
+		birth=yes
+	}
+	751.2.4={
+		death=yes
+	}
+}
+1009 = {
+	name=Nuyat #Founder of the Finuyat dynasty and duke of mercania
+	dynasty=102
+	religion=tertari
+	culture=cyvodic
+	670.5.19={
+		birth=yes
+	}
+	746.4.24={
+		death=yes
+	}
+}
+1010 = {
+	name=Tyushten #Founder of the Tyusht dynasty and duke of ibba
+	dynasty=103
+	religion=tertari
+	culture=cyvodic
+	680.4.23={
+		birth=yes
+	}
+	752.1.6={
+		death=yes
+	}
+}

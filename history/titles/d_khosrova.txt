@@ -1,10 +1,9 @@
 # k_cyvod
-700.5.28={
-	liege = k_cyvod
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
-	holder = 15
+	liege = k_mijin
 }
-712.9.4={
-	holder = 17
+703.5.12={
+	holder = 4011
 }

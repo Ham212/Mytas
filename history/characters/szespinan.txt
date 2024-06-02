@@ -1,0 +1,72 @@
+3003 = {
+	name=Agata #Mother
+	female=yes
+	religion=kaszesrian
+	culture=szespinan
+	610.4.12={
+		birth=yes
+	}
+	630.3.3={
+		death = {death_reason = death_childbirth}
+	}
+}
+3001 = {
+	name=Aldimir #First King of Szespin
+	father = 2034
+	mother = 3003
+	add_trait="bastard"
+	dynasty = 201
+	religion=kaszesrian
+	culture=szespinan
+	give_nickname = nick_the_conqueror
+	630.3.3={
+		birth=yes
+	}
+	646.4.18={
+		add_spouse=2036
+	}
+	649.6.19={
+		dynasty=301
+	}
+	695.10.13={
+		death=yes
+	}
+}
+3002 = {
+	name=Vuk
+	father=3001
+	mother=2036
+	dynasty = 301
+	religion=kaszesrian
+	culture=szespinan
+	649.6.19={
+		birth=yes
+	}
+	723.2.14={
+		death=yes
+	}
+}
+3020 = {
+	name=Prvoslav
+	dynasty = 302
+	religion=kaszesrian
+	culture=szespinan
+	656.7.4={
+		birth=yes
+	}
+	714.8.12={
+		death=yes
+	}
+}
+3030 = {
+	name=Josip
+	dynasty = 303
+	religion=kaszesrian
+	culture=szespinan
+	648.7.31={
+		birth=yes
+	}
+	713.6.2={
+		death=yes
+	}
+}

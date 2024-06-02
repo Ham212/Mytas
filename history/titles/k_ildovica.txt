@@ -1,0 +1,5 @@
+712.11.15={
+	liege = 0
+	law = succ_patrician_elective
+	holder = 14
+}

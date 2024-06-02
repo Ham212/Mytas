@@ -1,10 +1,9 @@
 # k_cyvod
-669.4.2={
+581.11.8={
 	liege = d_cervinja
 	law = agnatic_succession
 	law = succ_gavelkind
-	holder = 6
 }
-686.10.8={
-	holder = 9
+684.6.2 = {
+	liege = d_cyvodia
 }

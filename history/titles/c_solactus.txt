@@ -1,8 +1,9 @@
 # e_aurissos
-500.1.1={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege = d_veigonopole
 }
-700.1.1={
-	liege=k_serres
+688.10.13={
+	holder = 3030
 }

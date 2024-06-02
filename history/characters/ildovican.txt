@@ -1,0 +1,412 @@
+14 = {
+	name=Ardo
+	dynasty = 3
+	religion=peteran_theodarity
+	culture=lyngarian
+	672.8.17={
+		birth=yes
+	}
+	692.4.15 = {
+		add_spouse=22
+	}
+	751.3.27={
+		death=yes
+	}
+}
+30 = {
+	name=Graviel
+	dynasty = 3
+	father = 14
+	mother = 22
+	religion=peteran_theodarity
+	culture=lyngarian
+	694.10.12={
+		birth=yes
+	}
+	710.1.13 = {
+		add_spouse=35
+	}
+}
+31 = {
+	name=Onofria
+	female = yes
+	father = 14
+	mother = 22
+	dynasty = 3
+	religion=peteran_theodarity
+	culture=lyngarian
+	698.5.20={
+		birth=yes
+	}
+}
+32 = {
+	name=Rodrigo
+	father = 14
+	mother = 22
+	dynasty = 3
+	religion=peteran_theodarity
+	culture=lyngarian
+	701.2.23={
+		birth=yes
+	}
+}
+15 = {
+	name=Aznaro
+	dynasty = 4
+	religion=peteran_theodarity
+	culture=lyngarian
+	674.2.21={
+		birth=yes
+	}
+	698.6.17 = {
+		add_spouse=23
+	}
+	748.4.18={
+		death=yes
+	}
+}
+33 = {
+	name=Euric
+	father = 15
+	mother = 23
+	dynasty = 4
+	religion=peteran_theodarity
+	culture=lyngarian
+	701.8.15={
+		birth=yes
+	}
+}
+34 = {
+	name=Leander
+	father = 15
+	mother = 23
+	dynasty = 4
+	religion=peteran_theodarity
+	culture=lyngarian
+	704.9.14={
+		birth=yes
+	}
+}
+16 = {
+	name=Gascon
+	dynasty = 5
+	religion=peteran_theodarity
+	culture=lyngarian
+	670.12.14={
+		birth=yes
+	}
+	688.4.4 = {
+		add_spouse=24
+	}
+	761.2.13={
+		death=yes
+	}
+}
+35 = {
+	name=Urraca
+	female = yes
+	dynasty = 5
+	father = 16
+	mother = 24
+	religion=peteran_theodarity
+	culture=lyngarian
+	690.12.10={
+		birth=yes
+	}
+}
+36 = {
+	name=Domenga
+	female = yes
+	father = 16
+	mother = 24
+	dynasty = 5
+	religion=peteran_theodarity
+	culture=lyngarian
+	696.1.24={
+		birth=yes
+	}
+}
+37 = {
+	name=Siserich
+	father = 16
+	mother = 24
+	dynasty = 5
+	religion=peteran_theodarity
+	culture=lyngarian
+	699.8.29={
+		birth=yes
+	}
+}
+17 = {
+	name=Nunno
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	673.10.11={
+		birth=yes
+	}
+	699.4.30 = {
+		add_spouse=25
+	}
+	756.7.14={
+		death=yes
+	}
+}
+38 = {
+	name=Winidilda
+	female = yes
+	father = 17
+	mother = 25
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	704.10.4={
+		birth=yes
+	}
+}
+39 = {
+	name=Diago
+	father = 17
+	mother = 25
+	dynasty = 6
+	religion=peteran_theodarity
+	culture=lyngarian
+	708.8.9={
+		birth=yes
+	}
+}
+18 = {
+	name=Lupo
+	dynasty = 7
+	religion=peteran_theodarity
+	culture=lyngarian
+	678.11.27={
+		birth=yes
+	}
+	700.2.17 = {
+		add_spouse=26
+	}
+	762.4.12={
+		death=yes
+	}
+}
+40 = {
+	name=Ervig
+	father = 18
+	mother = 26
+	dynasty = 7
+	religion=peteran_theodarity
+	culture=lyngarian
+	702.8.18={
+		birth=yes
+	}
+}
+41 = {
+	name=Gundemar
+	father = 18
+	mother = 26
+	dynasty = 7
+	religion=peteran_theodarity
+	culture=lyngarian
+	709.4.19={
+		birth=yes
+	}
+}
+19 = {
+	name=Rodericho
+	dynasty = 8
+	religion=peteran_theodarity
+	culture=lyngarian
+	680.5.12={
+		birth=yes
+	}
+	701.11.2 = {
+		add_spouse=27
+	}
+	759.6.18={
+		death=yes
+	}
+}
+42 = {
+	name=Thorismund
+	father = 19
+	mother = 27
+	dynasty = 8
+	religion=peteran_theodarity
+	culture=lyngarian
+	705.9.1={
+		birth=yes
+	}
+}
+43 = {
+	name=Sisenanda
+	female=yes
+	father = 19
+	mother = 27
+	dynasty = 8
+	religion=peteran_theodarity
+	culture=lyngarian
+	710.7.14={
+		birth=yes
+	}
+}
+20 = {
+	name=Sans
+	dynasty = 9
+	religion=peteran_theodarity
+	culture=lyngarian
+	682.3.2={
+		birth=yes
+	}
+	699.12.3 = {
+		add_spouse=28
+	}
+	768.7.12={
+		death=yes
+	}
+}
+44 = {
+	name=Theo
+	father = 20
+	mother = 28
+	dynasty = 9
+	religion=peteran_theodarity
+	culture=lyngarian
+	701.1.19={
+		birth=yes
+	}
+}
+45 = {
+	name=Ava
+	female=yes
+	father = 20
+	mother = 28
+	dynasty = 9
+	religion=peteran_theodarity
+	culture=lyngarian
+	703.4.17={
+		birth=yes
+	}
+}
+21 = {
+	name=Suneario
+	dynasty = 10
+	religion=peteran_theodarity
+	culture=lyngarian
+	683.3.14={
+		birth=yes
+	}
+	708.8.14 = {
+		add_spouse=29
+	}
+	763.2.22={
+		death=yes
+	}
+}
+46 = {
+	name=Menendo
+	father = 21
+	mother = 29
+	dynasty = 10
+	religion=peteran_theodarity
+	culture=lyngarian
+	710.2.4={
+		birth=yes
+	}
+}
+22 = {
+	name=Servanda
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	674.4.27={
+		birth=yes
+	}
+	748.7.18={
+		death=yes
+	}
+}
+23 = {
+	name=Adelgundis
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	679.3.22={
+		birth=yes
+	}
+	757.6.11={
+		death=yes
+	}
+}
+24 = {
+	name=Flamula
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	666.11.13={
+		birth=yes
+	}
+	739.2.14={
+		death=yes
+	}
+}
+25 = {
+	name=Tigridia
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	680.3.27={
+		birth=yes
+	}
+	761.8.4={
+		death=yes
+	}
+}
+26 = {
+	name=Mencia
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	681.1.7={
+		birth=yes
+	}
+	763.3.3={
+		death=yes
+	}
+}
+27 = {
+	name=Marquessa
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	684.8.16={
+		birth=yes
+	}
+	762.8.1={
+		death=yes
+	}
+}
+28 = {
+	name=Sendina
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	680.7.22={
+		birth=yes
+	}
+	770.8.23={
+		death=yes
+	}
+}
+29 = {
+	name=Sibilia
+	female=yes
+	religion=peteran_theodarity
+	culture=lyngarian
+	690.9.9={
+		birth=yes
+	}
+	771.10.22={
+		death=yes
+	}
+}

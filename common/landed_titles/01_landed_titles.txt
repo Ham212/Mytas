@@ -747,18 +747,30 @@ e_aurissos = {
 	
 	capital = 44 # c_veigonopole
 	culture = szespinan
-	
+
 	k_serres = {
 		color={ 30 74 193 }
 		color2={ 255 255 255 }
-		
+		allow = {
+			conditional_tooltip = {
+				OR = {
+					culture = auvedian 
+					culture = savosian
+				}
+			}
+		}
+
 		capital = 44 # c_veigonopole
 		culture = szespinan
-		
+		szespinan = "Szeres"
+		lucijan = "Szeres"
 		d_veigonopole = {
 			color={ 10 94 183 }
 			color2={ 255 255 255 }
 			
+			szespinan = "Veigonopol"
+			lucijan = "Veigonopol"
+
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -766,31 +778,79 @@ e_aurissos = {
 				}
 			}
 			capital = 44 # c_veigonopole
-			
+		
 			c_veigonopole = { # 44
 				color={ 0 104 178 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Veigonopol"
+				lucijan = "Veigonopol"
+
+
 				b_lampsokampos = {
+					
+					szespinan = "Lapsak"
+					lucijan = "Lapsak"
+
+
 				}
 				b_veigonopole = {
+	
+					szespinan = "Veigonopol"
+					lucijan = "Veigonopol"
+
+
 				}
 				b_tomegea = {
+
+					szespinan = "Tomeg"
+					lucijan = "Tomeg"
+
+
 				}
 				b_thermynthus = {
+					
+					szespinan = "Tszermin"
+					lucijan = "Tszermin"
+
+
 				}
 				b_kerkeion = {
+				
+					szespinan = "Kerk"
+					lucijan = "Kerk"
+
+
 				}
 				b_amburii = {
+					
+					szespinan = "Amubri"
+					lucijan = "Amubri"
+
+
 				}
 			}
 			c_solactus = { # 45
 				color={ 7 108 175 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Czelac"
+				lucijan = "Czelac"
+
+
 				b_solactus = {
+
+					szespinan = "Czelac"
+					lucijan = "Czelac"
+
+
 				}
 				b_zanclorion = {
+		
+					szespinan = "Zanklor"
+					lucijan = "Zanklor"
+
+
 				}
 				b_kouriraki = {
 				}
@@ -805,13 +865,37 @@ e_aurissos = {
 				color={ 10 109 175 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Traponiev"
+				lucijan = "Traponiev"
+
+
 				b_tripoinion = {
+	
+					szespinan = "Traponiev"
+					lucijan = "Traponiev"
+
+
 				}
 				b_abdeum = {
+
+					szespinan = "Abedem"
+					lucijan = "Abedem"
+
+
 				}
 				b_rhodampos = {
+	
+					szespinan = "Rodampsz"
+					lucijan = "Rodampsz"
+
+
 				}
 				b_corceiros = {
+					
+					szespinan = "Corcetz"
+					lucijan = "Corcetz"
+
+
 				}
 				b_iasyma = {
 				}
@@ -820,13 +904,37 @@ e_aurissos = {
 				color={ 3 106 175 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Vatesz"
+				lucijan = "Vatesz"
+
+
 				b_vathaistos = {
+
+					szespinan = "Vatesz"
+					lucijan = "Vatesz"
+
+
 				}
 				b_odorion = {
+	
+					szespinan = "Odoriev"
+					lucijan = "Odoriev"
+
+
 				}
 				b_phocikon = {
+					
+					szespinan = "Psolic"
+					lucijan = "Psolic"
+
+
 				}
 				b_eleutapolis = {
+	
+					szespinan = "Eletapol"
+					lucijan = "Eletapol"
+
+
 				}
 			}
 		}
@@ -834,6 +942,10 @@ e_aurissos = {
 			color={ 34 106 178 }
 			color2={ 255 255 255 }
 			
+			szespinan = "Maratec"
+			lucijan = "Maratec"
+
+
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -846,13 +958,37 @@ e_aurissos = {
 				color={ 24 116 173 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Maratec"
+				lucijan = "Maratec"
+
+
 				b_athagas = {
+
+					szespinan = "Atagasz"
+					lucijan = "Atagasz"
+
+
 				}
 				b_marathos = {
+					
+					szespinan = "Maratec"
+					lucijan = "Maratec"
+
+
 				}
 				b_epidoupoli = {
+
+					szespinan = "Epidopol"
+					lucijan = "Epidopol"
+
+
 				}
 				b_gournoinon = {
+					
+					szespinan = "Gornoriev"
+					lucijan = "Gornoriev"
+
+
 				}
 				b_pantagra = {
 				}
@@ -861,7 +997,16 @@ e_aurissos = {
 				color={ 20 114 173 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Golgoriev"
+				lucijan = "Golgoriev"
+
+
 				b_golgopeion = {
+
+				szespinan = "Golgoriev"
+				lucijan = "Golgoriev"
+
+
 				}
 				b_lapelea = {
 				}
@@ -872,9 +1017,23 @@ e_aurissos = {
 				color={ 17 112 175 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Latiasz"
+				lucijan = "Latiasz"
+
+
 				b_latias = {
+
+				szespinan = "Latiasz"
+				lucijan = "Latiasz"
+
+
 				}
 				b_cythaca = {
+
+				szespinan = "Czintaks"
+				lucijan = "Czintaks"
+
+
 				}
 				b_karkenai = {
 				}
@@ -886,6 +1045,10 @@ e_aurissos = {
 			color={ 48 109 178 }
 			color2={ 255 255 255 }
 			
+			szespinan = "Tszuri"
+			lucijan = "Tszuri"
+
+
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -898,13 +1061,32 @@ e_aurissos = {
 				color={ 38 119 173 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Tszuri"
+				lucijan = "Tszuri"
+
+
 				b_thuryma = {
+
+				szespinan = "Tszuri"
+				lucijan = "Tszuri"
+
+
 				}
 				b_lsomnos = {
 				}
 				b_aphea = {
+
+				szespinan = "Alszea"
+				lucijan = "Alszea"
+
+
 				}
 				b_naucreucia = {
+
+				szespinan = "Nakrets"
+				lucijan = "Nakrets"
+
+
 				}
 				b_milesia = {
 				}
@@ -913,26 +1095,64 @@ e_aurissos = {
 				color={ 35 119 175 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Barolev"
+				lucijan = "Barolev"
+
+
 				b_baroli = {
+
+				szespinan = "Barolev"
+				lucijan = "Barolev"
+
+
 				}
 				b_kamarous = {
+
+				szespinan = "Kamarev"
+				lucijan = "Kamarev"
+
+
 				}
 				b_phererae = {
+
+				szespinan = "Efera"
+				lucijan = "Efera"
+
+
 				}
 				b_phasarnassus = {
+
+				szespinan = "Alszarn"
+				lucijan = "Alszarn"
+
+
 				}
 			}
 			c_lebidon = { # 52
 				color={ 41 120 173 }
 				color2={ 255 255 255 }
 				
+				szespinan = "Lebidev"
+				lucijan = "Lebidev"
+
+
 				b_lebidon = {
+
+				szespinan = "Lebidev"
+				lucijan = "Lebidev"
+
+
 				}
 				b_braurelea = {
 				}
 				b_lamesia = {
 				}
 				b_petsamahos = {
+
+				szespinan = "Pestam"
+				lucijan = "Pestam"
+
+
 				}
 			}
 		}
@@ -1803,8 +2023,9 @@ e_carrisia = {
 			c_cansk = { # 2
 				color={ 255 163 163 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Saneska"
 				b_czansk = {
+					lyngarian="Saneska"
 				}
 				b_ansis = {
 				}
@@ -1861,12 +2082,15 @@ e_carrisia = {
 			c_dalibor = { # 12
 				color={ 255 107 107 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Daliporti"
 				b_dalibor = {
+					lyngarian="Daliporti"
 				}
 				b_brezske = {
+					lyngarian="Breseca"
 				}
 				b_vysova = {
+					lyngarian="Visevia"
 				}
 				b_hloca = {
 				}
@@ -1878,7 +2102,7 @@ e_carrisia = {
 			c_hyrkania = { # 11
 				color={ 255 112 112 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Ircania"
 				b_sogaria = {
 				}
 				b_alaviv = {
@@ -1961,14 +2185,17 @@ e_carrisia = {
 		d_ildovica = {
 			color={ 245 96 81 }
 			color2={ 255 255 255 }
-			
+			allow = {
+					is_republic = yes
+					merchant_republic = yes
+				}
 			allow = {
 				OR = {
 					lower_tier_than = KING
 					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 province_id = 54 province_id = 55 } }
 				}
 			}
-			capital = 7 # c_treporti
+			capital = 8 # c_treporti
 			
 			c_treporti = { # 7
 				color={ 255 86 86 }
@@ -1993,9 +2220,9 @@ e_carrisia = {
 				color={ 255 71 71 }
 				color2={ 255 255 255 }
 				
-				b_adosinda = {
-				}
 				b_cniva = {
+				}
+				b_adosinda = {
 				}
 				b_brandila = {
 				}
@@ -2007,7 +2234,7 @@ e_carrisia = {
 			c_avirias = { # 8
 				color={ 255 79 79 }
 				color2={ 255 255 255 }
-				
+
 				b_avirias = {
 				}
 				b_salegno = {
@@ -2153,11 +2380,11 @@ e_carrisia = {
 		
 		capital = 19 # c_rilkymet
 		culture = szespinan
-		
+		lyngarian="Esfernia"
 		d_szespin = {
 			color={ 163 23 38 }
 			color2={ 255 255 255 }
-			
+			lyngarian="Cota"
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2169,31 +2396,39 @@ e_carrisia = {
 			c_rilkymet = { # 19
 				color={ 153 33 33 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Rilcii"
 				b_komaszice = {
+					lyngarian="Comassia"
 				}
 				b_rylkymet = {
+					lyngarian="Rilcii"
 				}
 				b_varpavarda = {
 				}
 				b_sanlau = {
+					lyngarian="Sanla"
 				}
 				b_gbesina = {
+					lyngarian="Gabessia"
 				}
 			}
 			c_arsultacz = { # 22
 				color={ 153 39 39 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Arssulta"
 				b_arsultacz = {
+					lyngarian="Arssulta"
 				}
 				b_dudsta = {
+					lyngarian="Dusta"
 				}
 				b_barrita = {
 				}
 				b_zistovo = {
+					lyngarian="Sistovia"
 				}
 				b_mipovo = {
+					lyngarian="Miopo"
 				}
 			}
 			c_cota = { # 21
@@ -2201,6 +2436,7 @@ e_carrisia = {
 				color2={ 255 255 255 }
 				
 				b_zalin = {
+					lyngarian="Salin"
 				}
 				b_cota = {
 				}
@@ -2209,21 +2445,25 @@ e_carrisia = {
 				b_strako = {
 				}
 				b_kubluk = {
+					lyngarian="Cubles"
 				}
 			}
 			c_zanic = { # 20
 				color={ 153 30 30 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Sancii"
 				b_zanic = {
+					lyngarian="Sancii"
 				}
 				b_cisnalonta = {
 				}
 				b_leva = {
 				}
 				b_szilasz = {
+					lyngarian="Silas"
 				}
 				b_zsyiita = {
+					lyngarian="Cijeta"
 				}
 				b_melmet = {
 				}
@@ -2232,7 +2472,7 @@ e_carrisia = {
 		d_adrezen = {
 			color={ 163 69 84 }
 			color2={ 255 255 255 }
-			
+			lyngarian="Adressa"
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2252,14 +2492,16 @@ e_carrisia = {
 				b_duve = {
 				}
 				b_mesznik = {
+					lyngarian="Messic"
 				}
 				b_veliszik = {
+					lyngarian="Velis"
 				}
 			}
 			c_adrezen = { # 28
 				color={ 153 76 76 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Adressa"
 				b_naogaon = {
 				}
 				b_droresti = {
@@ -2272,10 +2514,12 @@ e_carrisia = {
 				color2={ 255 255 255 }
 				
 				b_mihaihoi = {
+					lyngarian="Mirai"
 				}
 				b_sabin = {
 				}
 				b_handve = {
+					lyngarian="Andue"
 				}
 				b_brasebes = {
 				}
@@ -2302,18 +2546,22 @@ e_carrisia = {
 				b_cervinja = {
 				}
 				b_prejov = {
+					lyngarian="Pregor"
 				}
 				b_dubava = {
+			
 				}
 				b_zilne = {
+					lyngarian="Silne"
 				}
 				b_trboszkem = {
+					lyngarian="Terbo"
 				}
 			}
 			c_alzen = { # 31
 				color={ 153 45 45 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Alsenia"
 				b_respa = {
 				}
 				b_sigesar = {
@@ -2322,7 +2570,7 @@ e_carrisia = {
 			c_myszin = { # 30
 				color={ 153 52 52 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Misin"
 				b_vigas = {
 				}
 				b_ablab = {
@@ -2336,7 +2584,7 @@ e_carrisia = {
 		d_dunavec = {
 			color={ 163 54 69 }
 			color2={ 255 255 255 }
-			
+			lyngarian="Dunoc"
 			allow = {
 				OR = {
 					lower_tier_than = KING
@@ -2348,25 +2596,30 @@ e_carrisia = {
 			c_dunavec = { # 23
 				color={ 153 64 64 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Dunoc"
 				b_dunavec = {
+					lyngarian="Dunoc"
 				}
 				b_ruclaw = {
+					lyngarian="Ruclovia"
 				}
 				b_tudna = {
 				}
 				b_soroga = {
 				}
 				b_vuzin = {
+					lyngarian="Vuzine"
 				}
 			}
 			c_bobrozan = { # 24
 				color={ 153 67 67 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Bobros"
 				b_szillava = {
+					lyngarian="Silavia"
 				}
 				b_bobrozan = {
+					lyngarian="Bobros"
 				}
 				b_aninic = {
 				}
@@ -2376,14 +2629,16 @@ e_carrisia = {
 			c_ostronec = { # 25
 				color={ 153 61 61 }
 				color2={ 255 255 255 }
-				
+				lyngarian="Ostronecii"
 				b_kedska = {
 				}
 				b_ostronec = {
+					lyngarian="Ostronecii"
 				}
 				b_lebezan = {
 				}
 				b_veterszicka = {
+					lyngarian="Verter"
 				}
 			}
 		}
@@ -2394,7 +2649,7 @@ e_carrisia = {
 		
 		capital = 32 # c_stepanya
 		culture = martirosyan
-		
+		martirosyan = "Martirosya"
 		d_stepanya = {
 			color={ 214 55 70 }
 			color2={ 255 255 255 }

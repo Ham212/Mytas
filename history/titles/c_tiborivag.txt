@@ -1,8 +1,9 @@
 # e_transamrian
-500.1.1={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege = d_tyras
 }
-700.1.1={
-	liege=k_kalda
+668.3.14={
+	liege=d_dzaghig
 }

@@ -1,0 +1,18 @@
+101 ={
+	name="Varakezh"
+	culture="cyvodic"
+	religion="tertari"
+	used_for_random = no
+}
+102 ={
+	name="Finuyat"
+	culture="cyvodic"
+	religion="tertari"
+	used_for_random = no
+}
+103 ={
+	name="Tyusht"
+	culture="cyvodic"
+	religion="tertari"
+	used_for_random = no
+}

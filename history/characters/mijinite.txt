@@ -1,0 +1,24 @@
+5001 = {
+	name=Aleksandr
+	dynasty = 501
+	religion=bogovinist_theodarity
+	culture=mijinite
+	688.3.17={
+		birth=yes
+	}
+	737.4.5={
+		death=yes
+	}
+}
+5011 = {
+	name=Hovsep
+	dynasty = 502
+	religion=bogovinist_theodarity
+	culture=mijinite
+	679.4.12={
+		birth=yes
+	}
+	729.2.3={
+		death=yes
+	}
+}

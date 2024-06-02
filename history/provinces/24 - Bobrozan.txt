@@ -6,9 +6,9 @@ title = c_bobrozan
 # Settlements
 max_settlements = 4
 
-b_szillava = castle
-b_bobrozan = city
-#b_aninic = temple
+b_szillava = tribal
+b_bobrozan = temple
+#b_aninic = city
 #b_sikcsa = castle
 
 # Misc

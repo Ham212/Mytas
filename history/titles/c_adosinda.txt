@@ -1,7 +1,13 @@
 # d_ildovica
-500.1.1={
-	liege=k_lyngaria
+581.11.8={
+	law = agnatic_succession
+	law = succ_gavelkind
+	liege = d_ildovica
 }
-700.5.28={
-	liege=k_treporti
+679.10.4 = {
+	liege = d_cyvodia
+	holder = 1002
+}
+694.11.18={
+	holder = 1001
 }

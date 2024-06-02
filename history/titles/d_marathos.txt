@@ -1,8 +1,12 @@
 # e_aurissos
-500.1.1={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege = k_lucija #holder is some lyngarian dude
 }
-700.1.1={
-	liege=k_serres
+651.7.13={
+	liege = k_szespin
+}
+682.10.13={
+	holder = 3020
 }

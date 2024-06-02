@@ -1,4 +1,0 @@
-700.5.28={
-	law = succ_patrician_elective
-	holder = 20
-}

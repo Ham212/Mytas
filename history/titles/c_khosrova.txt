@@ -1,10 +1,12 @@
 # k_cyvod
-700.5.28={
-	liege = d_khosrova
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
-	holder = 15
+	liege = d_khosrova
 }
-712.9.4={
-	holder = 17
+643.5.14 = {
+	liege = d_dzaghig
+}
+712.11.28={
+	holder = 5001
 }

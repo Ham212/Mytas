@@ -1,0 +1,12 @@
+501 = {
+	name="Abirados"
+	culture="mijinite"
+	religion="bogovinist_theodarity"
+	used_for_random = no
+}
+502 = {
+	name="Sahagos"
+	culture="mijinite"
+	religion="bogovinist_theodarity"
+	used_for_random = no
+}

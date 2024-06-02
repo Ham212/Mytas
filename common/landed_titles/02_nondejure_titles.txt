@@ -1,16 +1,30 @@
 k_cyvod = {
 		color={ 0 120 192 }
 		color2={ 0 0 0 }
+		capital = 11
+		tribe = yes
+
 }
-k_treporti = {
+k_szespin = {
+		color={ 192 120 0 }
+		color2={ 0 0 0 }
+		tribe = yes
+
+}
+
+k_ildovica = {
 		color={ 36 122 0 }
 		color2={ 0 0 0 }
+		capital = 7 #c_treporti
+		title="ildo_title"
+		foa="ildo_foa"
+		title_prefix="ildo_prefix"
 	allow = {
 		is_republic = yes
 		merchant_republic = yes
 	}
 }
-#family palaces
+#family palaces for k_treporti
 b_colias = {
 	culture = lyngarian
 	religion = peteran_theodarity
@@ -31,3 +45,16 @@ b_winguric = {
 	culture = lyngarian
 	religion = peteran_theodarity
 }
+b_galin = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_alar = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+b_engracid = {
+	culture = lyngarian
+	religion = peteran_theodarity
+}
+

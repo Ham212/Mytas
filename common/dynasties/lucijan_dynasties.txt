@@ -1,0 +1,12 @@
+201 ={
+	name="Adamev"
+	culture="lucijan"
+	religion="kaszesrian"
+	used_for_random = no
+}
+202 ={
+	name="Kolomanev"
+	culture="lucijan"
+	religion="kaszesrian"
+	used_for_random = no
+}

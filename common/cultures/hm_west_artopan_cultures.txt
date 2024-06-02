@@ -84,7 +84,7 @@ amiran = {
 		}
 		female_names = {
 			Adriana_Adriana Anna_Anna Borislava Cededa Doroteja_Dorothy Ekaterina_Catherine Helena_Helen Jadviga_Hedwig Jovana_Joan Kera Ladika Maria_Maria Mihaela_Michaela Nada Petra Viola_Yolanda Jadranka Mare
-			Antonija_Antonia Capeka Dragana Dubravka Emilija_Emily Gordana Jagoda Jelena_Helen Jelka Lucija_Lucia Katalin_Catherine Marija_Maria Marijana_Mariana Mirjana Mirna Mojca Natalija_Natalia Nataša
+			Antonija_Antonia Capeka Dragana Dubravka Emilija_Emily Gordana Jagoda Jelena_Helen Jelka Lucija_Lucia Katalin_Catherine Marija_Maria Marijana_Mariana Mirjana Mirna Mojca Natalija_Natalia Natasa
 			Rijeka Silvija_Silvia Snjezana Sofija_Sophia Suzana_Susan Svjetlana Suronja Tatjana Tihana Valerija_Valeria Vedrana Visnja Vjekoslava Zlata Zvonimira
 		}
 		
@@ -108,14 +108,14 @@ amiran = {
 		color = { 0.5 0.3 0.5 }
 
 		male_names = {
-			Bedoslav Beli Benebod Benko Bislav Blagosod Boleslav Bodigoj Bogomir Bogumil_Bogomil Bojnoslav Borigoj Borižit Borut Branimir Braslav Budigoj Budin Cestilo Cestimir Crné Crnel Crni Crnig Dalimir Danimir Debeligoj Dober Dobrislav Dobrej Dobren Dobrodej Dorogoj Dobromisl Dobroneg Dobrost Dobrovlast Dobrožit Domagoj Domažil Domomir Domomisl Dragomir Dragoslav Dragovit Glavac Glušo Gnevaš Godemir Godemisl Gojen Gojimir Gojislav Golodrag Golomir Golotek Gorazd Gostibil Gostidrag Grd Hoten Hotimir Hrast Inko Izbor Jaroslav Jelen Junik Lastigoj Lastimir Lastnik Ljuban Ljubiš Ljubodrag Ljuboneg Ljubotin Ljubšin Ljutic Ljutomir Manidrag Maraš Medved Mil Milaš Milej Milo Misl Minigoj Mirigoj Miromisl Miroslav Mistibor Mistislav Nacek Naciživ Nadovid Namdrag Našemisl Nebomir Negoj Negomir Nenadej Nepokor Neško Nežir Nico Omisl Petanko Pitalo Pomik Predoslav Premil Premisl Pribibor Pribigoj Pribislav Prisnec Prisnoslav Prodan Radek Radogej Radenko Radigoj Radin Radoh Radoš Radul Radušic Sebeteh Sebibor Sebidrag Sebigoj Sebimir Semiko Skrben Slav Slavko Slavuš Sojdrag Sprejmir Stagoj Stamer Stane Stanislav Stano Stansgoj Stanon Stislav Stojan Stojce Stojdrag Stojgoj Stojmir Stradoslav Stranimir Stregomil Sujce Svegoj Sveljub Svemir Svetec Svetin Svetodrag Svetogoj Svetomir Svetoslav Scenedrag Tihodrag Tihomir Tihožit Trdac Trdogoj Trdomir Trdoslav Trebec Trebegoj Trebeš Trebibor Trebibrat Trebil Trebin Trebimir Trebišin Trebivit Trebnik Trebušnež Uncat Unislav Val Valnik Vecegoj Vecevoj Veligoj Velikne Vencegoj Venko Vilan Vitin Vitomir Vitomisl Vitogoj Vitošlav Višegoj Višemir Vladimir Vlado Voinomir Volkoj Volkun Zababerad Zadrag Zdebor Zdedrag Zdegoj Zdemir Zdeslav Zdestan Zememišl Zemeteh Zemiboned Zemidrug Zemignev Zemin Zloslav Zverce Zvergoj Zverko Železen Židislav Žilec Žitigoj Žitomir Žitomisl Žitovit Žizemir
-			Blaško Bogdan Bogoslav Božidar Božo Bojan Boril Boris Boroj Boško Branko Budislav Cvetni Cvetašin Cvetin Cvetoš Dejan Doberko Dobrilo Dobrovoj Dobroslav Dragaš Dragobrat Dražilo Dušan Godomir Gojko Gradimir Hraber Ivko Izeslav Jezerko Kazimir_Casimir Karan Kocelj Krilan Ljuben Ljubenko Liubivoj Ljubinko Ljubomir Ljuboslav Maleš Miladin Milan Milanko Milen Milenko Milevoj Milin Milinko Milislav Milovan Milorad Miloš Milun Miluš Milutin Miljen Miljko Milobrat Milodrag Mirko Mirodar Mišljen Mladen Negoš Nedeljko Ninko Nino Novko Obren Prerad Pribic Radan Radivoj Radinko Radislav Radic Radmil Radovan Radoj Radojko Radomir Radosim Radoslav Rajko Ratko Rebom Savo Slavoljub Sokol Srecan Srecko Stanko Stojadin Stojko Svetopolk_Svatopluk Šišman Šumijak Tašo Tihomil Uroš Valhun Vasoj Veselin Vecerin Vetko Vid Vidojko Vitko Vitor Vladoslav Vlatko Vojdrag Vojtek Volkašin Vratislav Zlatko Zlatoslav Zlatoust
+			Bedoslav Beli Benebod Benko Bislav Blagosod Boleslav Bodigoj Bogomir Bogumil_Bogomil Bojnoslav Borigoj BoriZit Borut Branimir Braslav Budigoj Budin Cestilo Cestimir Crne Crnel Crni Crnig Dalimir Danimir Debeligoj Dober Dobrislav Dobrej Dobren Dobrodej Dorogoj Dobromisl Dobroneg Dobrost Dobrovlast DobroZit Domagoj DomaZil Domomir Domomisl Dragomir Dragoslav Dragovit Glavac Gluso Gnevas Godemir Godemisl Gojen Gojimir Gojislav Golodrag Golomir Golotek Gorazd Gostibil Gostidrag Grd Hoten Hotimir Hrast Inko Izbor Jaroslav Jelen Junik Lastigoj Lastimir Lastnik Ljuban Ljubis Ljubodrag Ljuboneg Ljubotin Ljubsin Ljutic Ljutomir Manidrag Maras Medved Mil Milas Milej Milo Misl Minigoj Mirigoj Miromisl Miroslav Mistibor Mistislav Nacek NaciZiv Nadovid Namdrag Nasemisl Nebomir Negoj Negomir Nenadej Nepokor Nesko NeZir Nico Omisl Petanko Pitalo Pomik Predoslav Premil Premisl Pribibor Pribigoj Pribislav Prisnec Prisnoslav Prodan Radek Radogej Radenko Radigoj Radin Radoh Rados Radul Radusic Sebeteh Sebibor Sebidrag Sebigoj Sebimir Semiko Skrben Slav Slavko Slavus Sojdrag Sprejmir Stagoj Stamer Stane Stanislav Stano Stansgoj Stanon Stislav Stojan Stojce Stojdrag Stojgoj Stojmir Stradoslav Stranimir Stregomil Sujce Svegoj Sveljub Svemir Svetec Svetin Svetodrag Svetogoj Svetomir Svetoslav Scenedrag Tihodrag Tihomir TihoZit Trdac Trdogoj Trdomir Trdoslav Trebec Trebegoj Trebes Trebibor Trebibrat Trebil Trebin Trebimir Trebisin Trebivit Trebnik TrebusneZ Uncat Unislav Val Valnik Vecegoj Vecevoj Veligoj Velikne Vencegoj Venko Vilan Vitin Vitomir Vitomisl Vitogoj Vitoslav Visegoj Visemir Vladimir Vlado Voinomir Volkoj Volkun Zababerad Zadrag Zdebor Zdedrag Zdegoj Zdemir Zdeslav Zdestan Zememisl Zemeteh Zemiboned Zemidrug Zemignev Zemin Zloslav Zverce Zvergoj Zverko Zelezen Zidislav Zilec Zitigoj Zitomir Zitomisl Zitovit Zizemir
+			Blasko Bogdan Bogoslav BoZidar BoZo Bojan Boril Boris Boroj Bosko Branko Budislav Cvetni Cvetasin Cvetin Cvetos Dejan Doberko Dobrilo Dobrovoj Dobroslav Dragas Dragobrat DraZilo Dusan Godomir Gojko Gradimir Hraber Ivko Izeslav Jezerko Kazimir_Casimir Karan Kocelj Krilan Ljuben Ljubenko Liubivoj Ljubinko Ljubomir Ljuboslav Males Miladin Milan Milanko Milen Milenko Milevoj Milin Milinko Milislav Milovan Milorad Milos Milun Milus Milutin Miljen Miljko Milobrat Milodrag Mirko Mirodar Misljen Mladen Negos Nedeljko Ninko Nino Novko Obren Prerad Pribic Radan Radivoj Radinko Radislav Radic Radmil Radovan Radoj Radojko Radomir Radosim Radoslav Rajko Ratko Rebom Savo Slavoljub Sokol Srecan Srecko Stanko Stojadin Stojko Svetopolk_Svatopluk Sisman Sumijak Taso Tihomil Uros Valhun Vasoj Veselin Vecerin Vetko Vid Vidojko Vitko Vitor Vladoslav Vlatko Vojdrag Vojtek Volkasin Vratislav Zlatko Zlatoslav Zlatoust
 			Grega Jurij Jab Nebojsa Lars Ferdo Doroe Radivoj Joza Rozle Bruno Maj Herman Deni Antonio Jadran Danijel Iztok Cvetko Semsudin Mario Danilo Matjaz Vinko Faton Jadran Bosko Ruben Zvone Dorian Elvir Tihomir Dubravko Kostja Savo Cene Nik Arnel Taras Arne Branko Hidajet Ozbej Misel Dejvid Vane Sakib Rado Adriano Zivan Florjan Miljan Emilijan Brane Dimitrij Ambroz Senad Andreas Ajdin Marjo Nedo Jelenko Jasa Vilko Zak Gaj Metod Franeisek Mohor Stanko Igor Marko Urh Milan Miro Natan Sinisa Mitko Slavoljub Domen Julian Jadranko Emrah Vaso
 		}
 
 		female_names = {
-			Bega Bela Belica Beliša Bitinja Blagica Bogumila Boželisa Branka Bratina Bratrica Budislava Crna Dobrava Dobrica Dobrilka Dobrinja Dobrota Dobrožica Dobrožižna Dobruška Dolgodelka Domnega Dražica Godeslava Gojica Gosta Gostinja Gostiša Govica Jaronega Jaroslava Jelena Ladana Laduta Lastuša Lazica Lepa Ljuba Ljubiha Ljubonega Ljubonja Ljubota Ljuta Ljutica Mala Manidraga Miljena Mislena Mirica Mirna Miroslava Nedeljka Negota Odola Pacemira Predobra Pribila Pribina Pribislava Prisnoba Prisnota Radonja Semika Slava Slavka Slovenka Sobemisla Stanila Stanislava Stislava Stojana Stojina Straha Stranka Svetoslava Tešina Težkona Tihica Tihomira Tihonja Tonislava Topa Trebenja Trebica Trebina Ubislava Vevera Vidina Vilana Volcina Volkinja Volkonja Volkota Vranica Zemidraga Zenislava Zla Zlativenca Zleslava Zverica Zverinja Zverka Židana Živina
-			Bistra Bogdana Boža Bojana Bosiljka Brajna Cveta Cvetana Cudna Danica Daša Deva Dejana Divna Dobrana Dobrija Draga Dragica Golobica Gorislava Gradislava Granislava Grozda Grozdana Grobiša Ivka Jagoda Janja Jasna Jela Jelenka Kazimira Kalina Kosana Košuta Krilana Lilijana Ljubica Ljubomira Ljuboslava Maleša Malina Malinka Mila Milena Milislava Milica Milojka Milunka Miluša Milja Miljana Miljka Mira Mirca Mirjana Mica Mišljena Morava Neda Nišava Novica Ogrinja Pavica Prodana Rada Radana Radojka Rajka Sava Slavica Smiljana Stana Stanimir Stanka Stojna Tankosa Tankosava Tonka Vesela Vida Vidojka Vidoslava Volkoslava Volcica Zlatkoka Zorana Zorka Zvezdana Živkoka
+			Bega Bela Belica Belisa Bitinja Blagica Bogumila BoZelisa Branka Bratina Bratrica Budislava Crna Dobrava Dobrica Dobrilka Dobrinja Dobrota DobroZica DobroZiZna Dobruska Dolgodelka Domnega DraZica Godeslava Gojica Gosta Gostinja Gostisa Govica Jaronega Jaroslava Jelena Ladana Laduta Lastusa Lazica Lepa Ljuba Ljubiha Ljubonega Ljubonja Ljubota Ljuta Ljutica Mala Manidraga Miljena Mislena Mirica Mirna Miroslava Nedeljka Negota Odola Pacemira Predobra Pribila Pribina Pribislava Prisnoba Prisnota Radonja Semika Slava Slavka Slovenka Sobemisla Stanila Stanislava Stislava Stojana Stojina Straha Stranka Svetoslava Tesina TeZkona Tihica Tihomira Tihonja Tonislava Topa Trebenja Trebica Trebina Ubislava Vevera Vidina Vilana Volcina Volkinja Volkonja Volkota Vranica Zemidraga Zenislava Zla Zlativenca Zleslava Zverica Zverinja Zverka Zidana Zivina
+			Bistra Bogdana BoZa Bojana Bosiljka Brajna Cveta Cvetana Cudna Danica Dasa Deva Dejana Divna Dobrana Dobrija Draga Dragica Golobica Gorislava Gradislava Granislava Grozda Grozdana Grobisa Ivka Jagoda Janja Jasna Jela Jelenka Kazimira Kalina Kosana Kosuta Krilana Lilijana Ljubica Ljubomira Ljuboslava Malesa Malina Malinka Mila Milena Milislava Milica Milojka Milunka Milusa Milja Miljana Miljka Mira Mirca Mirjana Mica Misljena Morava Neda Nisava Novica Ogrinja Pavica Prodana Rada Radana Radojka Rajka Sava Slavica Smiljana Stana Stanimir Stanka Stojna Tankosa Tankosava Tonka Vesela Vida Vidojka Vidoslava Volkoslava Volcica Zlatkoka Zorana Zorka Zvezdana Zivkoka
 			Zalka Nija Milena Iko Anamari Romina Lidija Enja Indira Spela Meta Gorana Semira Loredana Dora Marjana Olivera Rasima Vesna Damijana Vlasta Lucija Verica Elica Janina Dervisa Dorica Ernesta Jerneja Sasa Bosilkja Drita Nerina Anastazija Boja Armina Klaudia Smiljana Nada Timea Amelija Vilma Sonja Brankica Sladjana Zofka Jerica Ilona Ramiza Slavojka Monika Lueka Senka Hanka Masa Alena Melanja Tita Amira Rozika Breda Milanka Danka Veselka Nika Darka Klara Maya Grozdana Lucia Roza Pavla Sanija Bronislava Neza Aneta Hata Stana
 		}
 
@@ -180,7 +180,7 @@ doroconan = {
 		
 		male_patronym = "fi"
 		prefix = no
-
+		dukes_called_kings = yes
 		allow_looting = yes
 
 		modifier = default_culture_modifier
@@ -211,7 +211,7 @@ doroconan = {
 		
 		male_patronym = "fi"
 		prefix = no
-
+		dukes_called_kings = yes
 		allow_looting = yes
 
 		modifier = default_culture_modifier
@@ -223,17 +223,17 @@ doroconan = {
 		color = { 0.5 0.6 0.3 }
 
 		male_names = {
-			Ábel_Abel Ádárn Ágoston_Augustine Álmos Árpád Õdön_Otto Alajos Ambrus_Ambrosius András_Andrew Antal Attila Bálint Béla_Albert Balázs Benedek_Benedict Bernát_Bernard Bertók Bertalan_Bartolomeus Boldizsár_Baltasar Bonuslo
-			Borisz_Boris Csák Csaba Csongor Dénes_Denis Dömötör_Demetrius Dezsõ_Desiderius Domoszló Donát_Donatus Elek Elemér Endre_Andrew Ernõ_Ernest Fulöp_Philip Ferenc_Francis Frigyes_Frederick Gábor_Gabriel Gábriel_Gabriel Gáspár_Caspar Géza Gazsi
-			Gellért_Gerard Gergely_Gregory György_George Gyula Imre István_Stephen Izsák_Isaac Jákob_Jacob János_John József_Joseph Jenõ Kálmán Károly_Charles Konrád_Konrad Kornél_Cornelius Kristóf_Christopher László_Vladislav Lázár_Lazarus Lõrinc_Laurence Lajos_Louis
-			Lampert_Lambert Levente Lukács_Luke Márk_Marcus Márton_Martin Máté_Matthew Mátyás_Matthew Móric_Maurice Mózes_Moses Mihály_Michael Miklós_Nicholas Nándor_Ferdinand Orbán_Urban Oszkár_Oscar Pál_Paul Péter_Peter Sámuel_Samuel Sándor_Alexander Salamon_Solomon Saul Soma
-			Szilveszter_Silvester Tádor_Theodore Tacsony Tamás_Thomas Tibor Tivadar Vazul_Basil Vencel_Vaclav Vilmos_William Zoltán Zsigmond_Sigmund Zsolt 
+			Abel_Abel Adarn Agoston_Augustine Almos Arpad Õdön_Otto Alajos Ambrus_Ambrosius Andras_Andrew Antal Attila Balint Bela_Albert Balazs Benedek_Benedict Bernat_Bernard Bertek Bertalan_Bartolomeus Boldizsar_Baltasar Bonuslo
+			Borisz_Boris Csak Csaba Csongor Denes_Denis Dömötör_Demetrius Dezso_Desiderius Domoszle Donat_Donatus Elek Elemer Endre_Andrew Erno_Ernest Fulöp_Philip Ferenc_Francis Frigyes_Frederick Gabor_Gabriel Gabriel_Gabriel Gaspar_Caspar Geza Gazsi
+			Gellert_Gerard Gergely_Gregory György_George Gyula Imre Istvan_Stephen Izsak_Isaac Jakob_Jacob Janos_John Jezsef_Joseph Jeno Kalman Karoly_Charles Konrad_Konrad Kornel_Cornelius Kristef_Christopher Laszle_Vladislav Lazar_Lazarus Lorinc_Laurence Lajos_Louis
+			Lampert_Lambert Levente Lukacs_Luke Mark_Marcus Marton_Martin Mate_Matthew Matyas_Matthew Meric_Maurice Mezes_Moses Mihaly_Michael Mikles_Nicholas Nandor_Ferdinand Orban_Urban Oszkar_Oscar Pal_Paul Peter_Peter Samuel_Samuel Sandor_Alexander Salamon_Solomon Saul Soma
+			Szilveszter_Silvester Tador_Theodore Tacsony Tamas_Thomas Tibor Tivadar Vazul_Basil Vencel_Vaclav Vilmos_William Zoltan Zsigmond_Sigmund Zsolt 
 		}
 		female_names = {
-			Ágnes_Agnes Éva_Eva Adelaida_Adelaide Agáta_Agatha Amália_Amelia Angyalka_Angela Anikó_Anna Aranka_Aurelia Berta_Bertha Borbála_Barbara Csilla_Csilla Csillag_Csilla Czenzi Dorottya_Dorothy Edit_Edith Emõke Emese Erika Erzsébet_Elizabeth Eszter_Esther
-			Etel Euphemia_Euphemia Gizella_Gisela Györgyi_Georgia Hajnal Hedwig_Hedwig Ibolya_Yolanda Ildikó_Hildegard Illona Irén_Irene Jácinta_Hyacintha Józsa_Josepha Júlia_Julia Jolán Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga_Kunigunde Klára_Clara
-			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca_Lucia Mária_Maria Márta_Martha Magdolna_Magdalena Margaréta_Margaret Margit_Margaret Matild_Matilda Natália_Natalia Odola Orsolya_Ursula Panni_Anna Piroska_Priscilla Rózsa_Rosa Sára_Sarah Sarolt
-			Skolasztika_Scholastica Sophia_Sophia Tundér Terezia_Teresa Viola_Yolanda Virág Zoltána Zsófia_Sophia Zsanett_Joan Zsuzsa_Susan
+			Agnes_Agnes Éva_Eva Adelaida_Adelaide Agata_Agatha Amalia_Amelia Angyalka_Angela Anike_Anna Aranka_Aurelia Berta_Bertha Borbala_Barbara Csilla_Csilla Csillag_Csilla Czenzi Dorottya_Dorothy Edit_Edith Emoke Emese Erika Erzsebet_Elizabeth Eszter_Esther
+			Etel Euphemia_Euphemia Gizella_Gisela Györgyi_Georgia Hajnal Hedwig_Hedwig Ibolya_Yolanda Ildike_Hildegard Illona Iren_Irene Jacinta_Hyacintha Jezsa_Josepha Julia_Julia Jolan Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga_Kunigunde Klara_Clara
+			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca_Lucia Maria_Maria Marta_Martha Magdolna_Magdalena Margareta_Margaret Margit_Margaret Matild_Matilda Natalia_Natalia Odola Orsolya_Ursula Panni_Anna Piroska_Priscilla Rezsa_Rosa Sara_Sarah Sarolt
+			Skolasztika_Scholastica Sophia_Sophia Tunder Terezia_Teresa Viola_Yolanda Virag Zoltana Zsefia_Sophia Zsanett_Joan Zsuzsa_Susan
 		}
 		
 		dynasty_name_first = yes
@@ -242,7 +242,7 @@ doroconan = {
 		
 		male_patronym = "fi"
 		prefix = no
-
+		dukes_called_kings = yes
 		allow_looting = yes
 
 		modifier = default_culture_modifier
@@ -384,37 +384,37 @@ afinskan = {
 		color = { 0.3 0.35 0.1 }
 
 		male_names = {
-			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bextîyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
-			Cehanšah_Jahanshah Cemšîd_Jamshid Cevid_Javeed Danûš_Danush Darab Daryûš_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Efšer_Afshar Ehmed_Ahmad Ehsan
-			Ekber_Akbar Elî_Ali Enûširwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erdešîr_Ardeshir Esfendiyar_Esfandiar
-			Eskander_Alexander Ešot_Ashot Eyyub_Job Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Ferîd_Farid
-			Ferîdun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Goštasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
-			Hesen_Hasan Hisên_Hussein Hormoz Hosen_Hussein Humayun Hurmiz_Hormazd Îsmaîl_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kâvus_Kavoos
-			Kûrušê_Cyrus Mamlan_Muhammad Mashad Mehmûd_Mahmud Mehrab Mehrzad Mensûr_Mansur Menûçihr_Manuchihr Menûšihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mesûd_Masud
-			Mihemed_Muhammad Mîrza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
-			Nesr_Nasr Nezam Nošîrwan_Nawshirwan Nêçîrvan_Nechirwan Parviz Pujman Pêšeng_Pashang Pîroz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
-			Vahhab Vahid Vahusdan_Wahustan Vali Varšasp_Varshasb Vîštap_Vishtasb Xarmandar_Kharmandar Xašayar_Khashayar 
-			Xuršîd_Khurshid Xusrew_Khosrau Xušyar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yezîd_Yazid Yousef Zahak Zakaria_Zachary Zand Zerdešt_Zartosht Zia
-			Šadî_Shadhi Šahab_Shahab Šahbaz_Shahbaz Šahenšah_Shahanshah Šahin_Shahin Šahram_Shahram Šahryar_Shahryar Šahrux_Shahrokh Šahruz_Shahruz Šapur_Shapur Šarvin_Sharwin Šawur_Shavur Šayan_Shayan Šîrkûh_Shirkuh
+			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek_Babak Bahman Behrad Behram_Bahram Behrouz Bextiyar_Bakhtiar Bozorg Cehandar_Jahandar Cehangir_Jahangir
+			Cehansah_Jahanshah Cemsid_Jamshid Cevid_Javeed Danus_Danush Darab Daryus_Darius Davud_David Ebrahim_Abraham Efrasiyab_Afrasiyab Efser_Afshar Ehmed_Ahmad Ehsan
+			Ekber_Akbar Eli_Ali Enusirwan_Anushirvan Erdehan_Ardahan Erdewan_Ardavan Erdesir_Ardeshir Esfendiyar_Esfandiar
+			Eskander_Alexander Esot_Ashot Eyyub_Job Feramez_Faramarz Feraz_Faraz Fath Ferhad_Farhad Ferhan_Farhan Ferheng_Farhang Feriburz_Fariborz Ferid_Farid
+			Feridun_Feridun Ferux_Farroukh Feruxzad_Farrukhzad Ferzad_Farzad Fezl_Fadl Fezlun_Fadlun Firdews_Ferdows Ghobad Gholam Godarz Gostasp_Goshtasb Hezarhesp_Hazarasp Hafez Hedayat
+			Hesen_Hasan Hisen_Hussein Hormoz Hosen_Hussein Humayun Hurmiz_Hormazd Îsmail_Ismail Kambiz Kamran Keyghobad Keyxusrew_Keykhosrau Kâvus_Kavoos
+			Kuruse_Cyrus Mamlan_Muhammad Mashad Mehmud_Mahmud Mehrab Mehrzad Mensur_Mansur Menuçihr_Manuchihr Menusihr_Manushihr Merwan_Marwan Merzuban_Marzuban Mesud_Masud
+			Mihemed_Muhammad Mirza_Mirza Mistefa_Mustafa Murad_Morad Morteza Mozaffar Nard Naveed Nawid Nesir_Nazir
+			Nesr_Nasr Nezam Nosirwan_Nawshirwan Neçirvan_Nechirwan Parviz Pujman Peseng_Pashang Piroz_Peroz Revend_Rawwad Reza Ruhollah Rustam_Rostam Sadri Salman Sina Surxap_Surkhab Tahmasp_Tahmasb
+			Vahhab Vahid Vahusdan_Wahustan Vali Varsasp_Varshasb Vistap_Vishtasb Xarmandar_Kharmandar Xasayar_Khashayar 
+			Xursid_Khurshid Xusrew_Khosrau Xusyar_Hooshyar Xwedadad_Khodadad Xwedayar_Khudayar Yezid_Yazid Yousef Zahak Zakaria_Zachary Zand Zerdest_Zartosht Zia
+			Sadi_Shadhi Sahab_Shahab Sahbaz_Shahbaz Sahensah_Shahanshah Sahin_Shahin Sahram_Shahram Sahryar_Shahryar Sahrux_Shahrokh Sahruz_Shahruz Sapur_Shapur Sarvin_Sharwin Sawur_Shavur Sayan_Shayan Sirkuh_Shirkuh
 		}
 
 		female_names = {
-			Adan Adar Ara Ardil Arezo Arezu Ariyan Arêz Arîman Arîn Asan Asteng Asê Avan Azadî Azrîn Aštî Badil Bahar Balnexšîn Banê Barîn Bawan Baziyan Bazê Befraw Befrîn Begîxan Belalûk Belqis
-			Belîcan Benav Benaz Berbijîn Berdar Berdil Bersîn Berîcan Bexšîn Beyan Beybîn Beybûn Bezîn Bihar Bijîn Bilêse Binar Binav Binefš Binevš Biyan Biškoj Biškurîn Bohar Bênaz Bêrîcan Bêrîvan Burandoxt_Pourandokht
-			Dengîn Derav Derzîn Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkanî Dilnaz Dilvîn Dilxoš Dilxweš Diyarî Doman Dêrsim Dîlan Dîristan Esmercan Esmerxan 
-			Estêre Evîn Ewrîn Eyšan Ezcan Felek Fener Ferašîn Firmêsk Fîdan Gazî Gelavêj Gerdengaz Gozel Gozê Grîvan Guhtem Gulbehar_Golbahar Gulšen Gulnar Gulnaz_Golnaz Gêlas Helez Heliz Helvîn Hemayîl 
-			Kejê Keser Kevok Kevî Kewser Kezîzer Koçer Leylê Leymîn Lezîn Lolav Lorkê Lorî Lorîcan Lorîn Lêlav Lêvken Lîlyan Lîza Maša Mebest Mehrîban Mehrîcan Mehrîvan
-			Mejbîr Mendal Mercam Merîvan Mirarîxan Miryem_Maria Mizgîn Muhabad Mêmê Mêrdîn Mêxek Mîdya Mîran Narîman Narîncan Navbihar Nawxoš Naz Nazdar Nazenîn Nazgul_Nazgol Nazik Naznaz Nazê Nermê Nermîn Nesrîn Newbohar Nexšîn
-			Nešmîl Nešmîn Norcan Nêrgiz Nêrîn Nêzîk Nîdar Nîgar Nîroj Nîšan Nîštîman Perjîn Pervîn Perwane_Parvaneh Perwîn Perçem Perî Perîgul Perînaz Perîxan Perîšan Pexšan Peyman Pirjîn Piršeng Piršing Pore Poršeng Pêlîn Pîroz Pîšeng 
-			Rana Rengîn Rewša Rewšen Rihan Rindê Rojhelat Rojê Ronahî Ronak Rondik Rêjîn Rêzan Rîhan Rîken Rûciwan Rûgeš Rûken Rûzerîn Sarê Serbar Sercan Serferaz Serfiraz Sergul Serçinar Seyran Xatûn 
-			Xêlîcan Xonçe_Ghoncheh Zernîšan Zerya Zerê Zerî Zerîxan Zeytîn Zeytûn Zilfê Zoya Zozan Zêrîn Zîlan Zînet Zînê Šana Šanaz Šayan Šehrîban Šelal Šemam Šengê Šepal Šepirze Šermîn Ševba Ševîn Šêlaz Šîlan Šînî Šîwen
+			Adan Adar Ara Ardil Arezo Arezu Ariyan Arez Ariman Arin Asan Asteng Ase Avan Azadi Azrin Asti Badil Bahar Balnexsin Bane Barin Bawan Baziyan Baze Befraw Befrin Begixan Belaluk Belqis
+			Belican Benav Benaz Berbijin Berdar Berdil Bersin Berican Bexsin Beyan Beybin Beybun Bezin Bihar Bijin Bilese Binar Binav Binefs Binevs Biyan Biskoj Biskurin Bohar Benaz Berican Berivan Burandoxt_Pourandokht
+			Dengin Derav Derzin Desmal Devken Dilar Dilaram Dilare Dilawaz Dilber Dilcan Dildar Dilgerm Dilistan Dilkani Dilnaz Dilvin Dilxos Dilxwes Diyari Doman Dersim Dilan Diristan Esmercan Esmerxan 
+			Estere Evin Ewrin Eysan Ezcan Felek Fener Ferasin Firmesk Fidan Gazi Gelavej Gerdengaz Gozel Goze Grivan Guhtem Gulbehar_Golbahar Gulsen Gulnar Gulnaz_Golnaz Gelas Helez Heliz Helvin Hemayil 
+			Keje Keser Kevok Kevi Kewser Kezizer Koçer Leyle Leymin Lezin Lolav Lorke Lori Lorican Lorin Lelav Levken Lilyan Liza Masa Mebest Mehriban Mehrican Mehrivan
+			Mejbir Mendal Mercam Merivan Mirarixan Miryem_Maria Mizgin Muhabad Meme Merdin Mexek Midya Miran Nariman Narincan Navbihar Nawxos Naz Nazdar Nazenin Nazgul_Nazgol Nazik Naznaz Naze Nerme Nermin Nesrin Newbohar Nexsin
+			Nesmil Nesmin Norcan Nergiz Nerin Nezik Nidar Nigar Niroj Nisan Nistiman Perjin Pervin Perwane_Parvaneh Perwin Perçem Peri Perigul Perinaz Perixan Perisan Pexsan Peyman Pirjin Pirseng Pirsing Pore Porseng Pelin Piroz Piseng 
+			Rana Rengin Rewsa Rewsen Rihan Rinde Rojhelat Roje Ronahi Ronak Rondik Rejin Rezan Rihan Riken Ruciwan Ruges Ruken Ruzerin Sare Serbar Sercan Serferaz Serfiraz Sergul Serçinar Seyran Xatun 
+			Xelican Xonçe_Ghoncheh Zernisan Zerya Zere Zeri Zerixan Zeytin Zeytun Zilfe Zoya Zozan Zerin Zilan Zinet Zine Sana Sanaz Sayan Sehriban Selal Semam Senge Sepal Sepirze Sermin Sevba Sevin Selaz Silan Sini Siwen
 		}
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
-		male_patronym = "kurê "
-		female_patronym = "kiçê "
+		male_patronym = "kure "
+		female_patronym = "kiçe "
 		prefix = yes
 
 		modifier = default_culture_modifier
@@ -469,16 +469,16 @@ valan = {
 			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric
 			Albano Alberico Alberto_Albert Albino Alboino_Alwin Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antonius Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre
 			Atenolfo_Atenulf Attilio Augusto_August Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso
-			Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno_Bruno Bruto Buonconte
+			Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabo_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno_Bruno Bruto Buonconte
 			Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement
-			Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante_Constans Costantino_Constantine Costanzo_Constantius Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic
+			Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante_Constans Costantino_Constantine Costanzo_Constantius Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Domenico_Dominic
 			Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto_Faustus Federigo_Frederick
 			Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo
 			Galeotto Gaspare_Caspar Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John
 			Giberto Gilberto_Gilbert Giolio_Julius Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy
 			Guigliadore Iacopo_Jacob Igino Innocenzo_Innocent Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus
 			Lealdo Leonardo_Leonard Leone_Leo Leonello_Lionel Leopoldo_Leopold Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Luigi_Louis Malacresta Manfredo Manuele_Manuel
-			Marco_Marcus Mariano_Marius Marino_Marinus Mario_Marius Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas
+			Marco_Marcus Mariano_Marius Marino_Marinus Mario_Marius Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolo_Nicholas Nicola_Nicholas
 			Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio_Octavius Ottobono Ottone_Otto Pagano_Pagan Pancrazio_Pancras Pandolfo_Randolph Paolo_Paul Pasquale_Pascal
 			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland
 			Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio_Sergius Sesto_Sextus Settimio_Septimus Severino_Severin Severo_Severus
@@ -561,14 +561,14 @@ valan = {
 
 		male_names = {
 			Abisatu Adàmu_Adam Adriànu_Adrian Alaverru_Oliver Albertu_Albert Albu Alessandru_Alexander
-			Alfonsu_Alphonse Ambròsu_Ambrose Andria_Andrew Antine_Constantine Antiogu Antòni_Anthony Antoninu_Antoninus
+			Alfonsu_Alphonse Ambrosu_Ambrose Andria_Andrew Antine_Constantine Antiogu Antoni_Anthony Antoninu_Antoninus
 			Armannu_Herman Arrammundu_Raymond Arzoccu Austinu_August Austu_August Baldu Barisoni_Barison Bartholumeu_Bartolomeus
 			Barumini Barusone_Barison Basili_Basil Bassu Batkillu Benedettu_Benedict Bernardu_Bernard Bigenzu Bissente_Vincent
 			Bonnannaro Bustianu_Sebastian Carlus_Charles Carule_Charles Celestìnu_Celestin Cipare Clementi_Clement
 			Comita_Comita Corona Corràdu_Konrad Costantìnu_Constantine Crabiele_Gabriel Cristolu_Christopher
 			Danelu_Daniel Dominigu_Dominic Egizu Enzu_Henry Evisu Fabritziu_Fabrice Floru Franku_Francis Frevare Furadiza Furatu
 			Gabini_Gabin Gabinu_Gabin Gajetànu_Caetan Gallu Gasparru_Caspar Gavini Gitimel Giuanne_John Giustinu_Justin Giustu
-			Gonariu_Gunnar Gòsamu_Cosmo Gosantinu_Constantine Grabrielle_Gabriel Granuzu Gregoriu_Gregory Guantine_Constantine Guglielmu_William
+			Gonariu_Gunnar Gosamu_Cosmo Gosantinu_Constantine Grabrielle_Gabriel Granuzu Gregoriu_Gregory Guantine_Constantine Guglielmu_William
 			Iginu Ignatziu_Ignatius Istevene_Stephen Ittocorre Izocor Jacopu_Jacob Jagu Jerone_Jerome Jisepu_Joseph Juanne Kipriane Kiprianu
 			Larentu_Lawrence Leonardu_Leonard Lisandru_Alexander Loce Luca_Lucas Lucia_Lucas Lussuria Manfredu_Manfred
 			Mankia Marcu_Marcus Marianu_Marius Massimilla Matia_Matthias Mauru_Mauro Mazeu_Matthew Micheli_Michael Migali_Michael
@@ -641,7 +641,7 @@ aric = {
 			Aaliyah Aamina Aamira Aaqila Aarifa Aazzi Adelah_Adela Adiba Adilah Adilia Adiva Adjan Aeesha Aesha Aisha Amira Badeea Badia Badra Bahac
 			Bahiyya Bajila Bakka Baraah Barakah Baria Bashira Basilie Basima Basimah Bghnat Bibya Bilqis Cala Canh'a Cantara D'r'ifa Daisha Dalal Dasin
 			Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka_Eleanor Faghissa Fahriya Fariza Fedada Fer'r'udja Gedduda Ghida Ghnima Guraya Gwejda H'edda
-			Hadiya Hawwa Hemu Herru Iija Iiju Ittû Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta
+			Hadiya Hawwa Hemu Herru Iija Iiju Ittu Izza Jaida Jdira Jeddjiga Kahina Kamila Kanimana Kella Kenwa Kisa Kulla Kwella Lalla Laysa Lem'an Lemta
 			Lumsi Lunja Lwiza Lyaqut Mamma Massa Meghighda Melek Menna Menza Mernissa Monica_Monica Myassa Najiba R'uza Ra'isa Rahima Randja Rula Sadiqa
 			Salaama Sekkura Siddiqa Silya Siman T'awes T'item Tadefi Tadla Tadmut Tafrara Tafsut Tagwillult Taheyyatt Takama Taklit Talalit Taljat Tament
 			Tamimunt Tamrust Tanaszart Tanebdatt Tanefzawit Tanest Taninna Tarifa Tariwelt Tasa Tasa'fut Taszellayt Tatbirt Tati Taweckint Tawenza Tawnat

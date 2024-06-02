@@ -9,12 +9,12 @@ max_settlements = 6
 b_czansk = castle
 b_ansis = city
 b_alath = temple
-#b_thoris = castle
+b_thoris = castle
 #b_meria = city
 #b_moncadica = temple
 
 # Misc
-culture = cyvodic
-religion = tertari
+culture = lyngarian
+religion = peteran_theodarity
 
 #History

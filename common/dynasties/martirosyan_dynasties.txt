@@ -1,0 +1,12 @@
+401 = {
+	name="Egeniosi"
+	culture="martirosyan"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+402 = {
+	name="Iakobios"
+	culture="martirosyan"
+	religion="peteran_theodarity"
+	used_for_random = no
+}

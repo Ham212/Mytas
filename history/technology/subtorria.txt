@@ -1,371 +1,238 @@
-technology = {#7
+#Nicatorrian/Valan Empire remnants
+
+technology = { 
 	titles = {
-		c_aveirta
-		c_karis
-		c_nakleonica
-		c_nanice
+		d_nord_valda
+		d_granporte
+		d_traneium
+		d_kourias
+		d_altymosia
+		d_alagasiaeia
+		d_avedessa
 	}
-	700 = {
-		military = 3.8
-		economy = 3.8
-		culture = 3.8
+	
+	712 = {
+		military = 1.2		
+		economy = 1.5
+		culture = 1.5
+		TECH_RECRUITMENT = 3
+		TECH_CASTLE_CONSTRUCTION = 3
+		TECH_CITY_CONSTRUCTION = 3
+		TECH_CONSTRUCTION = 3
+		TECH_MAJESTY = 2
+		TECH_LEGALISM = 3
 	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-technology = {#6
-	titles = {
-		c_alagasz
-		c_treporti
-		c_orchanthus
-		c_altymos
-		c_alereggio
-		c_syragno
-		c_pracino
-		c_areliani
-		c_saltuzo
-		c_pavola
-		c_amago
-		c_avitivi
-		c_talvati
-		c_castelvecchio
-		c_mosheddin
-		c_mozia
-		c_vallicella
-	}
-	700 = {
-		military = 3.4
-		economy = 3.4
-		culture = 3.4
-	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-technology = {#5
-	titles = {
-		c_didicea
-		c_agheida
-		c_leyre
-		c_pelerikon
-		c_actessos
-		c_hieralos
-		c_iasox
-		c_lourola
-		c_girodura
-		c_piviso
-		c_perustosia
-		c_lenduo
-		c_verugia
-		c_girostile
-		c_ascogna
-		c_picelermo
-		c_arrinenze
-		c_riova
-		c_caltasello
-		c_ercopoli
-		c_tocia
-		c_prazara
-		c_aveisa
-		c_levianno
-		c_maramori
-		c_scarlatta
-		c_augusta
-		c_veii
-		c_boscaril
-		c_pyleron
-		c_semyria
-		c_veigonopole
-	}
-	700 = {
-		military = 2.6
-		economy = 2.6
-		culture = 2.6
-	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-technology = {#4
-	titles = {
-		c_zanic
-		c_solactus
-		c_dez
-		c_omukapi
-		c_ilinbeyli
-		c_olythepios
-		c_rajhada
-		c_kasbir
-		c_ezzahtour
-		c_barata
-		c_corcespiae
-		c_hiererma
-		c_nireucia
-		c_hyblos
-		c_thassita
-		c_eleutespontos
-		c_olympena
-		c_iasynthos
-		c_sicigona
-		c_egatsi
-		c_tivosoria
-		c_syrallegno
-		c_aveigre
-		c_amatri
-		c_nealonghi
-		c_vigera
-		c_resinde
-		c_scaserta
-		c_tolenresa
-		c_alcarro
-		c_voriani
-		c_igemelli
-		c_moncafati
-		c_tagola
-		c_viceggio
-		c_brirbo
-		c_braria
-		c_farrati
-		c_senia
-		c_segomadura
-		c_vessetta
-		c_caprera
-		c_pretara
-		c_croton
-		c_bonenia
-		c_camerinum
-		c_messambria
-		c_tuder
-		c_tenedo
-		c_illici
-		c_sempronium
-		c_callatis
-		c_vetera
-		c_phocastro
-		c_pixarnacia
-		c_odithos
-		c_demyria
-		c_cnidaros
-		c_decontum
-		c_namoudoz
-		c_bozakot
-		c_hilartuz
-		c_primorekin
-		c_zukaluz
-	}
-	700 = {
-		military = 1.6
-		economy = 1.6
-		culture = 1.6
-	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
-}
-technology = {#3
-	titles = {
-		c_cansk
-		c_rilkymet
-		c_tripoinion
-		c_marathos
-		c_thuryma
-		c_marasa
-		c_cerissu
-		c_skarjiq
-		c_carizquale
-		c_delvaz
-		c_parwiz
-		c_badekli
-		c_nusattin
-		c_guzepinari
-		c_rabahir
-		c_ashni
-		c_kadulaib
-		c_ad_dascha
-		c_shehit
-		c_khrouliana
-		c_nalin
-		c_tyras
-		c_elja
-		c_avirias
-		c_asterilla
-		c_steydia
-		c_zatrissa
-		c_ampheuterna
-		c_dymydon
-		c_lygia
-		c_verios
-		c_tanera
-		c_lampsetros
-		c_psezus
-		c_melanderios
-		c_kydarina
-		c_naucricapaeum
-		c_askorven
-		c_svec
-		c_rmoutiz
-		c_pletanek
-		c_opustil
 		
+}
+#Nakleonica
+
+technology = { 
+	titles = {
+		d_kasmysthonia
+	}
+
+	712 = {
+		military = 1.2
+		economy = 1.5
+		culture = 1.5
+		TECH_RECRUITMENT = 4
+		TECH_CASTLE_CONSTRUCTION = 3
+		TECH_CITY_CONSTRUCTION = 4
+		TECH_FORTIFICATIONS_CONSTRUCTION = 3.5
+		TECH_CONSTRUCTION = 3
+		TECH_MAJESTY = 3
+		TECH_LEGALISM = 4
+	}
 		
-	}	
-	700 = {
-		military = 1.0
+
+}
+
+#Valan+ildovica
+
+technology = {
+	titles = {
+		d_aveirta
+		d_segna
+		d_lenduagna
+		d_nanizia
+		d_jenuvigna
+		d_aureliani
+		d_isole_dei_valani
+		d_caleta
+		d_moesigna
+		d_onero
+		d_massigno
+		d_passiganti
+		d_montenarri
+		d_ildovica
+	}
+	712 = {
+		military = 0.75
 		economy = 1.0
 		culture = 1.0
+		TECH_CASTLE_CONSTRUCTION = 1.9
+		TECH_CITY_CONSTRUCTION = 2.2
+		TECH_FORTIFICATIONS_CONSTRUCTION = 2.0
+		TECH_CONSTRUCTION = 2
+
+		TECH_RELIGIOUS_CUSTOMS = 2
+		TECH_INFANTRY = 1
 	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
-	}
+
 }
-technology = {#2
+
+#Nicatorrian Outskirts
+
+technology = {
 	titles = {
-		c_lower_kastiid
-		c_upper_kastiid
-		c_adosinda
-		c_hyrkania
-		c_dalibor
-		c_cota
-		c_arsultacz
-		c_dunavec
-		c_bobrozan
-		c_metel
-		c_strazpina
-		c_cervinja
-		c_stepanya
-		c_sapra
-		c_gomidas
-		c_khosrova
-		c_dzaghig
-		c_vathaistos
-		c_latias
-		c_golgopeion
-		c_lebidon
-		c_baroli
-		c_maras
-		c_haiqban
-		c_guzler
-		c_atara
-		c_arpaqui
-		c_abuter
-		c_baquji
-		c_mallanzala
-		c_kazen
-		c_saasaniyas
-		c_at_tarnah
-		c_gilan
-		c_xira
-		c_lavargan
-		c_ctesirkuk
-		c_gokotton
-		c_golbahan
-		c_konuculha
-		c_dedernas
-		c_teymur
-		c_jirost
-		c_xaneme
-		c_ahislu
-		c_bayatah
-		c_fernarouj
-		c_el_kecha
-		c_khalil
-		c_dahmafour
-		c_moslal
-		c_mahset
-		c_afrad
-		c_el_geli
-		c_terada
-		c_jaset
-		c_tobtan
-		c_thefla
-		c_shahte
-		c_trari
-		c_jaha
-		c_berbat
-		c_bababelat
-		c_vaksandri
-		c_starikan
-		c_joroltan
-		c_variscksri
-		c_veresen
-		c_acksabel
-		c_aspar
-		c_altinado
-		c_ostovia
-		c_mercania
-		c_yezras
-		c_berj
-		
-	}	
-	700 = {
+		d_actessos
+		d_hyblonia
+		d_thebasia
+		d_esterikhos
+		d_veigonopole
+		d_szespin
+		d_chamicea
+		d_magnidaea
+		d_thuryma
+		d_marathos
+	}
+
+	712 = {
+		military = 0.6		
+		economy = 0.9
+		culture = 0.9
+		TECH_RECRUITMENT = 2
+		TECH_CASTLE_CONSTRUCTION = 2
+		TECH_CITY_CONSTRUCTION = 2
+		TECH_CONSTRUCTION = 2
+		TECH_MAJESTY = 1
+		TECH_LEGALISM = 1
+	}
+
+}
+#Lyngaria
+
+technology = {
+	titles = {
+		d_leyre
+		d_martirosya
+		d_stepanya
+		d_sapra
+		d_ibba
+		d_mercania
+		d_khosrova
+	}
+
+	712 = {
 		military = 0.5
-		economy = 0.5
-		culture = 0.5
-	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+		economy = 0.85
+		culture = 1.0
+		
+		TECH_INFANTRY = 1
+		TECH_MELEE = 0.75
+		TECH_FORTIFICATIONS_CONSTRUCTION = 1
+		TECH_CASTLE_CONSTRUCTION = 1
 	}
 }
-technology = {#1
+
+#Sikssayu
+
+technology = {
 	titles = {
-		c_ostronec
-		c_adrezen
-		c_myszin
-		c_alzen
-		c_cibria
-		c_avedis
-		c_ragheni
-		c_ohaneus
-		c_marut
-		c_zadiad
-		c_yehorivka
-		c_pazanbey
-		c_cayika
-		c_thayna
-		c_suzougha
-		c_ajdaan
-		c_tenkech
-		c_el_qahagha
-		c_tahud
-		c_rishita
-		c_oraliana
-		c_touggara
-		c_sokliya
-		c_ifrale
-		c_medagana
-		c_tabaned
-		c_fedanin
-		c_guemaret
-		c_nerata
-		c_nelin
-		c_yafte
-		c_teboubet
-		c_tiborivag
-		c_lunaraks
-		c_botondicksi
-		c_csonkal
-	}	
-	700 = {
-		military = 0.2
-		economy = 0.2
-		culture = 0.2
+		d_ahenka
+		d_skarjiq
+		d_delvaz
+		d_arpaqui
+		d_dez
+		d_parwiz
+		d_gilan
+		d_gerendira
+		d_gokotton
+		d_taidair
+		d_teymur
+		d_xaneme
 	}
-	2500 = {
-		military = 5.0
-		economy = 5.0
-		culture = 5.0
+
+	712 = {
+		military = 0.75
+		economy = 1.2
+		culture = 1.5
+		
+		TECH_INFANTRY = 1
+		TECH_CAVALRY = 1
+		TECH_CASTLE_CONSTRUCTION = 1.9
+		TECH_CITY_CONSTRUCTION = 2.2
+		TECH_FORTIFICATIONS_CONSTRUCTION = 2.0
+		TECH_CONSTRUCTION = 1
 	}
 }
+
+#Subtorrian inlands
+
+technology = {
+	titles = {
+		d_minezad_zopalan
+		d_mezerolan
+		d_varis
+		d_tyras
+		d_adrezen
+		d_cervinja
+		d_cyvodia
+		d_dzaghig
+		d_deakesz
+	}
+	
+	712 = {
+		military = 0.2
+		economy = 0.1
+		culture = 0.15
+		
+	}
+	
+}
+#Not-so-shithole shitholes
+technology = {
+	titles = {
+		d_dunavec
+		d_selezak
+		d_sortzanar
+	}
+	
+	712 = {
+		military = 0.45		
+		economy = 0.55
+		culture = 0.5
+		TECH_RECRUITMENT = 2
+		TECH_CASTLE_CONSTRUCTION = 2
+		TECH_CITY_CONSTRUCTION = 2
+		TECH_CONSTRUCTION = 2
+		TECH_MAJESTY = 1
+		TECH_LEGALISM = 1
+	}
+
+}
+#City states
+
+technology = {
+	titles = {
+		d_mefsourah
+		d_bahber
+		d_tajubiya
+		d_coleniari
+		d_el_geli
+	}
+
+	712 = {
+		military = 0.75
+		economy = 1.5
+		culture = 1.5
+		
+		TECH_NAVAL = 1.75
+	}
+		
+
+}
+
+#Hordes of Kanta
+
+

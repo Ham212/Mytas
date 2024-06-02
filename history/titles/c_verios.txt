@@ -1,8 +1,8 @@
 # e_carrisia
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+581.11.8={
+	liege = k_lyngaria
 }
-700.1.1={
-	liege=k_lyngaria
+712.11.15={
+	liege = k_ildovica
+	holder = 20
 }

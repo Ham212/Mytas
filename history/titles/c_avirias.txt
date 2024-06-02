@@ -1,7 +1,8 @@
 # d_ildovica
-500.1.1={
-	liege=k_lyngaria
+581.11.8={
+	liege = k_lyngaria
 }
-700.5.28={
-	liege=k_treporti
+712.11.15={
+	liege = k_ildovica
+	holder = 19
 }

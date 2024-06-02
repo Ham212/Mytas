@@ -1,8 +1,8 @@
 # d_ildovica
-500.1.1={
+581.11.8={
 	liege=k_lyngaria
 }
-700.5.28={
-	liege=0
+712.11.15={
+	liege = 0
 	holder = 0
 }

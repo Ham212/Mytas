@@ -1,0 +1,24 @@
+4001 = {
+	name=Achila 
+	dynasty = 401
+	religion=peteran_theodarity
+	culture=martirosyan
+	680.7.1={
+		birth=yes
+	}
+	735.2.3={
+		death=yes
+	}
+}
+4011 = {
+	name=Achila 
+	dynasty = 402
+	religion=peteran_theodarity
+	culture=martirosyan
+	684.3.17={
+		birth=yes
+	}
+	742.10.30={
+		death=yes
+	}
+}

@@ -1,0 +1,516 @@
+2034 = {
+	name=Adam #Father
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	598.3.12={
+		birth=yes
+	}
+	617.2.6={
+		add_spouse = 2035
+	}
+	647.7.2={
+		death=yes
+	}
+}
+2035 = {
+	name=Rijeka #Mother
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	597.8.2={
+		birth=yes
+	}
+	653.4.17={
+		death=yes
+	}
+}
+2036 = {
+	name=Emilija #Sister
+	dynasty = 201
+	father = 2034
+	mother = 2035
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	628.5.16={
+		birth=yes
+	}
+	688.4.11={
+		death=yes
+	}
+}
+2001 = {
+	name=Bartol #First King of Lucija
+	father = 2034
+	mother = 2035
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	give_nickname = nick_the_fearless
+	618.2.21={
+		birth=yes
+	}
+	662.6.14={
+		death=yes
+	}
+}
+2002 = {
+	name=Adriana
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	619.8.12={
+		birth=yes
+	}
+	636.4.22 ={
+		add_spouse = 2001
+	}
+	648.2.5={
+		death = {death_reason = death_suicide}
+	}
+}
+2003 = {
+	name=Capeka
+	dynasty = 201
+	father = 2001
+	mother = 2002
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	639.7.11={
+		birth=yes
+	}
+	655.6.7={
+		add_spouse = 2001
+	}
+	657.3.7={
+		death = {death_reason = death_childbirth}
+	}
+}
+2004 = {
+	name=Anna
+	dynasty = 201
+	father = 2001
+	mother = 2002
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	643.4.14={
+		birth=yes
+	}
+	715.7.6={
+		death = yes
+	}
+}
+2005 = {
+	name=Sofija
+	dynasty = 201
+	father = 2001
+	mother = 2002
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	645.11.7={
+		birth=yes
+	}
+	721.12.1={
+		death = yes
+	}
+}
+2006 = {
+	name=Ivan
+	father = 2001
+	mother = 2003
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	657.3.7={
+		birth=yes
+	}
+	675.6.12={
+		add_spouse = 2011
+	}
+	722.5.12={
+		death=yes
+	}
+}
+2017 = {
+	name=Helena #Wife of Ongjen Kolomanev
+	female = yes
+	father = 2006
+	mother = 2011
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	676.7.14={
+		birth=yes
+	}
+	743.4.16={
+		death=yes
+	}
+}
+2018 = {
+	name=Castimir
+	father = 2006
+	mother = 2011
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	678.12.11={
+		birth=yes
+	}
+	698.4.17={
+		add_spouse = 2014 #Suzana Kolomanev
+	}
+	748.5.20={
+		death=yes
+	}
+}
+2022 = {
+	name=Besar
+	father = 2018
+	mother = 2014
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	700.4.2={
+		birth=yes
+	}
+}
+2023 = {
+	name=Radomir
+	father = 2018
+	mother = 2014
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	704.6.3={
+		birth=yes
+	}
+}
+2019 = {
+	name=Jelka #Wife of Prohor Kolomanev
+	female = yes
+	father = 2006
+	mother = 2011
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	682.1.25={
+		birth=yes
+	}
+	742.3.19={
+		death=yes
+	}
+}
+2020 = {
+	name=Kresimir
+	father = 2006
+	mother = 2011
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	685.3.4={
+		birth=yes
+	}
+	704.3.7={
+		add_spouse = 2021 #Valerija
+	}
+	735.2.21={
+		death=yes
+	}
+}
+2024 = {
+	name=Dragan
+	father = 2020
+	mother = 2021
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	705.11.10={
+		birth=yes
+	}
+}
+2025 = {
+	name=Kera
+	female=yes
+	father = 2020
+	mother = 2021
+	dynasty = 201
+	religion=kaszesrian
+	culture=lucijan
+	708.3.19={
+		birth=yes
+	}
+}
+2021 = {
+	name=Valerija
+	give_nickname = nick_the_dragoness
+	female = yes
+	religion=kaszesrian
+	culture=szespinan
+	add_trait="lustful"
+	add_trait="charismatic_negotiator"
+	add_trait="fair"
+	add_trait="groomed"
+	add_trait="socializer"
+	add_trait="kind"
+	add_trait="gregarious"
+
+	688.7.12={
+		birth=yes
+	}
+	746.6.14={
+		death=yes
+	}
+}
+2007 = {
+	name=Koloman
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	633.9.1={
+		birth=yes
+	}
+	649.3.21 ={
+		add_spouse = 2008
+	}
+	701.4.4={
+		death=yes
+	}
+}
+2008 = {
+	name=Cededa
+	female=yes
+	religion=kaszesrian
+	culture=lucijan
+	634.8.11={
+		birth=yes
+	}
+	696.7.12={
+		death=yes
+	}
+}
+2009 = {
+	name=Nikolitza
+	father = 2007
+	mother = 2008
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	651.5.19={
+		birth=yes
+	}
+	667.3.21 ={
+		add_spouse = 2005
+	}
+	716.8.12={
+		death=yes
+	}
+}
+2012 = {
+	name=Ognjen
+	father = 2009
+	mother = 2005
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	670.4.12={
+		birth=yes
+	}
+	692.11.7={
+		add_spouse = 2017 #Helena Bartolev
+	}
+	728.11.10={
+		death=yes
+	}
+}
+2026 = {
+	name=Tihana
+	female=yes
+	father = 2012
+	mother = 2017
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	695.9.14={
+		birth=yes
+	}
+}
+2027 = {
+	name=Jagoda
+	female=yes
+	father = 2012
+	mother = 2017
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	699.4.9={
+		birth=yes
+	}
+}
+2028 = {
+	name=Dmitar
+	father = 2012
+	mother = 2017
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	701.8.12={
+		birth=yes
+	}
+}
+2013 = {
+	name=Borislava #Wife of Petar Kolomanev
+	female = yes
+	father = 2009
+	mother = 2005
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	672.2.1={
+		birth=yes
+	}
+	751.9.14={
+		death=yes
+	}
+}
+2014 = {
+	name=Suzana #Wife of Castimir Bartolev
+	female = yes
+	father = 2009
+	mother = 2005
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	676.3.9={
+		birth=yes
+	}
+	749.6.2={
+		death=yes
+	}
+}
+2010 = {
+	name=Vukan
+	father = 2007
+	mother = 2008
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	654.4.20={
+		birth=yes
+	}
+	670.12.2 ={
+		add_spouse = 2004
+	}
+	713.7.12={
+		death=yes
+	}
+}
+2015 = {
+	name=Petar
+	father = 2010
+	mother = 2004
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	673.7.11={
+		birth=yes
+	}
+	689.5.1={
+		add_spouse = 2013 #Borislava Kolomanev
+	}
+	736.11.10={
+		death=yes
+	}
+}
+2029 = {
+	name=Snjezana
+	female=yes
+	father = 2015
+	mother = 2013
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	694.2.23={
+		birth=yes
+	}
+}
+2030 = {
+	name=Seslav
+	father = 2015
+	mother = 2013
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	698.4.25={
+		birth=yes
+	}
+}
+2016 = {
+	name=Prohor
+	father = 2010
+	mother = 2004
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	676.4.28={
+		birth=yes
+	}
+	698.6.17={
+		add_spouse = 2019 #Jelka Bartolev
+	}
+	723.4.3={
+		death=yes
+	}
+}
+2031 = {
+	name=Mihajlo
+	father = 2016
+	mother = 2019
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	700.1.15={
+		birth=yes
+	}
+}
+2032 = {
+	name=Gheorghe
+	father = 2016
+	mother = 2019
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	704.6.2={
+		birth=yes
+	}
+}
+2033 = {
+	name=Mirna
+	female = yes
+	father = 2016
+	mother = 2019
+	dynasty = 202
+	religion=kaszesrian
+	culture=lucijan
+	706.8.6={
+		birth=yes
+	}
+}
+2011 = {
+	name=Emilija
+	father = 2007
+	mother = 2008
+	dynasty = 202
+	female = yes
+	religion=kaszesrian
+	culture=lucijan
+	659.2.23={
+		birth=yes
+	}
+	718.6.6={
+		death=yes
+	}
+}

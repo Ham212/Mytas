@@ -1,8 +1,12 @@
 # e_carrisia
-500.1.1={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
+	liege = d_dzaghig
 }
-700.1.1={
-	liege=k_mijin
+672.3.18={
+	liege = d_sapra
+}
+712.11.28={
+	holder = 5011
 }

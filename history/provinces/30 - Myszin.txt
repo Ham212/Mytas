@@ -6,13 +6,13 @@ title = c_myszin
 # Settlements
 max_settlements = 4
 
-b_vigas = castle
+b_vigas = tribal
 #b_ablab = city
 #b_fretel = temple
 #b_gouththas = castle
 
 # Misc
-culture = cyvodic
-religion = tertari
+culture = lucijan
+religion = kaszesrian
 
 #History

@@ -1,7 +1,14 @@
 # k_cyvod
-458.11.8={
+581.11.8={
 	law = agnatic_succession
 	law = succ_gavelkind
 	liege = k_lyngaria
+}
+695.3.14={
+	liege = 0 #Need to add a character
+	holder = 1009
+}
+696.12.4 = {
+	liege = k_cyvod
 }
 

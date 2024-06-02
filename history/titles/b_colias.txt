@@ -1,5 +1,5 @@
-700.5.28={
-	holding_dynasty = 8
-	liege=k_treporti
-	holder = 20
+712.11.15={
+	holding_dynasty = 5
+	liege=k_ildovica
+	holder = 16
 }

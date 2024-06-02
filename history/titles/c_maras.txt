@@ -1,8 +1,6 @@
 # e_carrisia
-500.1.1={
+581.11.8={
+	liege = d_cyvodia
 	law = agnatic_succession
 	law = succ_gavelkind
-}
-700.1.1={
-	liege=k_lyngaria
 }

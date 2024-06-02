@@ -1,0 +1,60 @@
+1 ={
+	name="Luporo"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+2 ={
+	name="Hildebrand"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+3 ={
+	name="Arimirez"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+4 ={
+	name="Avagisa"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+5 ={
+	name="Colias"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+6 ={
+	name="Valamer"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+7 ={
+	name="Winguric"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+8 ={
+	name="Galin"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+9 ={
+	name="Alar"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}
+10 ={
+	name="Engracid"
+	culture="lyngarian"
+	religion="peteran_theodarity"
+	used_for_random = no
+}

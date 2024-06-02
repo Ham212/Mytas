@@ -1,8 +1,8 @@
 # e_sikssayu
-500.1.1={
+581.11.8={
 	law = agnatic_succession
-	law = succ_gavelkind
+	law = succ_gavelkind	
 }
-700.1.1={
-	liege=k_koroush
+658.6.4={
+	liege=d_leyre
 }
