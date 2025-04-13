@@ -196,6 +196,7 @@
 	dynasty = 1
 	father = 2
 	fertility = 8.0
+	martial = 11
 	religion=peteran_theodarity
 	culture=lyngarian
 	add_trait="bastard"
