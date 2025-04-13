@@ -6,9 +6,9 @@ title = c_dunavec
 # Settlements
 max_settlements = 5
 
-b_dunavec = tribal
-b_ruclaw = temple
-#b_tudna = city
+b_dunavec = castle
+b_ruclaw = city
+#b_tudna = temple
 #b_soroga = castle
 #b_vuzin = city
 

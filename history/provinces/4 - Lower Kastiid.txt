@@ -6,14 +6,14 @@ title = c_lower_kastiid
 # Settlements
 max_settlements = 5
 
-b_kastiid = tribal
-b_lourta = temple
-#b_barcerouca = castle
-#b_lourorres = city
-#b_teles = castle
+b_kastiid = castle
+b_lourta = city
+#b_barcerouca = temple
+#b_lourorres = castle
+#b_teles = city
 
 # Misc
-culture = lyngarian
-religion = peteran_theodarity
+culture = cyvodic
+religion = tertari
 
 #History

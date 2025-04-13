@@ -6,9 +6,9 @@ title = c_verios
 # Settlements
 max_settlements = 3
 
-b_verios = city
-b_rioris = temple
-b_benigona = castle
+b_verios = castle
+b_rioris = city
+#b_benigona = temple
 
 # Misc
 culture = lyngarian

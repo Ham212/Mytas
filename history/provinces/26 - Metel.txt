@@ -6,8 +6,8 @@ title = c_metel
 # Settlements
 max_settlements = 5
 
-b_metel = tribal
-b_rebin = tribal
+b_metel = castle
+b_rebin = city
 #b_duve = temple
 #b_mesznik = castle
 #b_veliszik = city

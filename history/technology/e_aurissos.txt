@@ -1,0 +1,31 @@
+#AURISSOS
+technology = {
+	titles = {
+		d_actessos
+		d_alagasiaeia
+		d_altymosia
+		d_chamicea
+		d_esterikhos
+		d_hyblonia
+		d_kasmysthonia
+		d_kourias
+		d_magnidaea
+		d_marathos
+		d_minezad_zopalan
+		d_selezak
+		d_sortzanar
+		d_thebasia
+		d_thuryma
+		d_veigonopole
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

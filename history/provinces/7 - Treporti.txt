@@ -6,13 +6,13 @@ title = c_treporti
 # Settlements
 max_settlements = 7
 
-b_treporti = city
-b_aoric = castle
+b_treporti = castle
+b_aoric = city
 b_veduco = temple
-b_sunnia = city
-b_caseni = castle
+b_sunnia = castle
+#b_caseni = city
 #b_alcalha = temple
-#b_nasoria = city
+#b_nasoria = castle
 
 # Misc
 culture = lyngarian

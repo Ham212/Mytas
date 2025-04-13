@@ -6,10 +6,10 @@ title = c_dalibor
 # Settlements
 max_settlements = 6
 
-b_dalibor = tribal
-b_brezske = temple
-b_vysova = castle
-#b_hloca = city
+b_dalibor = castle
+b_brezske = city
+#b_vysova = temple
+#b_hloca = castle
 #b_acivorna = city
 #b_cuelva = temple
 

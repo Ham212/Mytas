@@ -1,0 +1,29 @@
+#CARRISIA
+technology = {
+	titles = {
+		d_adrezen
+		d_cervinja
+		d_cyvodia
+		d_dunavec
+		d_dzaghig
+		d_ibba
+		d_ildovica
+		d_khosrova
+		d_leyre
+		d_martirosya
+		d_mercania
+		d_sapra
+		d_stepanya
+		d_szespin
+	}
+	800 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

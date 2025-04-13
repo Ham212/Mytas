@@ -8,7 +8,7 @@ max_settlements = 4
 
 b_vigeric = castle
 b_paviles = city
-b_soscay = temple
+#b_soscay = temple
 #b_valerbella = castle
 
 # Misc

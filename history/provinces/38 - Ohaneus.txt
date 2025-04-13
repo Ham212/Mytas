@@ -6,7 +6,7 @@ title = c_ohaneus
 # Settlements
 max_settlements = 3
 
-b_ohaneus = tribal
+b_ohaneus = castle
 #b_rashteti = city
 #b_monia = temple
 
