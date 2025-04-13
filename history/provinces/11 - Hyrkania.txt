@@ -6,9 +6,9 @@ title = c_hyrkania
 # Settlements
 max_settlements = 6
 
-b_sogaria = castle
-b_alaviv = city
-#b_zaralid = temple
+b_sogaria = tribal
+b_alaviv = tribal
+#b_zaralid = city
 #b_arnegliscus = castle
 #b_castirias = city
 #b_diminas = temple

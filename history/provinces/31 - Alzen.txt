@@ -6,7 +6,7 @@ title = c_alzen
 # Settlements
 max_settlements = 2
 
-b_respa = castle
+b_respa = tribal
 #b_sigesar = city
 
 # Misc

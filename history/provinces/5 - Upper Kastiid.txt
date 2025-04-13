@@ -7,12 +7,12 @@ title = c_upper_kastiid
 max_settlements = 4
 
 b_alzigon = castle
-b_lymai = city
+b_lymai = temple
 #b_castellarsa = temple
 #b_malacia = castle
 
 # Misc
-culture = cyvodic
-religion = tertari
+culture = lyngarian
+religion = peteran_theodarity
 
 #History

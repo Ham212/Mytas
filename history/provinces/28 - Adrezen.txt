@@ -6,12 +6,12 @@ title = c_adrezen
 # Settlements
 max_settlements = 3
 
-b_naogaon = castle
+b_naogaon = tribal
 #b_droresti = city
 #b_bavica = temple
 
 # Misc
-culture = cyvodic
-religion = tertari
+culture = lucijan
+religion = kaszesrian
 
 #History

@@ -7,7 +7,7 @@ title = c_strazpina
 max_settlements = 5
 
 b_mihaihoi = castle
-b_sabin = city
+b_sabin = tribal
 #b_handve = temple
 #b_brasebes = castle
 #b_majnica = city

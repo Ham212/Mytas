@@ -6,8 +6,8 @@ title = c_cervinja
 # Settlements
 max_settlements = 5
 
-b_cervinja = castle
-b_prejov = city
+b_cervinja = tribal
+b_prejov = tribal
 #b_dubava = temple
 #b_zilne = castle
 #b_trboszkem = city
